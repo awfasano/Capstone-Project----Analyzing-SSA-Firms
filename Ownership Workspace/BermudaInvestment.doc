@@ -1,0 +1,20 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx5040\clbrdrt\brdrs\cellx6768
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx5040\cellx6768
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx6768
+\ql VARIABLES\cell\qc 3\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx5040\cellx6768
+\ql \cell\qc \cell\row
+\ql (mean) companymarketcapitalization\cell\qc 0\cell\row
+\ql \cell\qc (0)\cell\row
+\ql Constant\cell\qc 0.000652***\cell\row
+\ql \cell\qc (2.01e-06)\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 6,120\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx6768
+\ql R-squared\cell\qc 0.670\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

@@ -1,0 +1,22 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	chineseInvestmentDummy12	chineseInvestmentDummy12	chineseInvestmentDummy12	chineseInvestmentDummy12	chineseInvestmentDummy12	chineseInvestmentDummy12
+							
+pedailytimeseriesratio	(mean) pedailytimeseriesratio	-3.42e-07					
+		(1.37e-06)					
+earningspersharemean	(mean) earningspersharemean		-0.000138				
+			(0.000256)				
+lnnetincomeaftertax	lnnetincomeaftertax			0.000716**			
+				(0.000341)			
+lnRev	(mean) lnRev				5.90e-05		
+					(0.000282)		
+priceclose	(mean) priceclose					-0	
+						(0)	
+companymarketcapitalization	(mean) companymarketcapitalization						-0
+							(0)
+Constant	Constant	0.00305***	0.00532***	-0.00919	0.00160	0.00256***	0.00289***
+		(0.000785)	(0.00136)	(0.00579)	(0.00536)	(0.000621)	(0.000695)
+							
+Observations		4,937	2,873	5,249	6,269	6,636	6,221
+R-squared		0.000	0.000	0.001	0.000	0.000	0.000
+Standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

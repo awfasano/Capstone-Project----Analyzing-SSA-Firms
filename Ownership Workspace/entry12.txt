@@ -1,0 +1,22 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)	(13)	(14)	(15)	(16)	(17)	(18)
+VARIABLES	LABELS	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5	USInvestmentDummy5
+																			
+pedailytimeseriesratio	(mean) pedailytimeseriesratio	-0.124						-0.124						0.00680					
+		(0.102)						(0.102)						(0.00552)					
+earningspersharemean	(mean) earningspersharemean		-8.219						-8.219						-0.595				
+			(7.724)						(7.724)						(0.616)				
+lnnetincomeaftertax	lnnetincomeaftertax			-1.350						-1.350						0.101			
+				(1.731)						(1.731)						(0.326)			
+lnRev	(mean) lnRev				0.127						0.127						0.102		
+					(1.041)						(1.041)						(0.272)		
+priceclose	(mean) priceclose					-0.376						-0.376						-0.0318	
+						(0.187)						(0.187)						(0.0424)	
+companymarketcapitalization	(mean) companymarketcapitalization						-1.64e-09						-1.64e-09						-1.40e-10
+							(1.38e-09)						(1.38e-09)						(1.09e-10)
+Constant	Constant	2,017***	2,016***	2,038***	2,012***	2,017***	2,016***	2,017***	2,016***	2,038***	2,012***	2,017***	2,016***	2,015***	2,016***	2,013***	2,014***	2,016***	2,016***
+		(2.182)	(2.820)	(29.61)	(20.80)	(1.341)	(1.521)	(2.182)	(2.820)	(29.61)	(20.80)	(1.341)	(1.521)	(0.631)	(0.632)	(5.868)	(5.536)	(0.605)	(0.619)
+																			
+Observations		7	4	7	7	7	7	7	4	7	7	7	7	89	87	89	115	116	115
+R-squared		0.226	0.361	0.108	0.003	0.447	0.220	0.226	0.361	0.108	0.003	0.447	0.220	0.017	0.011	0.001	0.001	0.005	0.015
+Standard errors in parentheses																			
+*** p<0.01, ** p<0.05, * p<0.1																			

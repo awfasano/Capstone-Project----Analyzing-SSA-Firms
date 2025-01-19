@@ -1,0 +1,30 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx5040\clbrdrt\brdrs\cellx7920\clbrdrt\brdrs\cellx10800\clbrdrt\brdrs\cellx13680\clbrdrt\brdrs\cellx16560\clbrdrt\brdrs\cellx19440\clbrdrt\brdrs\cellx22320
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\qc (6)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx5040\cellx7920\cellx10800\cellx13680\cellx16560\cellx19440\cellx22320
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx7920\clbrdrb\brdrs\cellx10800\clbrdrb\brdrs\cellx13680\clbrdrb\brdrs\cellx16560\clbrdrb\brdrs\cellx19440\clbrdrb\brdrs\cellx22320
+\ql VARIABLES\cell\qc USInvestmentDummy12\cell\qc USInvestmentDummy12\cell\qc USInvestmentDummy12\cell\qc USInvestmentDummy12\cell\qc USInvestmentDummy12\cell\qc USInvestmentDummy12\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx5040\cellx7920\cellx10800\cellx13680\cellx16560\cellx19440\cellx22320
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql (mean) pedailytimeseriesratio\cell\qc -1.71e-06\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql \cell\qc (4.53e-06)\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql (mean) earningspersharemean\cell\qc \cell\qc 5.78e-05\cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql \cell\qc \cell\qc (0.000729)\cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql lnnetincomeaftertax\cell\qc \cell\qc \cell\qc 0.00435***\cell\qc \cell\qc \cell\qc \cell\row
+\ql \cell\qc \cell\qc \cell\qc (0.00110)\cell\qc \cell\qc \cell\qc \cell\row
+\ql (mean) lnRev\cell\qc \cell\qc \cell\qc \cell\qc 0.00597***\cell\qc \cell\qc \cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc (0.000955)\cell\qc \cell\qc \cell\row
+\ql (mean) priceclose\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc -0\cell\qc \cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc (0)\cell\qc \cell\row
+\ql (mean) companymarketcapitalization\cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc 0***\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc (0)\cell\row
+\ql Constant\cell\qc 0.0343***\cell\qc 0.0442***\cell\qc -0.0425**\cell\qc -0.0804***\cell\qc 0.0311***\cell\qc 0.0288***\cell\row
+\ql \cell\qc (0.00259)\cell\qc (0.00387)\cell\qc (0.0187)\cell\qc (0.0181)\cell\qc (0.00213)\cell\qc (0.00234)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 4,937\cell\qc 2,873\cell\qc 5,249\cell\qc 6,269\cell\qc 6,636\cell\qc 6,221\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx7920\clbrdrb\brdrs\cellx10800\clbrdrb\brdrs\cellx13680\clbrdrb\brdrs\cellx16560\clbrdrb\brdrs\cellx19440\clbrdrb\brdrs\cellx22320
+\ql R-squared\cell\qc 0.000\cell\qc 0.000\cell\qc 0.003\cell\qc 0.006\cell\qc 0.000\cell\qc 0.003\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

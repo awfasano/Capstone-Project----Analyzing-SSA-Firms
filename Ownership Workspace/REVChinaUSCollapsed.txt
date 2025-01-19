@@ -1,0 +1,16 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	Year country firm FE	Year country firm FE	Year country firm FE	Year country firm FE	Year country firm FE	Year country firm FE
+							
+chinaDummy	chinaDummy	0.263**	0.263**	0.123	0.123	0.263***	0.263***
+		(0.117)	(0.117)	(0.118)	(0.118)	(0.0682)	(0.0682)
+USDummy	USDummy	-0.0192	-0.0192				
+		(0.0555)	(0.0555)				
+o.USDummy	USDummy = o,			-	-		
+							
+Constant	Constant	18.88***	18.88***	19.25***	19.25***	18.87***	18.87***
+		(0.00557)	(0.00557)	(0.0372)	(0.0372)	(0.000562)	(0.000562)
+							
+Observations		6,171	6,171	143	143	6,183	6,183
+R-squared		0.901	0.901	0.986	0.986	0.902	0.902
+Robust standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

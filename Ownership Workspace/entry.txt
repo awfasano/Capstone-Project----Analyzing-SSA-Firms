@@ -1,0 +1,22 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)
+VARIABLES	LABELS	var'	var'	var'	var'	var'	var'	var'	var'	var'	var'	var'	var'
+													
+pedailytimeseriesratio	(mean) pedailytimeseriesratio	-7.96e-07						-2.31e-07					
+		(3.32e-06)						(1.76e-06)					
+earningspersharemean	(mean) earningspersharemean		-0.000157						-3.44e-05				
+			(0.000530)						(0.000161)				
+lnnetincomeaftertax	lnnetincomeaftertax			0.00400***						-0.000349			
+				(0.000842)						(0.000455)			
+lnRev	(mean) lnRev				0.00499***						0.000553		
+					(0.000679)						(0.000384)		
+priceclose	(mean) priceclose					-0						-0	
+						(0)						(0)	
+companymarketcapitalization	(mean) companymarketcapitalization						0***						-0
+							(0)						(0)
+Constant	Constant	0.0181***	0.0229***	-0.0494***	-0.0781***	0.0151***	0.0145***	0.00503***	0.00210**	0.0110	-0.00537	0.00478***	0.00549***
+		(0.00189)	(0.00280)	(0.0143)	(0.0129)	(0.00149)	(0.00166)	(0.00100)	(0.000852)	(0.00771)	(0.00729)	(0.000844)	(0.000944)
+													
+Observations		4,977	2,896	5,292	6,323	6,689	6,275	4,978	2,897	5,293	6,324	6,690	6,276
+R-squared		0.000	0.000	0.004	0.008	0.000	0.001	0.000	0.000	0.000	0.000	0.000	0.000
+Standard errors in parentheses													
+*** p<0.01, ** p<0.05, * p<0.1													

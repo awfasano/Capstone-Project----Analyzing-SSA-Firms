@@ -1,0 +1,20 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx3600\clbrdrt\brdrs\cellx5184\clbrdrt\brdrs\cellx7056\clbrdrt\brdrs\cellx11088
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3600\cellx5184\cellx7056\cellx11088
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx3600\clbrdrb\brdrs\cellx5184\clbrdrb\brdrs\cellx7056\clbrdrb\brdrs\cellx11088
+\ql VARIABLES\cell\qc lnRev\cell\qc priceclose\cell\qc companymarketcapitalization\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3600\cellx5184\cellx7056\cellx11088
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql chineseInvestmentDummy10\cell\qc 0.302***\cell\qc 0.256\cell\qc -1.906e+08\cell\row
+\ql \cell\qc (0.0939)\cell\qc (0.225)\cell\qc (2.622e+08)\cell\row
+\ql Constant\cell\qc 18.87***\cell\qc 1.575e+08***\cell\qc 1.319e+09***\cell\row
+\ql \cell\qc (0.000275)\cell\qc (0.0235)\cell\qc (769,592)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 6,154\cell\qc 6,521\cell\qc 6,133\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx3600\clbrdrb\brdrs\cellx5184\clbrdrb\brdrs\cellx7056\clbrdrb\brdrs\cellx11088
+\ql R-squared\cell\qc 0.902\cell\qc 1.000\cell\qc 0.663\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

@@ -1,0 +1,12 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	lnRev	priceclose	companymarketcapitalization
+				
+chineseInvestmentDummy10	chineseInvestmentDummy10	0.302***	0.256	-1.906e+08
+		(0.0939)	(0.225)	(2.622e+08)
+Constant	Constant	18.87***	1.575e+08***	1.319e+09***
+		(0.000275)	(0.0235)	(769,592)
+				
+Observations		6,154	6,521	6,133
+R-squared		0.902	1.000	0.663
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

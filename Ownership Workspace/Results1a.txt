@@ -1,0 +1,16 @@
+		(1)	(2)	(3)	(4)	(5)
+VARIABLES	LABELS	Ln Revenue (USD)	Ln Net Income (USD)	PE Ratio	Market Cap (USD)	EPS (USD)
+						
+USInvestmentDummy5	USInvestmentDummy5	-0.00468	0.140	-45.94*	7.929e+08*	-0.341
+		(0.0728)	(0.0968)	(26.77)	(4.566e+08)	(0.306)
+chineseInvestmentDummy5	chineseInvestmentDummy5	0.312***	0.697***	-12.99	-3.238e+07	0.0628*
+		(0.0718)	(0.194)	(9.642)	(1.941e+08)	(0.0373)
+SingnaporeInvestmentDummy5	SingnaporeInvestmentDummy5	-0.00804	0.0804	-43.63	1.825e+08	0.303
+		(0.132)	(0.230)	(54.84)	(4.094e+08)	(0.237)
+Constant	Constant	18.87***	16.81***	45.98***	1.252e+09***	0.671***
+		(0.00615)	(0.00831)	(3.027)	(3.305e+07)	(0.0341)
+						
+Observations		6,160	5,127	4,827	6,139	2,760
+R-squared		0.902	0.832	0.217	0.664	0.493
+Robust standard errors in parentheses						
+*** p<0.01, ** p<0.05, * p<0.1						

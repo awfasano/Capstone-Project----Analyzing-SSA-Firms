@@ -1,0 +1,22 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	SingnaporeInvestmentDummy12	SingnaporeInvestmentDummy12	SingnaporeInvestmentDummy12	SingnaporeInvestmentDummy12	SingnaporeInvestmentDummy12	SingnaporeInvestmentDummy12
+							
+pedailytimeseriesratio	(mean) pedailytimeseriesratio	-0.124					
+		(0.102)					
+earningspersharemean	(mean) earningspersharemean		-8.219				
+			(7.724)				
+lnnetincomeaftertax	lnnetincomeaftertax			-1.350			
+				(1.731)			
+lnRev	(mean) lnRev				0.127		
+					(1.041)		
+priceclose	(mean) priceclose					-0.376	
+						(0.187)	
+companymarketcapitalization	(mean) companymarketcapitalization						-1.64e-09
+							(1.38e-09)
+Constant	Constant	2,017***	2,016***	2,038***	2,012***	2,017***	2,016***
+		(2.182)	(2.820)	(29.61)	(20.80)	(1.341)	(1.521)
+							
+Observations		7	4	7	7	7	7
+R-squared		0.226	0.361	0.108	0.003	0.447	0.220
+Standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

@@ -1,0 +1,5246 @@
+,Instrument,Ultimate Parent Percent of Shares Out Held,Date,Investor Id,Investor Type Description ID,Investor Perm Id,Country of Headquarters,Fund Investment Style Code
+0,SMBC.CI,,,,,,Ivory Coast,
+1,SACL.ZI,,,,,,Zimbabwe,
+2,SEMC.CI,,,,,,United States,
+3,ILV.MV,,,,,,United Kingdom,
+4,NITL.MV,,,,,,Malawi,
+5,TPCC.TZ,,,,,,Germany,
+6,ZBFH.ZI,,,,,,Zimbabwe,
+7,TTP.TZ,,,,,,Tanzania,
+8,TCCL.TZ,,,,,,,
+9,FMB.MV,,,,,,Malawi,
+10,NBS.MV,,,,,,Malawi,
+11,SUNB.MV,,,,,,Malawi,
+12,MPICO.MV,,,,,,Malawi,
+13,DCB.TZ,,,,,,Tanzania,
+14,NMB.TZ,,,,,,Tanzania,
+15,COURTVI.LG,,,,,,Nigeria,
+16,CRDB.TZ,,,,,,Tanzania,
+17,NANG.LZ,,,,,,United Kingdom,
+18,PRIM.LZ,,,,,,Zambia,
+19,MCNICHO.LG,,,,,,Nigeria,
+20,NIC.UG,,,,,,Uganda,
+21,BATZ.LZ,0.09,1998-12-31T00:00:00Z,2006494,113,5000706029,United Kingdom,
+22,BATZ.LZ,0.03,1998-12-31T00:00:00Z,2005726,107,5001449043,,Core Value
+23,BATZ.LZ,0.05,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+24,BATZ.LZ,,,2005726,107,,,
+25,BATZ.LZ,,,,,,,
+26,BATZ.LZ,,,,,,,
+27,BOAC.CI,,,,,,Morocco,
+28,RACPp.J,,,,,,South Africa,
+29,LHCJ.J,,,,,,South Africa,
+30,TNM.MV,,,,,,Malawi,
+31,CRESTA.BT,,,,,,Botswana,
+32,UHOMREI.LG,,,,,,Nigeria,
+33,DANGCEM.LG,,,,,,Nigeria,
+34,MULTITREX.LG,,,,,,Nigeria,
+35,RBPJ.J,,,,,,South Africa,
+36,NPFMCRF.LG,,,,,,Nigeria,
+37,BOABF.CI,,,,,,Morocco,
+38,MMPJ.J,,,,,,South Africa,
+39,OUTJ.J,,,,,,South Africa,
+40,IPFJ.J,,,,,,South Africa,
+41,LBTY.NR,,,,,,South Africa,
+42,REBJ.J,,,,,,South Africa,
+43,COHJ.J,,,,,,South Africa,
+44,LETL.BT,,,,,,Botswana,
+45,GOLI.MZ,,,,,,Mauritius,
+46,BLR.RW,,,,,,Netherlands,
+47,MPTJ.J,,,,,,South Africa,
+48,TCL.NR,,,,,,Kenya,
+49,BUCJ.J,,,,,,South Africa,
+50,TEXJ.J,,,,,,South Africa,
+51,DIBJ.J,,,,,,South Africa,
+52,BOK.RW,,,,,,Rwanda,
+53,BRIT.NR,,,,,,Kenya,
+54,NAP.BT,,,,,,Botswana,
+55,FTAJ.J,,,,,,South Africa,
+56,SILPp.NM,,,,,,Namibia,
+57,PAL.TZ,,,,,,Tanzania,
+58,TERA.MZ,,,,,,Mauritius,
+59,CHOPP.BT,,,,,,Botswana,
+60,AUSTINLAZ.LG,,,,,,Nigeria,
+61,SIT.MZ,,,,,,Mauritius,
+62,LKL.NR,,,,,,Kenya,
+63,TCPJ.J,,,,,,South Africa,
+64,CIC.NR,,,,,,United Kingdom,
+65,FNBMIDJ.J,,,,,,,
+66,CIM.MZ,,,,,,,
+67,DLTJ.J,,,,,,South Africa,
+68,NHL.NM,,,,,,Namibia,
+69,UMEME.UG,,,,,,Uganda,
+70,MDIJ.J,,,,,,South Africa,
+71,UCAP.LG,,,,,,Nigeria,
+72,AFRIPRU.LG,,,,,,Nigeria,
+73,AGR.NM,,,,,,Namibia,
+74,ETFSAPJ.J,,,,,,,
+75,SHUMBA.BT,,,,,,Botswana,
+76,NGPLTJ.J,,,,,,,
+77,MLIJ.J,,,,,,United Kingdom,
+78,CGP.NM,,,,,,Namibia,
+79,HAFR.NR,,,,,,Kenya,
+80,ATTJ.J,,,,,,South Africa,
+81,ASCJ.J,,,,,,South Africa,
+82,APFJ.J,,,,,,South Africa,
+83,CWG.LG,,,,,,Nigeria,
+84,UCHUMI.UG,,,,,,Kenya,
+85,ETFPLDJ.J,,,,,,,
+86,NGPLDJ.J,,,,,,,
+87,SARJ.J,,,,,,South Africa,
+88,ETFPLTJ.J,,,,,,,
+89,ETFGLDJ.J,,,,,,,
+90,THAJ.J,,,,,,Cyprus,
+91,LVLTRXJ.J^H18,,,,,,,
+92,DIVTRXJ.J,,,,,,,
+93,AVLJ.J,,,,,,South Africa,
+94,LOTO.MZ,,,,,,Mauritius,
+95,CAVERTON.LG,,,,,,Nigeria,
+96,VISJ.J,,,,,,South Africa,
+97,MBP.TZ,,,,,,Tanzania,
+98,SARE.MZ,,,,,,South Africa,
+99,KSTJ.J,,,,,,South Africa,
+100,EQUJ.J,,,,,,South Africa,
+101,AFHJ.J,,,,,,United States,
+102,MAFS.LZ,,,,,,Zambia,
+103,NSE.NR,,,,,,Kenya,
+104,SWALA.TZ,,,,,,Tanzania,
+105,BTCL.BT,,,,,,Botswana,
+106,RFGJ.J,,,,,,South Africa,
+107,TRANSCOHOT.LG,,,,,,Nigeria,
+108,QFHJ.J,,,,,,South Africa,
+109,NOV.MZ,,,,,,Mauritius,
+110,LIVINGTRUST.LG,,,,,,Nigeria,
+111,TTLS.CI,,,,,,France,
+112,FTGH.NR,,,,,,Kenya,
+113,KCCGLDJ.J,,,,,,,
+114,KUR.NR,,,,,,Kenya,
+115,MEDVIEWAIR.LG,,,,,,Nigeria,
+116,DNBJ.J,,,,,,South Africa,
+117,HILJ.J,,,,,,Malta,
+118,ACSJ.J,,,,,,South Africa,
+119,IMRP7p.J,,,,,,South Africa,
+120,BOAS.CI,,,,,,Morocco,
+121,NVSJ.J,,,,,,South Africa,
+122,MFDG.MZ,,,,,,Mauritius,
+123,MKCB.TZ,,,,,,Tanzania,
+124,MAC.GH,,,,,,Ghana,
+125,IMR.RW,,,,,,Kenya,
+126,MCB.TZ,,,,,,Tanzania,
+127,INFINITY.LG,,,,,,Nigeria,
+128,VALUEFUND.LG,,,,,,Nigeria,
+129,UPDCREIT.LG,,,,,,Nigeria,
+130,ADB.GH,,,,,,Ghana,
+131,BOAM.CI,,,,,,Morocco,
+132,CTOP50J.J,,,,,,,
+133,IKUL.LZ,,,,,,Zambia,
+134,EIZP.LZ,,,,,,Zambia,
+135,ILUJ.J,,,,,,South Africa,
+136,PROL.ZI,,,,,,Zimbabwe,
+137,RENJ.J,,,,,,South Africa,
+138,PEMJ.J,,,,,,South Africa,
+139,YETU.TZ,,,,,,Tanzania,
+140,STANBIC.LG,,,,,,,
+141,VETIVA.LG,,,,,,,
+142,APL.MZ,,,,,,Mauritius,
+143,DCPJ.J,,,,,,,
+144,BWNJ.J,,,,,,South Africa,
+145,SYGJ.J,,,,,,South Africa,
+146,TRLJ.J,,,,,,South Africa,
+147,CTAJ.J,,,,,,South Africa,
+148,IIL.GH,,,,,,Ghana,
+149,NOTORE.LG,,,,,,,
+150,SSSJ.J,,,,,,South Africa,
+151,SAMBA.GH,,,,,,Ghana,
+152,HORDS.GH,,,,,,Ghana,
+153,MMH.GH,,,,,,Ghana,
+154,MHBJ.J,,,,,,South Africa,
+155,ATIL.MZ,,,,,,South Africa,
+156,LTEJ.J,,,,,,Malta,
+157,FAHR.NR,,,,,,Kenya,
+158,ETFRHOJ.J,,,,,,,
+159,SNHJ.J,,,,,,South Africa,
+160,GBFS.ZI,,,,,,Luxembourg,
+161,ABCB.MZ,,,,,,Mauritius,
+162,VETBANK.LG,,,,,,,
+163,VETGOODS.LG,,,,,,,
+164,VETINDETF.LG,,,,,,,
+165,NRLJ.J,,,,,,South Africa,
+166,TAD.MZ,,,,,,Mauritius,
+167,DCON.NR,,,,,,Kenya,
+168,FPC.BT,,,,,,Botswana,
+169,AXIA.ZI,,,,,,Zimbabwe,
+170,BIDJ.J,,,,,,South Africa,
+171,MUCOBA.TZ,,,,,,Tanzania,
+172,NBV.NR,,,,,,United Arab Emirates,
+173,NSBC.CI,,,,,,Ivory Coast,
+174,DSE.TZ,,,,,,Tanzania,
+175,IBLL.MZ,,,,,,Mauritius,
+176,EPEJ.J,,,,,,Mauritius,
+177,UPL.MZ,,,,,,Mauritius,
+178,YYLBEEJ.J,,,,,,South Africa,
+179,ACCESS.GH,,,,,,Nigeria,
+180,SCRC.CI,,,,,,Ivory Coast,
+181,SEAJ.J,,,,,,South Africa,
+182,SIBC.CI,,,,,,Morocco,
+183,GLPROPJ.J,,,,,,,
+184,CBIBF.CI,,,,,,Burkina Faso,
+185,TPFJ.J,,,,,,South Africa,
+186,VODA.TZ,,,,,,United Kingdom,
+187,CQCIL.UG,,,,,,India,
+188,L2DJ.J,,,,,,South Africa,
+189,TIP.LG,,,,,,Nigeria,
+190,DCCUSDJ.J,,,,,,,
+191,SHGJ.J,,,,,,South Africa,
+192,JAIZBANK.LG,,,,,,Nigeria,
+193,STXILBJ.J,,,,,,,
+194,STXPROJ.J,,,,,,,
+195,PFBJ.J,,,,,,South Africa,
+196,MTNGH.GH,,,,,,South Africa,
+197,MIN.BT,,,,,,Botswana,
+198,BAYP.MZ,,,,,,Mauritius,
+199,AILJ.J,,,,,,South Africa,
+200,KALJ.J,,,,,,South Africa,
+201,NRPJ.J,,,,,,Netherlands,
+202,RHBJ.J,,,,,,South Africa,
+203,HETJ.J,,,,,,South Africa,
+204,STXWDMJ.J,,,,,,,
+205,STXEMGJ.J,,,,,,,
+206,STX500J.J,,,,,,,
+207,FMP.ZI,,,,,,Zimbabwe,
+208,ZXSWS.ZX,,,,,,South Africa,
+209,ZXSWB.ZX,,,,,,South Africa,
+210,ZXTWI.ZX,,,,,,South Africa,
+211,FMBCH.MV,,,,,,Malawi,
+212,PPHJ.J,,,,,,South Africa,
+213,STXQUAJ.J,,,,,,,
+214,LHN.NM,,,,,,Botswana,
+215,4SIJ.J,,,,,,Mauritius,
+216,SDOJ.J,,,,,,South Africa,
+217,FNBEQFJ.J,,,,,,,
+218,PNH.NM,,,,,,Namibia,
+219,SYG500J.J,,,,,,,
+220,CCAF.LZ,,,,,,Zambia,
+221,DCCUS2J.J,,,,,,,
+222,ECOC.CI,,,,,,Togo,
+223,GSPECPLC.LG,,,,,,Nigeria,
+224,ARIN.MZ,,,,,,Indonesia,
+225,CVWJ.J,,,,,,,
+226,AYOJ.J,,,,,,South Africa,
+227,ZXTIP.ZX,,,,,,South Africa,
+228,ETF500J.J,,,,,,,
+229,FNBWGBJ.J,,,,,,,
+230,STXNDQJ.J,,,,,,,
+231,LBRJ.J,,,,,,South Africa,
+232,DIGICUT.GH,,,,,,Ghana,
+233,FTHJ.J,,,,,,South Africa,
+234,AEIBy.MZ,,,,,,Egypt,
+235,4ANWKH.4AX,,,,,,South Africa,
+236,4AHWP.4AX,,,,,,South Africa,
+237,4AASP.4AX,,,,,,South Africa,
+238,NFEMODJ.J,,,,,,,
+239,NFEHGEJ.J,,,,,,,
+240,NFEDEFJ.J,,,,,,,
+241,MTNN.LG,,,,,,South Africa,
+242,ETFBNDJ.J,,,,,,,
+243,NFNAMA.NM,,,,,,,
+244,STXGOVJ.J,,,,,,,
+245,STXESGJ.J,,,,,,,
+246,STXEMEJ.J,,,,,,,
+247,MERGROWTH.LG,,,,,,,
+248,MERVALUE.LG,,,,,,,
+249,SYGESGJ.J,,,,,,,
+250,MTNR.RW,,,,,,South Africa,
+251,SYGEMFJ.J,,,,,,,
+252,STXCAPJ.J,,,,,,,
+253,STXNDAJ.J,,,,,,,
+254,4AAVC.4AX,,,,,,South Africa,
+255,STXHLTJ.J,,,,,,,
+256,ETFSRIJ.J,,,,,,,
+257,ETFEMAJ.J,,,,,,,
+258,BIND.VF,,,,,,United Kingdom,
+259,PHL.VF,,,,,,Zimbabwe,
+260,SYGSEJ.J,,,,,,,
+261,CSGOVIJ.J,,,,,,South Africa,
+262,SIM.VF,,,,,,Zimbabwe,
+263,NED.VF,,,,,,Zimbabwe,
+264,ZZDJ.J,,,,,,South Africa,
+265,NTFD.VF,,,,,,Zimbabwe,
+266,4AGFR1O.4AX,,,,,,South Africa,
+267,GEREGU.LG,,,,,,Nigeria,
+268,CAAJ.J,,,,,,South Africa,
+269,SREE.MZ,,,,,,Mauritius,
+270,ACCESSCORP.LG,,,,,,Nigeria,
+271,4ABKB.4AX,,,,,,South Africa,
+272,APOJ.J,,,,,,South Africa,
+273,TANG.ZI,,,,,,Zimbabwe,
+274,BUAFOODS.LG,,,,,,Nigeria,
+275,RONCHESS.LG,,,,,,Nigeria,
+276,VELG.MZ,,,,,,,
+277,ANIJ.J,,,,,,South Africa,
+278,MTNU.UG,,,,,,South Africa,
+279,MOC.NM,,,,,,Namibia,
+280,CTEL.MZ,,,,,,Mauritius,
+281,NGXGROUP.LG,,,,,,Nigeria,
+282,GTCO.LG,,,,,,Nigeria,
+283,TGAJ.J,,,,,,South Africa,
+284,SZKJ.J,,,,,,South Africa,
+285,BAPLC.LG,,,,,,Nigeria,
+286,HBE.NR,,,,,,Kenya,
+287,HPL.MZ,,,,,,Mauritius,
+288,DASPHARMA.GH,,,,,,Ghana,
+289,4AGR1O.4AX,,,,,,South Africa,
+290,CMR.RW,,,,,,South Africa,
+291,FDHB.MV,,,,,,Malawi,
+292,OMJ.NM,,,,,,Namibia,
+293,MQA.NM,,,,,,Namibia,
+294,SBPJ.J,,,,,,South Africa,
+295,NY1J.J,,,,,,South Africa,
+296,AIRTEL.MV,,,,,,India,
+297,SSWJ.J,,,,,,South Africa,
+298,4AIHG.4AX,,,,,,,
+299,ZFCO.LZ,,,,,,Zambia,
+300,ZXRPG.ZX,,,,,,South Africa,
+301,BUACEMENT.LG,,,,,,Nigeria,
+302,MTNZFJ.J,,,,,,South Africa,
+303,SNO.NM,,,,,,South Africa,
+304,FRBP01p.J^K22,,,,,,South Africa,
+305,SEMA.MZ,,,,,,Mauritius,
+306,ANE.NM,,,,,,Namibia,
+307,JATU.TZ,,,,,,Tanzania,
+308,SSUJ.J,,,,,,South Africa,
+309,ACES.MZ,,,,,,Mauritius,
+310,ORGT.CI,,,,,,Togo,
+311,REGI.MZ,,,,,,Mauritius,
+312,ENLG.MZ,,,,,,,
+313,ICON.MV,,,,,,Malawi,
+314,LAVA.MZ,,,,,,,
+315,ACCESS.BT,,,,,,Nigeria,
+316,MTHJ.J,,,,,,South Africa,
+317,EHZL.ZI,,,,,,Zimbabwe,
+318,MCGJ.J,,,,,,South Africa,
+319,SCIL.BT,,,,,,Botswana,
+320,NICO.TZ,,,,,,Tanzania,
+321,EXPJ.J,,,,,,South Africa,
+322,DGHJ.J,,,,,,South Africa,
+323,TICL.TZ,,,,,,Tanzania,
+324,KLOS.MZ,,,,,,Mauritius,
+325,TSAH.MZ,,,,,,Mauritius,
+326,ABL.GH,0.0,1998-11-28T00:00:00Z,5454756,301,5043415975,Belgium,
+327,ABL.GH,,,5454756,,,,
+328,ABOSELA.LG,,,,,,Nigeria,
+329,ABPLAST.LG,,,,,,Nigeria,
+330,ABSPp.J,,,,,,South Africa,
+331,ACADEMY.LG,,,,,,Nigeria,
+332,ACLJ.J,37.56,1998-06-30T00:00:00Z,2676461,301,5000854298,Luxembourg,Emerg. Mkts.
+333,ACLJ.J,0.21,1998-12-31T00:00:00Z,2784485,113,,,Growth
+334,ACLJ.J,0.1526,1998-12-31T00:00:00Z,2004197,113,4296293277,,Growth
+335,ACLJ.J,0.12,1998-12-31T00:00:00Z,2002484,107,5000152801,,Core Value
+336,ACLJ.J,0.0022,1998-12-31T00:00:00Z,2005054,113,,,Emerg. Mkts.
+337,ACLJ.J,0.001,1998-12-31T00:00:00Z,2005218,107,4298409344,,Growth
+338,ACLJ.J,0.0004,1998-12-31T00:00:00Z,2006038,107,,,Core Value
+339,ACLJ.J,0.0003,1998-06-30T00:00:00Z,2005211,107,,,GARP
+340,ACLJ.J,0.0,1998-12-31T00:00:00Z,2783224,113,,,Specialty
+341,ACLJ.J,0.0,1998-06-30T00:00:00Z,2003974,107,5000001140,,Specialty
+342,ACLJ.J,0.0,1998-12-31T00:00:00Z,2002868,107,,,Specialty
+343,ACLJ.J,0.0,1998-12-31T00:00:00Z,2002823,110,5000052202,,Specialty
+344,ACLJ.J,,,2657747,107,,,Emerg. Mkts.
+345,ACLJ.J,15.6,1997-01-31T00:00:00Z,2657747,113,5001449709,,Emerg. Mkts.
+346,ACLJ.J,0.18,1997-12-31T00:00:00Z,2784485,107,,,Emerg. Mkts.
+347,ACLJ.J,0.1313,1997-03-31T00:00:00Z,2003974,113,5000001140,,Emerg. Mkts.
+348,ACLJ.J,0.05,1997-12-31T00:00:00Z,2005211,113,,,Emerg. Mkts.
+349,ACLJ.J,0.02,1997-12-31T00:00:00Z,2783224,107,,,Emerg. Mkts.
+350,ACLJ.J,0.02,1997-12-31T00:00:00Z,2002868,107,,,
+351,ACLJ.J,0.01,1997-06-30T00:00:00Z,2005218,113,4298409344,,Emerg. Mkts.
+352,ACLJ.J,0.0018,1997-12-31T00:00:00Z,2006038,107,,,Growth
+353,ACLJ.J,,,2676461,107,,,Emerg. Mkts.
+354,ACLJ.J,,,2005054,107,,,Emerg. Mkts.
+355,ACLJ.J,,,2004197,107,,,GARP
+356,ACLJ.J,,,2002823,107,,,Core Value
+357,ACLJ.J,,,2002484,107,,,Emerg. Mkts.
+358,ACLJ.J,,,,113,,,Emerg. Mkts.
+359,ACLJ.J,,,,113,,,GARP
+360,ACLJ.J,,,,113,,,Emerg. Mkts.
+361,ACLJ.J,,,,113,,,Emerg. Mkts.
+362,ACLJ.J,,,,113,,,Hedge Fund
+363,ACLJ.J,,,,107,,,Growth
+364,ACLJ.J,,,,113,,,Emerg. Mkts.
+365,ACLJ.J,,,,107,,,Core Growth
+366,ACLJ.J,,,,107,,,Core Value
+367,ACLJ.J,,,,,,,Emerg. Mkts.
+368,ACLJ.J,,,,,,,Hedge Fund
+369,ACLJ.J,,,,114,,,Emerg. Mkts.
+370,ACLJ.J,,,,113,,,Emerg. Mkts.
+371,ACLJ.J,,,,107,,,Emerg. Mkts.
+372,ACLJ.J,,,,107,,,Index
+373,ACLJ.J,,,,113,,,Index
+374,ACLJ.J,,,,113,,,Core Growth
+375,ACLJ.J,,,,113,,,Core Growth
+376,ACLJ.J,,,,113,,,GARP
+377,ACLJ.J,,,,113,,,
+378,ACLJ.J,,,,107,,,Index
+379,ACLJ.J,,,,107,,,Emerg. Mkts.
+380,ACLJ.J,,,,110,,,Specialty
+381,ACLJ.J,,,,107,,,Emerg. Mkts.
+382,ACLJ.J,,,,107,,,Index
+383,ACLJ.J,,,,107,,,Index
+384,ACLJ.J,,,,107,,,Growth
+385,ACLJ.J,,,,113,,,Core Growth
+386,ACLJ.J,,,,107,,,Growth
+387,ACLJ.J,,,,113,,,Emerg. Mkts.
+388,ACLJ.J,,,,107,,,Specialty
+389,ACLJ.J,,,,107,,,Specialty
+390,ACLJ.J,,,,107,,,Emerg. Mkts.
+391,ACLJ.J,,,,113,,,Emerg. Mkts.
+392,ACLJ.J,,,,113,,,Core Growth
+393,ACLJ.J,,,,113,,,Growth
+394,ACLJ.J,,,,107,,,Growth
+395,ACLJ.J,,,,,,,Emerg. Mkts.
+396,ACLJ.J,,,,,,,Index
+397,ACLJ.J,,,,,,,Emerg. Mkts.
+398,ACLJ.J,,,,,,,Emerg. Mkts.
+399,ACLJ.J,,,,,,,Core Growth
+400,ACLJ.J,,,,,,,Emerg. Mkts.
+401,ACLJ.J,,,,,,,Core Value
+402,ACLJ.J,,,,,,,Emerg. Mkts.
+403,ACLJ.J,,,,,,,Core Value
+404,ACLJ.J,,,,,,,Growth
+405,ACLJ.J,,,,,,,Core Value
+406,ACLJ.J,,,,,,,Emerg. Mkts.
+407,ACLJ.J,,,,,,,Hedge Fund
+408,ACLJ.J,,,,,,,Growth
+409,ACLJ.J,,,,,,,Specialty
+410,ACLJ.J,,,,,,,Core Value
+411,ACLJ.J,,,,,,,Specialty
+412,ACLJ.J,,,,,,,Emerg. Mkts.
+413,ACLJ.J,,,,,,,GARP
+414,ACLJ.J,,,,,,,Emerg. Mkts.
+415,ACLJ.J,,,,,,,Emerg. Mkts.
+416,ACLJ.J,,,,,,,Specialty
+417,ACLJ.J,,,,,,,Emerg. Mkts.
+418,ACLJ.J,,,,,,,Emerg. Mkts.
+419,ACLJ.J,,,,,,,Index
+420,ACLJ.J,,,,,,,Emerg. Mkts.
+421,ACLJ.J,,,,,,,Specialty
+422,ACLJ.J,,,,,,,Emerg. Mkts.
+423,ACLJ.J,,,,,,,Emerg. Mkts.
+424,ACLJ.J,,,,,,,Emerg. Mkts.
+425,ACLJ.J,,,,,,,Core Value
+426,ACLJ.J,,,,,,,Emerg. Mkts.
+427,ACLJ.J,,,,,,,GARP
+428,ACLJ.J,,,,,,,Specialty
+429,ACLJ.J,,,,,,,Growth
+430,ACLJ.J,,,,,,,Core Growth
+431,ACLJ.J,,,,,,,Emerg. Mkts.
+432,ACLJ.J,,,,,,,
+433,ACLJ.J,,,,,,,Emerg. Mkts.
+434,ACLJ.J,,,,,,,Emerg. Mkts.
+435,ACLJ.J,,,,,,,Emerg. Mkts.
+436,ACLJ.J,,,,,,,Index
+437,ACLJ.J,,,,,,,Emerg. Mkts.
+438,ACLJ.J,,,,,,,Core Value
+439,ACLJ.J,,,,,,,Core Growth
+440,ACLJ.J,,,,,,,Index
+441,ACLJ.J,,,,,,,Index
+442,ACLJ.J,,,,,,,Core Growth
+443,ACLJ.J,,,,,,,Emerg. Mkts.
+444,ACLJ.J,,,,,,,Index
+445,ACLJ.J,,,,,,,Emerg. Mkts.
+446,ACLJ.J,,,,,,,Emerg. Mkts.
+447,ACLJ.J,,,,,,,Growth
+448,ACLJ.J,,,,,,,Emerg. Mkts.
+449,ACLJ.J,,,,,,,Core Growth
+450,ACLJ.J,,,,,,,Growth
+451,ACLJ.J,,,,,,,Specialty
+452,ACLJ.J,,,,,,,Core Value
+453,ACLJ.J,,,,,,,Core Growth
+454,ACLJ.J,,,,,,,Growth
+455,ACLJ.J,,,,,,,Growth
+456,ACLJ.J,,,,,,,Emerg. Mkts.
+457,ACLJ.J,,,,,,,Emerg. Mkts.
+458,ACLJ.J,,,,,,,Core Growth
+459,ACLJ.J,,,,,,,Emerg. Mkts.
+460,ACLJ.J,,,,,,,Core Value
+461,ACLJ.J,,,,,,,
+462,ACLJ.J,,,,,,,
+463,ACLJ.J,,,,,,,
+464,ACLJ.J,,,,,,,
+465,ACLJ.J,,,,,,,
+466,ACLJ.J,,,,,,,
+467,ACLJ.J,,,,,,,
+468,ACLJ.J,,,,,,,
+469,ACLJ.J,,,,,,,
+470,ACLJ.J,,,,,,,
+471,ACLJ.J,,,,,,,
+472,ACLJ.J,,,,,,,
+473,ACLJ.J,,,,,,,
+474,ACLJ.J,,,,,,,
+475,ACLJ.J,,,,,,,
+476,ACTJ.J,5.369,1998-08-03T00:00:00Z,2659928,301,,South Africa,
+477,ACTJ.J,0.346,1998-08-03T00:00:00Z,2676461,301,5000854298,,
+478,ACTJ.J,0.274,1998-08-03T00:00:00Z,2991511,301,5043419846,,
+479,ACTJ.J,0.106,1998-08-03T00:00:00Z,3248738,113,,,
+480,ACTJ.J,5.37,1997-01-31T00:00:00Z,2659928,303,,,
+481,ACTJ.J,,,3248738,301,,,
+482,ACTJ.J,,,2991511,,,,
+483,ACTJ.J,,,2676461,,,,
+484,ACTJ.J,,,,,,,
+485,ACTJ.J,,,,,,,
+486,ADHJ.J,4.5287,1998-08-03T00:00:00Z,2676461,113,5000854298,South Africa,Emerg. Mkts.
+487,ADHJ.J,2.0749,1998-08-03T00:00:00Z,2637186,301,4297902883,,Emerg. Mkts.
+488,ADHJ.J,1.8319,1998-08-03T00:00:00Z,2661420,301,5055413527,,
+489,ADHJ.J,0.0042,1998-12-31T00:00:00Z,2006038,301,,,
+490,ADHJ.J,0.0034,1997-12-31T00:00:00Z,2006038,107,,,
+491,ADHJ.J,,,2676461,113,,,
+492,ADHJ.J,,,2661420,107,,,
+493,ADHJ.J,,,2637186,113,,,
+494,ADHJ.J,,,,107,,,
+495,ADHJ.J,,,,,,,
+496,ADHJ.J,,,,,,,
+497,ADHJ.J,,,,,,,
+498,ADHJ.J,,,,,,,
+499,ADHJ.J,,,,,,,
+500,ADHJ.J,,,,,,,
+501,ADHJ.J,,,,,,,
+502,ADRJ.J,23.53,1998-07-01T00:00:00Z,2685842,113,,South Africa,Specialty
+503,ADRJ.J,6.54,1998-07-01T00:00:00Z,2637186,301,4297902883,,Growth
+504,ADRJ.J,1.93,1998-12-31T00:00:00Z,2005217,107,,,GARP
+505,ADRJ.J,0.03,1998-12-31T00:00:00Z,2005218,113,4298409344,,Emerg. Mkts.
+506,ADRJ.J,4.71,1997-12-31T00:00:00Z,2005217,301,,,Emerg. Mkts.
+507,ADRJ.J,,,2685842,113,,,Emerg. Mkts.
+508,ADRJ.J,,,2637186,113,,,Emerg. Mkts.
+509,ADRJ.J,,,2005218,107,,,Emerg. Mkts.
+510,ADRJ.J,,,,113,,,Growth
+511,ADRJ.J,,,,113,,,Specialty
+512,ADRJ.J,,,,113,,,Emerg. Mkts.
+513,ADRJ.J,,,,113,,,Emerg. Mkts.
+514,ADRJ.J,,,,,,,Emerg. Mkts.
+515,ADRJ.J,,,,,,,
+516,ADRJ.J,,,,,,,
+517,ADRJ.J,,,,,,,
+518,ADWJ.J,,,,,,South Africa,
+519,AEGJ.J,,,,,,South Africa,
+520,AFEJ.J,10.4688,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Core Value
+521,AFEJ.J,2.7031,1998-08-03T00:00:00Z,2637186,113,4297902883,,Emerg. Mkts.
+522,AFEJ.J,1.9347,1998-08-03T00:00:00Z,2647981,301,,,Specialty
+523,AFEJ.J,1.2931,1998-12-31T00:00:00Z,2005217,301,,,Emerg. Mkts.
+524,AFEJ.J,0.0136,1998-12-31T00:00:00Z,2002823,113,5000052202,,Emerg. Mkts.
+525,AFEJ.J,0.0035,1998-12-31T00:00:00Z,2006038,107,,,Emerg. Mkts.
+526,AFEJ.J,0.0028,1998-06-30T00:00:00Z,2005211,113,,,Emerg. Mkts.
+527,AFEJ.J,0.0,1998-06-30T00:00:00Z,2003974,107,5000001140,,Emerg. Mkts.
+528,AFEJ.J,0.0,1998-03-31T00:00:00Z,2003516,113,5000071982,,Emerg. Mkts.
+529,AFEJ.J,0.0647,1997-03-31T00:00:00Z,2003974,107,5000001140,,Emerg. Mkts.
+530,AFEJ.J,0.044,1997-12-31T00:00:00Z,2003516,101,5000071982,,
+531,AFEJ.J,0.0036,1997-12-31T00:00:00Z,2005211,107,,,Emerg. Mkts.
+532,AFEJ.J,0.0018,1997-12-31T00:00:00Z,2006038,107,,,Index
+533,AFEJ.J,,,2676461,113,,,Specialty
+534,AFEJ.J,,,2647981,107,,,Emerg. Mkts.
+535,AFEJ.J,,,2637186,107,,,Emerg. Mkts.
+536,AFEJ.J,,,2005217,107,,,Core Growth
+537,AFEJ.J,,,2002823,107,,,Emerg. Mkts.
+538,AFEJ.J,,,,101,,,Core Value
+539,AFEJ.J,,,,113,,,Specialty
+540,AFEJ.J,,,,113,,,Emerg. Mkts.
+541,AFEJ.J,,,,113,,,Emerg. Mkts.
+542,AFEJ.J,,,,107,,,Emerg. Mkts.
+543,AFEJ.J,,,,107,,,Emerg. Mkts.
+544,AFEJ.J,,,,113,,,Specialty
+545,AFEJ.J,,,,107,,,Emerg. Mkts.
+546,AFEJ.J,,,,107,,,Emerg. Mkts.
+547,AFEJ.J,,,,113,,,
+548,AFEJ.J,,,,107,,,Emerg. Mkts.
+549,AFEJ.J,,,,113,,,Index
+550,AFEJ.J,,,,107,,,Core Growth
+551,AFEJ.J,,,,107,,,Emerg. Mkts.
+552,AFEJ.J,,,,107,,,
+553,AFEJ.J,,,,101,,,
+554,AFEJ.J,,,,113,,,
+555,AFEJ.J,,,,113,,,
+556,AFEJ.J,,,,,,,
+557,AFEJ.J,,,,,,,
+558,AFEJ.J,,,,,,,
+559,AFEJ.J,,,,,,,
+560,AFEJ.J,,,,,,,
+561,AFEJ.J,,,,,,,
+562,AFEJ.J,,,,,,,
+563,AFEJ.J,,,,,,,
+564,AFEJ.J,,,,,,,
+565,AFEJ.J,,,,,,,
+566,AFDS.ZI,,,,,,Zimbabwe,
+567,FMHL.ZI,,,,,,Zimbabwe,
+568,AFROIL.LG,,,,,,Nigeria,
+569,AFTJ.J,,,,,,South Africa,
+570,AGLEVEN.LG,,,,,,United Kingdom,
+571,AIICO.LG,,,,,,Nigeria,
+572,ACCS.NR,,,,,,Japan,
+573,ALEX.LG,,,,,,Nigeria,
+574,ALW.GH,0.715,1998-12-31T00:00:00Z,2006494,107,5000706029,Ghana,
+575,ALW.GH,0.8398,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+576,ALW.GH,,,,107,,,
+577,ALW.GH,,,,107,,,
+578,AMEJ.J,14.027,1998-08-03T00:00:00Z,2675520,301,5055410695,South Africa,Growth
+579,AMEJ.J,11.4498,1998-08-03T00:00:00Z,2663250,107,5001442178,,
+580,AMEJ.J,11.413,1998-08-03T00:00:00Z,3248823,303,,,
+581,AMEJ.J,11.321,1998-08-03T00:00:00Z,3248824,303,,,
+582,AMEJ.J,9.4433,1998-08-03T00:00:00Z,3261421,107,,,
+583,AMEJ.J,7.1976,1998-08-03T00:00:00Z,2676461,303,5000854298,,
+584,AMEJ.J,2.0268,1998-06-30T00:00:00Z,2005211,301,,,
+585,AMEJ.J,0.2804,1998-12-31T00:00:00Z,2006038,113,,,
+586,AMEJ.J,0.0,1998-09-30T00:00:00Z,2783074,201,,,
+587,AMEJ.J,,,3261421,113,,,
+588,AMEJ.J,,,3248824,107,,,
+589,AMEJ.J,,,3248823,113,,,
+590,AMEJ.J,,,2783074,107,,,
+591,AMEJ.J,,,2676461,107,,,
+592,AMEJ.J,,,2675520,113,,,
+593,AMEJ.J,,,2663250,,,,
+594,AMEJ.J,,,2006038,,,,
+595,AMEJ.J,,,2005211,,,,
+596,AMEJ.J,,,,,,,
+597,AMEJ.J,,,,,,,
+598,AMEJ.J,,,,,,,
+599,AMEJ.J,,,,,,,
+600,AMEJ.J,,,,,,,
+601,AMEJ.J,,,,,,,
+602,AMEJ.J,,,,,,,
+603,AMEJ.J,,,,,,,
+604,AMEJ.J,,,,,,,
+605,AMEJ.J,,,,,,,
+606,AMSJ.J,41.2276,1998-08-03T00:00:00Z,2639800,301,4296948644,United Kingdom,Core Value
+607,AMSJ.J,22.17,1998-08-03T00:00:00Z,2676461,301,5000854298,,Growth
+608,AMSJ.J,3.43,1998-08-03T00:00:00Z,2637186,113,4297902883,,Specialty
+609,AMSJ.J,2.95,1998-08-03T00:00:00Z,2647981,301,,,Emerg. Mkts.
+610,AMSJ.J,0.08,1998-12-31T00:00:00Z,2002484,301,5000152801,,Specialty
+611,AMSJ.J,0.07,1998-12-31T00:00:00Z,2783694,107,,,Sector Specific
+612,AMSJ.J,0.02,1998-12-31T00:00:00Z,2005218,113,4298409344,,Growth
+613,AMSJ.J,0.0289,1997-03-31T00:00:00Z,2003794,302,,,Income Value
+614,AMSJ.J,0.01,1998-03-31T00:00:00Z,2785765,107,,,Sector Specific
+615,AMSJ.J,0.0,1997-09-30T00:00:00Z,2005217,113,,,Sector Specific
+616,AMSJ.J,0.0,1997-12-31T00:00:00Z,2005211,107,,,Emerg. Mkts.
+617,AMSJ.J,0.0,1998-06-30T00:00:00Z,2003974,107,5000001140,,Emerg. Mkts.
+618,AMSJ.J,0.0,1998-12-31T00:00:00Z,2003614,107,,,Specialty
+619,AMSJ.J,0.0,1998-03-31T00:00:00Z,2002905,107,,,Emerg. Mkts.
+620,AMSJ.J,1.3965,1997-05-19T00:00:00Z,2639800,113,4296948644,,Emerg. Mkts.
+621,AMSJ.J,0.05,1997-12-31T00:00:00Z,2002905,107,,,Growth
+622,AMSJ.J,0.04,1997-12-31T00:00:00Z,2783694,107,,,Hedge Fund
+623,AMSJ.J,0.0289,1997-03-31T00:00:00Z,2003794,113,,,Emerg. Mkts.
+624,AMSJ.J,0.0244,1997-03-31T00:00:00Z,2003974,107,5000001140,,Emerg. Mkts.
+625,AMSJ.J,0.02,1997-06-30T00:00:00Z,2005218,107,4298409344,,Sector Specific
+626,AMSJ.J,0.0,1997-09-30T00:00:00Z,2005217,107,,,Growth
+627,AMSJ.J,0.0,1997-12-31T00:00:00Z,2005211,113,,,Emerg. Mkts.
+628,AMSJ.J,0.0,1997-09-30T00:00:00Z,2002484,113,5000152801,,Specialty
+629,AMSJ.J,,,2785765,107,,,Emerg. Mkts.
+630,AMSJ.J,,,2676461,107,,,Specialty
+631,AMSJ.J,,,2647981,113,,,
+632,AMSJ.J,,,2637186,113,,,Specialty
+633,AMSJ.J,,,2003614,113,,,Sector Specific
+634,AMSJ.J,,,,107,,,Index
+635,AMSJ.J,,,,107,,,Specialty
+636,AMSJ.J,,,,107,,,Specialty
+637,AMSJ.J,,,,101,,,Emerg. Mkts.
+638,AMSJ.J,,,,113,,,Emerg. Mkts.
+639,AMSJ.J,,,,107,,,Emerg. Mkts.
+640,AMSJ.J,,,,113,,,Emerg. Mkts.
+641,AMSJ.J,,,,107,,,Index
+642,AMSJ.J,,,,107,,,Emerg. Mkts.
+643,AMSJ.J,,,,107,,,Index
+644,AMSJ.J,,,,113,,,Sector Specific
+645,AMSJ.J,,,,113,,,Emerg. Mkts.
+646,AMSJ.J,,,,107,,,Index
+647,AMSJ.J,,,,113,,,Core Value
+648,AMSJ.J,,,,107,,,Core Growth
+649,AMSJ.J,,,,107,,,Sector Specific
+650,AMSJ.J,,,,110,,,Core Value
+651,AMSJ.J,,,,110,,,Deep Value
+652,AMSJ.J,,,,113,,,Core Growth
+653,AMSJ.J,,,,301,,,Core Growth
+654,AMSJ.J,,,,107,,,Core Value
+655,AMSJ.J,,,,113,,,Aggres. Gr.
+656,AMSJ.J,,,,113,,,Sector Specific
+657,AMSJ.J,,,,107,,,Core Growth
+658,AMSJ.J,,,,110,,,Growth
+659,AMSJ.J,,,,107,,,Index
+660,AMSJ.J,,,,107,,,Core Value
+661,AMSJ.J,,,,113,,,Growth
+662,AMSJ.J,,,,107,,,Emerg. Mkts.
+663,AMSJ.J,,,,107,,,GARP
+664,AMSJ.J,,,,107,,,Specialty
+665,AMSJ.J,,,,113,,,GARP
+666,AMSJ.J,,,,107,,,Growth
+667,AMSJ.J,,,,107,,,Sector Specific
+668,AMSJ.J,,,,113,,,Sector Specific
+669,AMSJ.J,,,,107,,,Core Growth
+670,AMSJ.J,,,,113,,,Emerg. Mkts.
+671,AMSJ.J,,,,113,,,Specialty
+672,AMSJ.J,,,,107,,,Specialty
+673,AMSJ.J,,,,113,,,Growth
+674,AMSJ.J,,,,113,,,Growth
+675,AMSJ.J,,,,107,,,Sector Specific
+676,AMSJ.J,,,,107,,,Growth
+677,AMSJ.J,,,,107,,,Sector Specific
+678,AMSJ.J,,,,101,,,Emerg. Mkts.
+679,AMSJ.J,,,,113,,,Emerg. Mkts.
+680,AMSJ.J,,,,113,,,Growth
+681,AMSJ.J,,,,107,,,Specialty
+682,AMSJ.J,,,,107,,,Emerg. Mkts.
+683,AMSJ.J,,,,110,,,Emerg. Mkts.
+684,AMSJ.J,,,,107,,,Emerg. Mkts.
+685,AMSJ.J,,,,,,,Specialty
+686,AMSJ.J,,,,,,,
+687,AMSJ.J,,,,,,,Emerg. Mkts.
+688,AMSJ.J,,,,,,,Specialty
+689,AMSJ.J,,,,,,,Core Value
+690,AMSJ.J,,,,,,,Specialty
+691,AMSJ.J,,,,,,,Sector Specific
+692,AMSJ.J,,,,,,,Emerg. Mkts.
+693,AMSJ.J,,,,,,,Specialty
+694,AMSJ.J,,,,,,,Emerg. Mkts.
+695,AMSJ.J,,,,,,,Index
+696,AMSJ.J,,,,,,,Emerg. Mkts.
+697,AMSJ.J,,,,,,,Emerg. Mkts.
+698,AMSJ.J,,,,,,,Index
+699,AMSJ.J,,,,,,,Specialty
+700,AMSJ.J,,,,,,,Index
+701,AMSJ.J,,,,,,,Sector Specific
+702,AMSJ.J,,,,,,,GARP
+703,AMSJ.J,,,,,,,Emerg. Mkts.
+704,AMSJ.J,,,,,,,Index
+705,AMSJ.J,,,,,,,Core Value
+706,AMSJ.J,,,,,,,Core Growth
+707,AMSJ.J,,,,,,,Sector Specific
+708,AMSJ.J,,,,,,,Core Value
+709,AMSJ.J,,,,,,,Deep Value
+710,AMSJ.J,,,,,,,Core Growth
+711,AMSJ.J,,,,,,,Core Growth
+712,AMSJ.J,,,,,,,Core Value
+713,AMSJ.J,,,,,,,Aggres. Gr.
+714,AMSJ.J,,,,,,,Sector Specific
+715,AMSJ.J,,,,,,,Core Growth
+716,AMSJ.J,,,,,,,Index
+717,AMSJ.J,,,,,,,Core Value
+718,AMSJ.J,,,,,,,Emerg. Mkts.
+719,AMSJ.J,,,,,,,GARP
+720,AMSJ.J,,,,,,,Growth
+721,AMSJ.J,,,,,,,Sector Specific
+722,AMSJ.J,,,,,,,Sector Specific
+723,AMSJ.J,,,,,,,Core Growth
+724,AMSJ.J,,,,,,,Emerg. Mkts.
+725,AMSJ.J,,,,,,,
+726,AMSJ.J,,,,,,,
+727,AMSJ.J,,,,,,,
+728,AMSJ.J,,,,,,,
+729,AMSJ.J,,,,,,,
+730,AMSJ.J,,,,,,,
+731,AMSJ.J,,,,,,,
+732,AMSJ.J,,,,,,,
+733,AMSJ.J,,,,,,,
+734,AMSJ.J,,,,,,,
+735,AMSJ.J,,,,,,,
+736,ANGJ.J,24.39,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Sector Specific
+737,ANGJ.J,16.7664,1998-08-03T00:00:00Z,2633334,301,4295896494,,Sector Specific
+738,ANGJ.J,1.7218,1998-08-03T00:00:00Z,2637186,301,4297902883,,Specialty
+739,ANGJ.J,1.6852,1998-08-03T00:00:00Z,2635570,302,4295888430,,Growth
+740,ANGJ.J,1.0747,1998-08-03T00:00:00Z,2647981,301,,,Specialty
+741,ANGJ.J,0.3926,1998-12-31T00:00:00Z,2002306,113,,,Specialty
+742,ANGJ.J,0.1443,1998-12-31T00:00:00Z,2783694,107,,,Sector Specific
+743,ANGJ.J,0.1167,1998-12-31T00:00:00Z,2003614,107,,,Index
+744,ANGJ.J,0.0068,1998-12-31T00:00:00Z,2005218,107,4298409344,,Emerg. Mkts.
+745,ANGJ.J,0.0041,1998-12-31T00:00:00Z,2003615,113,,,Sector Specific
+746,ANGJ.J,0.0029,1998-12-31T00:00:00Z,2005136,107,,,Core Value
+747,ANGJ.J,0.0027,1998-06-30T00:00:00Z,2499117,107,5001231143,,Sector Specific
+748,ANGJ.J,0.0016,1998-12-31T00:00:00Z,2002823,107,5000052202,,Emerg. Mkts.
+749,ANGJ.J,0.0059,1997-06-30T00:00:00Z,2780781,113,,,Hedge Fund
+750,ANGJ.J,0.0001,1998-12-31T00:00:00Z,2587681,110,5000050125,,Emerg. Mkts.
+751,ANGJ.J,0.0,1998-12-31T00:00:00Z,2003457,107,5000036827,,Emerg. Mkts.
+752,ANGJ.J,0.0,1998-06-30T00:00:00Z,2591990,113,5000036022,,Emerg. Mkts.
+753,ANGJ.J,0.0,1997-12-31T00:00:00Z,2006034,107,5000014523,,Emerg. Mkts.
+754,ANGJ.J,0.0,1998-03-31T00:00:00Z,2002905,107,,,Specialty
+755,ANGJ.J,0.1105,1997-12-31T00:00:00Z,2783694,107,,,Emerg. Mkts.
+756,ANGJ.J,0.0942,1997-12-31T00:00:00Z,2002905,110,,,Specialty
+757,ANGJ.J,0.0461,1997-06-30T00:00:00Z,2005218,107,4298409344,,Emerg. Mkts.
+758,ANGJ.J,0.0135,1997-12-31T00:00:00Z,2499117,113,5001231143,,Growth
+759,ANGJ.J,0.0059,1997-06-30T00:00:00Z,2780781,107,,,Emerg. Mkts.
+760,ANGJ.J,0.0,1997-12-31T00:00:00Z,2006034,107,5000014523,,Sector Specific
+761,ANGJ.J,,,2676461,107,,,Emerg. Mkts.
+762,ANGJ.J,,,2647981,113,,,Emerg. Mkts.
+763,ANGJ.J,,,2637186,113,,,Sector Specific
+764,ANGJ.J,,,2635570,107,,,Emerg. Mkts.
+765,ANGJ.J,,,2633334,107,,,Core Growth
+766,ANGJ.J,,,2591990,101,,,Emerg. Mkts.
+767,ANGJ.J,,,2587681,107,,,Core Value
+768,ANGJ.J,,,2005136,101,,,Sector Specific
+769,ANGJ.J,,,2003615,107,,,Sector Specific
+770,ANGJ.J,,,2003614,113,,,Emerg. Mkts.
+771,ANGJ.J,,,2003457,107,,,Specialty
+772,ANGJ.J,,,2002823,107,,,Yield
+773,ANGJ.J,,,2002306,107,,,Emerg. Mkts.
+774,ANGJ.J,,,,107,,,Specialty
+775,ANGJ.J,,,,107,,,Emerg. Mkts.
+776,ANGJ.J,,,,107,,,
+777,ANGJ.J,,,,107,,,Emerg. Mkts.
+778,ANGJ.J,,,,113,,,Emerg. Mkts.
+779,ANGJ.J,,,,113,,,GARP
+780,ANGJ.J,,,,113,,,Emerg. Mkts.
+781,ANGJ.J,,,,107,,,Index
+782,ANGJ.J,,,,113,,,Emerg. Mkts.
+783,ANGJ.J,,,,101,,,Emerg. Mkts.
+784,ANGJ.J,,,,113,,,Sector Specific
+785,ANGJ.J,,,,107,,,Specialty
+786,ANGJ.J,,,,107,,,Sector Specific
+787,ANGJ.J,,,,107,,,Growth
+788,ANGJ.J,,,,113,,,Core Value
+789,ANGJ.J,,,,107,,,GARP
+790,ANGJ.J,,,,113,,,Emerg. Mkts.
+791,ANGJ.J,,,,107,,,Emerg. Mkts.
+792,ANGJ.J,,,,107,,,
+793,ANGJ.J,,,,113,,,Index
+794,ANGJ.J,,,,107,,,
+795,ANGJ.J,,,,107,,,Specialty
+796,ANGJ.J,,,,113,,,Core Value
+797,ANGJ.J,,,,107,,,Core Value
+798,ANGJ.J,,,,107,,,Sector Specific
+799,ANGJ.J,,,,107,,,Emerg. Mkts.
+800,ANGJ.J,,,,107,,,Income Value
+801,ANGJ.J,,,,113,,,Core Value
+802,ANGJ.J,,,,107,,,Core Value
+803,ANGJ.J,,,,113,,,Sector Specific
+804,ANGJ.J,,,,107,,,Specialty
+805,ANGJ.J,,,,107,,,Emerg. Mkts.
+806,ANGJ.J,,,,113,,,Specialty
+807,ANGJ.J,,,,107,,,Emerg. Mkts.
+808,ANGJ.J,,,,107,,,Sector Specific
+809,ANGJ.J,,,,113,,,Specialty
+810,ANGJ.J,,,,110,,,Sector Specific
+811,ANGJ.J,,,,107,,,Index
+812,ANGJ.J,,,,107,,,Specialty
+813,ANGJ.J,,,,113,,,Emerg. Mkts.
+814,ANGJ.J,,,,107,,,Emerg. Mkts.
+815,ANGJ.J,,,,107,,,Sector Specific
+816,ANGJ.J,,,,107,,,Core Value
+817,ANGJ.J,,,,110,,,Emerg. Mkts.
+818,ANGJ.J,,,,101,,,Emerg. Mkts.
+819,ANGJ.J,,,,113,,,Emerg. Mkts.
+820,ANGJ.J,,,,113,,,Core Growth
+821,ANGJ.J,,,,107,,,Emerg. Mkts.
+822,ANGJ.J,,,,107,,,
+823,ANGJ.J,,,,107,,,Emerg. Mkts.
+824,ANGJ.J,,,,113,,,Core Value
+825,ANGJ.J,,,,113,,,Index
+826,ANGJ.J,,,,107,,,Sector Specific
+827,ANGJ.J,,,,113,,,Income Value
+828,ANGJ.J,,,,113,,,Core Value
+829,ANGJ.J,,,,,,,Emerg. Mkts.
+830,ANGJ.J,,,,,,,
+831,ANGJ.J,,,,,,,
+832,ANGJ.J,,,,,,,
+833,ANGJ.J,,,,,,,
+834,ANGJ.J,,,,,,,
+835,ANGJ.J,,,,,,,
+836,ANGJ.J,,,,,,,
+837,ANGJ.J,,,,,,,
+838,ANGJ.J,,,,,,,
+839,ANGJ.J,,,,,,,
+840,ANGJ.J,,,,,,,
+841,ANGJ.J,,,,,,,
+842,ANGJ.J,,,,,,,
+843,ANGJ.J,,,,,,,
+844,ANGJ.J,,,,,,,
+845,ANGJ.J,,,,,,,
+846,ANGJ.J,,,,,,,
+847,ANGJ.J,,,,,,,
+848,ANGJ.J,,,,,,,
+849,ANGJ.J,,,,,,,
+850,ANGJ.J,,,,,,,
+851,ANGJ.J,,,,,,,
+852,ANGJ.J,,,,,,,
+853,ANGJ.J,,,,,,,
+854,ANGJ.J,,,,,,,
+855,ANGJ.J,,,,,,,
+856,ANGJ.J,,,,,,,
+857,ANGJ.J,,,,,,,
+858,ANGJ.J,,,,,,,
+859,ANGJ.J,,,,,,,
+860,ANGJ.J,,,,,,,
+861,ANGJ.J,,,,,,,
+862,ANGJ.J,,,,,,,
+863,ANGJ.J,,,,,,,
+864,ANGJ.J,,,,,,,
+865,ANGJ.J,,,,,,,
+866,ANGJ.J,,,,,,,
+867,ANGJ.J,,,,,,,
+868,ANGJ.J,,,,,,,
+869,ANGJ.J,,,,,,,
+870,AONJn.J,0.0,1997-09-30T00:00:00Z,2005211,107,,South Africa,
+871,AONJn.J,0.0,1997-09-30T00:00:00Z,2005211,107,,,
+872,AONJn.J,,,,107,,,
+873,AONJn.J,,,,107,,,
+874,ARDOVA.LG,,,,,,Nigeria,
+875,APNJ.J,0.0,1997-06-30T00:00:00Z,2005217,302,,South Africa,
+876,APNJ.J,0.0,1997-06-30T00:00:00Z,2005217,201,,,
+877,APNJ.J,,,,113,,,
+878,APNJ.J,,,,113,,,
+879,APNJ.J,,,,113,,,
+880,APNJ.J,,,,,,,
+881,APNJ.J,,,,,,,
+882,APNJ.J,,,,,,,
+883,ARBICO.LG,,,,,,,
+884,ARIS.ZI,,,,,,Zimbabwe,
+885,ARIJ.J,0.15,1998-12-31T00:00:00Z,2783694,113,,South Africa,Growth
+886,ARIJ.J,0.253,1998-03-31T00:00:00Z,2785765,113,,,Specialty
+887,ARIJ.J,0.2478,1998-06-30T00:00:00Z,2005211,107,,,Sector Specific
+888,ARIJ.J,0.0182,1998-12-31T00:00:00Z,2005218,107,4298409344,,Emerg. Mkts.
+889,ARIJ.J,0.0059,1998-06-30T00:00:00Z,2499117,107,5001231143,,Sector Specific
+890,ARIJ.J,0.0,1998-12-31T00:00:00Z,2003614,107,,,
+891,ARIJ.J,0.0,1997-06-30T00:00:00Z,2002306,107,,,Specialty
+892,ARIJ.J,0.0267,1997-12-31T00:00:00Z,2499117,107,5001231143,,Emerg. Mkts.
+893,ARIJ.J,0.0033,1997-12-31T00:00:00Z,2005211,113,,,Index
+894,ARIJ.J,0.0,1997-06-30T00:00:00Z,2002306,107,,,Emerg. Mkts.
+895,ARIJ.J,,,2785765,113,,,Core Growth
+896,ARIJ.J,,,2783694,107,,,Specialty
+897,ARIJ.J,,,2005218,107,,,Core Growth
+898,ARIJ.J,,,2003614,101,,,Emerg. Mkts.
+899,ARIJ.J,,,,113,,,Index
+900,ARIJ.J,,,,113,,,Emerg. Mkts.
+901,ARIJ.J,,,,113,,,
+902,ARIJ.J,,,,107,,,
+903,ARIJ.J,,,,110,,,
+904,ARIJ.J,,,,107,,,
+905,ARIJ.J,,,,110,,,
+906,ARIJ.J,,,,107,,,
+907,ARIJ.J,,,,107,,,
+908,ARIJ.J,,,,113,,,
+909,ARIJ.J,,,,107,,,
+910,ARIJ.J,,,,113,,,
+911,ARIJ.J,,,,113,,,
+912,ARIJ.J,,,,107,,,
+913,ARIJ.J,,,,,,,
+914,ARIJ.J,,,,,,,
+915,ARIJ.J,,,,,,,
+916,ARIJ.J,,,,,,,
+917,ARIJ.J,,,,,,,
+918,ARIJ.J,,,,,,,
+919,ARIJ.J,,,,,,,
+920,ARIJ.J,,,,,,,
+921,ARIJ.J,,,,,,,
+922,ARIJ.J,,,,,,,
+923,ARIJ.J,,,,,,,
+924,ARIJ.J,,,,,,,
+925,ARM.NR,,,,,,Kenya,
+926,ARLJ.J,,,,,,South Africa,
+927,ABGJ.J,19.3,1998-08-03T00:00:00Z,2676461,113,5000854298,South Africa,Specialty
+928,ABGJ.J,9.34,1998-08-03T00:00:00Z,2637186,301,4297902883,,Emerg. Mkts.
+929,ABGJ.J,4.44,1998-08-03T00:00:00Z,2633591,301,4295889121,,Core Value
+930,ABGJ.J,0.15,1998-12-31T00:00:00Z,2003066,302,5000051932,,GARP
+931,ABGJ.J,0.14,1998-12-31T00:00:00Z,2004961,302,,,Emerg. Mkts.
+932,ABGJ.J,0.06,1998-03-31T00:00:00Z,2785765,113,,,Emerg. Mkts.
+933,ABGJ.J,0.04,1998-12-31T00:00:00Z,2003504,113,,,Emerg. Mkts.
+934,ABGJ.J,0.0094,1998-12-31T00:00:00Z,2004197,107,4296293277,,Specialty
+935,ABGJ.J,0.01,1998-12-31T00:00:00Z,2003516,113,5000071982,,Emerg. Mkts.
+936,ABGJ.J,0.01,1998-12-31T00:00:00Z,2002823,113,5000052202,,Index
+937,ABGJ.J,0.0039,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+938,ABGJ.J,0.0031,1998-06-30T00:00:00Z,2005211,107,,,Emerg. Mkts.
+939,ABGJ.J,0.0016,1998-12-31T00:00:00Z,2003457,113,5000036827,,Emerg. Mkts.
+940,ABGJ.J,0.0009,1998-12-31T00:00:00Z,2003614,107,,,Specialty
+941,ABGJ.J,0.0,1997-09-30T00:00:00Z,2784524,107,,,Emerg. Mkts.
+942,ABGJ.J,0.0,1998-12-31T00:00:00Z,2005217,107,,,Emerg. Mkts.
+943,ABGJ.J,0.0,1997-06-30T00:00:00Z,2003677,107,,,Emerg. Mkts.
+944,ABGJ.J,0.0,1998-12-31T00:00:00Z,2002306,110,,,Emerg. Mkts.
+945,ABGJ.J,8.91,1997-12-01T00:00:00Z,2637186,110,4297902883,,Specialty
+946,ABGJ.J,4.61,1997-11-05T00:00:00Z,2633591,107,4295889121,,Emerg. Mkts.
+947,ABGJ.J,0.11,1997-12-31T00:00:00Z,2003066,107,5000051932,,Emerg. Mkts.
+948,ABGJ.J,0.06,1997-12-31T00:00:00Z,2003504,113,,,Emerg. Mkts.
+949,ABGJ.J,0.05,1997-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+950,ABGJ.J,0.01,1997-12-31T00:00:00Z,2003516,107,5000071982,,Core Growth
+951,ABGJ.J,0.0048,1997-12-31T00:00:00Z,2004197,113,4296293277,,Emerg. Mkts.
+952,ABGJ.J,0.0043,1997-12-31T00:00:00Z,2005211,107,,,Emerg. Mkts.
+953,ABGJ.J,0.0,1997-09-30T00:00:00Z,2784524,113,,,Core Growth
+954,ABGJ.J,0.0,1997-06-30T00:00:00Z,2003677,107,,,Emerg. Mkts.
+955,ABGJ.J,,,2785765,107,,,Emerg. Mkts.
+956,ABGJ.J,,,2676461,107,,,Growth
+957,ABGJ.J,,,2005217,107,,,Growth
+958,ABGJ.J,,,2004961,107,,,Emerg. Mkts.
+959,ABGJ.J,,,2003614,107,,,Emerg. Mkts.
+960,ABGJ.J,,,2003457,107,,,Emerg. Mkts.
+961,ABGJ.J,,,2002823,113,,,Emerg. Mkts.
+962,ABGJ.J,,,2002306,101,,,Emerg. Mkts.
+963,ABGJ.J,,,,113,,,Emerg. Mkts.
+964,ABGJ.J,,,,107,,,Emerg. Mkts.
+965,ABGJ.J,,,,107,,,Core Value
+966,ABGJ.J,,,,107,,,Emerg. Mkts.
+967,ABGJ.J,,,,113,,,Specialty
+968,ABGJ.J,,,,107,,,Emerg. Mkts.
+969,ABGJ.J,,,,107,,,Emerg. Mkts.
+970,ABGJ.J,,,,101,,,
+971,ABGJ.J,,,,107,,,Income Value
+972,ABGJ.J,,,,107,,,Income Value
+973,ABGJ.J,,,,113,,,Growth
+974,ABGJ.J,,,,113,,,Emerg. Mkts.
+975,ABGJ.J,,,,107,,,Emerg. Mkts.
+976,ABGJ.J,,,,107,,,Index
+977,ABGJ.J,,,,107,,,GARP
+978,ABGJ.J,,,,113,,,Emerg. Mkts.
+979,ABGJ.J,,,,113,,,Core Value
+980,ABGJ.J,,,,107,,,Emerg. Mkts.
+981,ABGJ.J,,,,107,,,Emerg. Mkts.
+982,ABGJ.J,,,,301,,,Specialty
+983,ABGJ.J,,,,302,,,Emerg. Mkts.
+984,ABGJ.J,,,,113,,,Emerg. Mkts.
+985,ABGJ.J,,,,113,,,Core Growth
+986,ABGJ.J,,,,107,,,Emerg. Mkts.
+987,ABGJ.J,,,,113,,,Emerg. Mkts.
+988,ABGJ.J,,,,113,,,Emerg. Mkts.
+989,ABGJ.J,,,,113,,,GARP
+990,ABGJ.J,,,,107,,,Index
+991,ABGJ.J,,,,107,,,Emerg. Mkts.
+992,ABGJ.J,,,,107,,,Core Value
+993,ABGJ.J,,,,107,,,Growth
+994,ABGJ.J,,,,113,,,Core Value
+995,ABGJ.J,,,,107,,,Core Value
+996,ABGJ.J,,,,107,,,Growth
+997,ABGJ.J,,,,113,,,Deep Value
+998,ABGJ.J,,,,107,,,Growth
+999,ABGJ.J,,,,107,,,GARP
+1000,ABGJ.J,,,,107,,,Growth
+1001,ABGJ.J,,,,107,,,GARP
+1002,ABGJ.J,,,,113,,,Core Growth
+1003,ABGJ.J,,,,107,,,Core Value
+1004,ABGJ.J,,,,107,,,GARP
+1005,ABGJ.J,,,,107,,,Core Growth
+1006,ABGJ.J,,,,107,,,Core Value
+1007,ABGJ.J,,,,107,,,Aggres. Gr.
+1008,ABGJ.J,,,,107,,,Emerg. Mkts.
+1009,ABGJ.J,,,,107,,,Growth
+1010,ABGJ.J,,,,113,,,Core Growth
+1011,ABGJ.J,,,,110,,,Core Growth
+1012,ABGJ.J,,,,,,,Emerg. Mkts.
+1013,ABGJ.J,,,,,,,Emerg. Mkts.
+1014,ABGJ.J,,,,,,,GARP
+1015,ABGJ.J,,,,,,,Emerg. Mkts.
+1016,ABGJ.J,,,,,,,Core Value
+1017,ABGJ.J,,,,,,,Emerg. Mkts.
+1018,ABGJ.J,,,,,,,Growth
+1019,ABGJ.J,,,,,,,Growth
+1020,ABGJ.J,,,,,,,
+1021,ABGJ.J,,,,,,,Specialty
+1022,ABGJ.J,,,,,,,Core Growth
+1023,ABGJ.J,,,,,,,Growth
+1024,ABGJ.J,,,,,,,Emerg. Mkts.
+1025,ABGJ.J,,,,,,,Core Value
+1026,ABGJ.J,,,,,,,GARP
+1027,ABGJ.J,,,,,,,Emerg. Mkts.
+1028,ABGJ.J,,,,,,,Emerg. Mkts.
+1029,ABGJ.J,,,,,,,Growth
+1030,ABGJ.J,,,,,,,Emerg. Mkts.
+1031,ABGJ.J,,,,,,,Emerg. Mkts.
+1032,ABGJ.J,,,,,,,Core Growth
+1033,ABGJ.J,,,,,,,Emerg. Mkts.
+1034,ABGJ.J,,,,,,,Index
+1035,ABGJ.J,,,,,,,Emerg. Mkts.
+1036,ABGJ.J,,,,,,,Emerg. Mkts.
+1037,ABGJ.J,,,,,,,Emerg. Mkts.
+1038,ABGJ.J,,,,,,,Emerg. Mkts.
+1039,ABGJ.J,,,,,,,Aggres. Gr.
+1040,ABGJ.J,,,,,,,Emerg. Mkts.
+1041,ABGJ.J,,,,,,,Specialty
+1042,ABGJ.J,,,,,,,Emerg. Mkts.
+1043,ABGJ.J,,,,,,,Emerg. Mkts.
+1044,ABGJ.J,,,,,,,Emerg. Mkts.
+1045,ABGJ.J,,,,,,,Emerg. Mkts.
+1046,ABGJ.J,,,,,,,Emerg. Mkts.
+1047,ABGJ.J,,,,,,,Emerg. Mkts.
+1048,ABGJ.J,,,,,,,GARP
+1049,ABGJ.J,,,,,,,Emerg. Mkts.
+1050,ABGJ.J,,,,,,,Emerg. Mkts.
+1051,ABGJ.J,,,,,,,Growth
+1052,ABGJ.J,,,,,,,Emerg. Mkts.
+1053,ABGJ.J,,,,,,,Emerg. Mkts.
+1054,ABGJ.J,,,,,,,Growth
+1055,ABGJ.J,,,,,,,Growth
+1056,ABGJ.J,,,,,,,Specialty
+1057,ABGJ.J,,,,,,,Emerg. Mkts.
+1058,ABGJ.J,,,,,,,
+1059,ABGJ.J,,,,,,,Deep Value
+1060,ABGJ.J,,,,,,,Emerg. Mkts.
+1061,ABGJ.J,,,,,,,Emerg. Mkts.
+1062,ABGJ.J,,,,,,,Income Value
+1063,ABGJ.J,,,,,,,Emerg. Mkts.
+1064,ABGJ.J,,,,,,,Growth
+1065,ABGJ.J,,,,,,,Emerg. Mkts.
+1066,ABGJ.J,,,,,,,Emerg. Mkts.
+1067,ABGJ.J,,,,,,,Emerg. Mkts.
+1068,ABGJ.J,,,,,,,Index
+1069,ABGJ.J,,,,,,,Index
+1070,ABGJ.J,,,,,,,Core Value
+1071,ABGJ.J,,,,,,,Core Value
+1072,ABGJ.J,,,,,,,Emerg. Mkts.
+1073,ABGJ.J,,,,,,,GARP
+1074,ABGJ.J,,,,,,,Emerg. Mkts.
+1075,ABGJ.J,,,,,,,Emerg. Mkts.
+1076,ABGJ.J,,,,,,,Emerg. Mkts.
+1077,ABGJ.J,,,,,,,Core Growth
+1078,ABGJ.J,,,,,,,Core Value
+1079,ABGJ.J,,,,,,,
+1080,ABGJ.J,,,,,,,
+1081,ABGJ.J,,,,,,,
+1082,ABGJ.J,,,,,,,
+1083,ABGJ.J,,,,,,,
+1084,ABGJ.J,,,,,,,
+1085,ABGJ.J,,,,,,,
+1086,ABGJ.J,,,,,,,
+1087,ABGJ.J,,,,,,,
+1088,ABGJ.J,,,,,,,
+1089,ABGJ.J,,,,,,,
+1090,ABGJ.J,,,,,,,
+1091,ABGJ.J,,,,,,,
+1092,ABGJ.J,,,,,,,
+1093,ABGJ.J,,,,,,,
+1094,ABGJ.J,,,,,,,
+1095,ABGJ.J,,,,,,,
+1096,ABGJ.J,,,,,,,
+1097,ABGJ.J,,,,,,,
+1098,ABGJ.J,,,,,,,
+1099,ABGJ.J,,,,,,,
+1100,ABGJ.J,,,,,,,
+1101,ABGJ.J,,,,,,,
+1102,ABGJ.J,,,,,,,
+1103,ABGJ.J,,,,,,,
+1104,ABGJ.J,,,,,,,
+1105,ABGJ.J,,,,,,,
+1106,ABGJ.J,,,,,,,
+1107,ABGJ.J,,,,,,,
+1108,ABGJ.J,,,,,,,
+1109,ABGJ.J,,,,,,,
+1110,ABGJ.J,,,,,,,
+1111,ABGJ.J,,,,,,,
+1112,ABGJ.J,,,,,,,
+1113,ABGJ.J,,,,,,,
+1114,ABGJ.J,,,,,,,
+1115,ENXJ.J,,,,,,South Africa,
+1116,AELJ.J,39.8593,1998-08-03T00:00:00Z,5220748,301,5019887617,South Africa,Emerg. Mkts.
+1117,AELJ.J,11.9838,1998-08-03T00:00:00Z,2676461,301,5000854298,,Core Value
+1118,AELJ.J,6.022,1998-08-03T00:00:00Z,2637186,113,4297902883,,Emerg. Mkts.
+1119,AELJ.J,5.3103,1998-08-03T00:00:00Z,2633334,301,4295896494,,Emerg. Mkts.
+1120,AELJ.J,1.3727,1998-08-03T00:00:00Z,4186990,301,5000059446,,Emerg. Mkts.
+1121,AELJ.J,0.0,1998-09-30T00:00:00Z,2783074,301,,,
+1122,AELJ.J,40.0719,1997-01-31T00:00:00Z,5220748,107,5019887617,,
+1123,AELJ.J,,,4186990,113,,,
+1124,AELJ.J,,,2783074,107,,,
+1125,AELJ.J,,,2676461,107,,,
+1126,AELJ.J,,,2637186,113,,,
+1127,AELJ.J,,,2633334,301,,,
+1128,AELJ.J,,,,113,,,
+1129,AELJ.J,,,,107,,,
+1130,AELJ.J,,,,113,,,
+1131,AELJ.J,,,,113,,,
+1132,AELJ.J,,,,107,,,
+1133,AELJ.J,,,,,,,
+1134,AELJ.J,,,,,,,
+1135,AELJ.J,,,,,,,
+1136,AELJ.J,,,,,,,
+1137,AELJ.J,,,,,,,
+1138,AVIJ.J,12.1656,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+1139,AVIJ.J,6.86,1998-08-03T00:00:00Z,2652506,113,,,Hedge Fund
+1140,AVIJ.J,2.5345,1998-08-03T00:00:00Z,2637186,301,4297902883,,Emerg. Mkts.
+1141,AVIJ.J,0.0046,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+1142,AVIJ.J,0.0036,1998-06-30T00:00:00Z,2005211,301,,,Index
+1143,AVIJ.J,0.0,1998-06-30T00:00:00Z,2005217,107,,,Emerg. Mkts.
+1144,AVIJ.J,0.0,1998-12-31T00:00:00Z,2002823,107,5000052202,,Emerg. Mkts.
+1145,AVIJ.J,0.2953,1997-12-31T00:00:00Z,2005217,110,,,Emerg. Mkts.
+1146,AVIJ.J,0.0047,1997-12-31T00:00:00Z,2005211,107,,,Emerg. Mkts.
+1147,AVIJ.J,0.0017,1997-12-31T00:00:00Z,2006038,101,,,Emerg. Mkts.
+1148,AVIJ.J,,,2676461,107,,,Core Growth
+1149,AVIJ.J,,,2652506,113,,,Emerg. Mkts.
+1150,AVIJ.J,,,2637186,107,,,
+1151,AVIJ.J,,,2002823,113,,,Growth
+1152,AVIJ.J,,,,107,,,Growth
+1153,AVIJ.J,,,,107,,,Index
+1154,AVIJ.J,,,,113,,,Index
+1155,AVIJ.J,,,,113,,,Index
+1156,AVIJ.J,,,,113,,,Income Value
+1157,AVIJ.J,,,,113,,,Emerg. Mkts.
+1158,AVIJ.J,,,,113,,,Core Value
+1159,AVIJ.J,,,,113,,,Emerg. Mkts.
+1160,AVIJ.J,,,,107,,,Specialty
+1161,AVIJ.J,,,,113,,,Emerg. Mkts.
+1162,AVIJ.J,,,,107,,,Emerg. Mkts.
+1163,AVIJ.J,,,,113,,,Index
+1164,AVIJ.J,,,,113,,,Emerg. Mkts.
+1165,AVIJ.J,,,,113,,,Emerg. Mkts.
+1166,AVIJ.J,,,,110,,,Emerg. Mkts.
+1167,AVIJ.J,,,,113,,,Emerg. Mkts.
+1168,AVIJ.J,,,,107,,,Core Growth
+1169,AVIJ.J,,,,107,,,
+1170,AVIJ.J,,,,113,,,Emerg. Mkts.
+1171,AVIJ.J,,,,107,,,Index
+1172,AVIJ.J,,,,113,,,Index
+1173,AVIJ.J,,,,,,,Income Value
+1174,AVIJ.J,,,,,,,Index
+1175,AVIJ.J,,,,,,,Core Value
+1176,AVIJ.J,,,,,,,
+1177,AVIJ.J,,,,,,,
+1178,AVIJ.J,,,,,,,
+1179,AVIJ.J,,,,,,,
+1180,AVIJ.J,,,,,,,
+1181,AVIJ.J,,,,,,,
+1182,AVIJ.J,,,,,,,
+1183,AVIJ.J,,,,,,,
+1184,AVONCRO.LG,,,,,,Nigeria,
+1185,AYRTN.GH,,,,,,South Africa,
+1186,BAMB.NR,,,,,,Switzerland,
+1187,FCA.ZI,,,,,,Malawi,
+1188,ABSA.BT,0.0,1998-12-31T00:00:00Z,2006494,107,5000706029,South Africa,Hedge Fund
+1189,ABSA.BT,0.002,1997-06-30T00:00:00Z,2006494,107,5000706029,,Growth
+1190,ABSA.BT,,,,107,,,
+1191,ABSA.BT,,,,107,,,Hedge Fund
+1192,ABSA.BT,,,,,,,
+1193,ABSA.BT,,,,,,,
+1194,BATJ.J,1.1318,1998-12-31T00:00:00Z,2005217,113,,Malta,
+1195,BATJ.J,0.0041,1998-12-31T00:00:00Z,2006038,113,,,
+1196,BATJ.J,,,2006038,107,,,
+1197,BATJ.J,,,2005217,107,,,
+1198,BATJ.J,,,,107,,,
+1199,BATJ.J,,,,,,,
+1200,BATJ.J,,,,,,,
+1201,BATJ.J,,,,,,,
+1202,BATJ.J,,,,,,,
+1203,BATJ.J,,,,,,,
+1204,BAT.NR,,,,,,United Kingdom,
+1205,BAT.ZI,,,,,,United Kingdom,
+1206,BAWJ.J,30.7723,1998-08-17T00:00:00Z,2676461,301,5000854298,South Africa,Emerg. Mkts.
+1207,BAWJ.J,11.0695,1998-08-17T00:00:00Z,2637186,113,4297902883,,Emerg. Mkts.
+1208,BAWJ.J,1.3041,1998-08-17T00:00:00Z,2938719,301,5001196246,,GARP
+1209,BAWJ.J,0.2825,1998-03-31T00:00:00Z,2785765,107,,,Emerg. Mkts.
+1210,BAWJ.J,0.2733,1998-12-31T00:00:00Z,2003066,302,5000051932,,Specialty
+1211,BAWJ.J,0.1401,1998-12-31T00:00:00Z,2785887,113,,,Emerg. Mkts.
+1212,BAWJ.J,0.0156,1998-12-31T00:00:00Z,2003516,110,5000071982,,Emerg. Mkts.
+1213,BAWJ.J,0.0037,1998-09-30T00:00:00Z,2004197,113,4296293277,,Emerg. Mkts.
+1214,BAWJ.J,0.0035,1998-12-31T00:00:00Z,2006038,107,,,Emerg. Mkts.
+1215,BAWJ.J,0.0033,1998-06-30T00:00:00Z,2005211,107,,,Emerg. Mkts.
+1216,BAWJ.J,0.0031,1998-12-31T00:00:00Z,2003614,107,,,Emerg. Mkts.
+1217,BAWJ.J,0.0,1998-09-30T00:00:00Z,2005218,113,4298409344,,Index
+1218,BAWJ.J,0.0,1998-06-30T00:00:00Z,2004961,107,,,Emerg. Mkts.
+1219,BAWJ.J,0.0,1998-06-30T00:00:00Z,2003974,113,5000001140,,Emerg. Mkts.
+1220,BAWJ.J,0.0,1998-12-31T00:00:00Z,2003708,113,5000064072,,Emerg. Mkts.
+1221,BAWJ.J,0.0,1997-06-30T00:00:00Z,2003677,107,,,Emerg. Mkts.
+1222,BAWJ.J,0.1734,1997-12-31T00:00:00Z,2003066,113,5000051932,,Emerg. Mkts.
+1223,BAWJ.J,0.0815,1997-12-31T00:00:00Z,2004961,107,,,Emerg. Mkts.
+1224,BAWJ.J,0.0776,1997-03-31T00:00:00Z,2003974,107,5000001140,,Emerg. Mkts.
+1225,BAWJ.J,0.0485,1997-06-30T00:00:00Z,2005218,113,4298409344,,Emerg. Mkts.
+1226,BAWJ.J,0.0199,1997-12-31T00:00:00Z,2003516,113,5000071982,,Emerg. Mkts.
+1227,BAWJ.J,0.0096,1997-12-31T00:00:00Z,2003708,110,5000064072,,Emerg. Mkts.
+1228,BAWJ.J,0.0045,1997-12-31T00:00:00Z,2005211,113,,,Emerg. Mkts.
+1229,BAWJ.J,0.002,1997-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+1230,BAWJ.J,0.0,1997-06-30T00:00:00Z,2003677,107,,,Emerg. Mkts.
+1231,BAWJ.J,,,2938719,113,,,Core Growth
+1232,BAWJ.J,,,2785887,107,,,Specialty
+1233,BAWJ.J,,,2785765,107,,,Emerg. Mkts.
+1234,BAWJ.J,,,2676461,107,,,Growth
+1235,BAWJ.J,,,2637186,113,,,Emerg. Mkts.
+1236,BAWJ.J,,,2004197,107,,,Emerg. Mkts.
+1237,BAWJ.J,,,2003614,107,,,Emerg. Mkts.
+1238,BAWJ.J,,,,107,,,Emerg. Mkts.
+1239,BAWJ.J,,,,107,,,Emerg. Mkts.
+1240,BAWJ.J,,,,107,,,Emerg. Mkts.
+1241,BAWJ.J,,,,107,,,Core Growth
+1242,BAWJ.J,,,,107,,,Emerg. Mkts.
+1243,BAWJ.J,,,,113,,,Growth
+1244,BAWJ.J,,,,107,,,
+1245,BAWJ.J,,,,107,,,Emerg. Mkts.
+1246,BAWJ.J,,,,107,,,Emerg. Mkts.
+1247,BAWJ.J,,,,101,,,Core Value
+1248,BAWJ.J,,,,107,,,Emerg. Mkts.
+1249,BAWJ.J,,,,107,,,Core Value
+1250,BAWJ.J,,,,107,,,Index
+1251,BAWJ.J,,,,107,,,Core Growth
+1252,BAWJ.J,,,,107,,,Core Growth
+1253,BAWJ.J,,,,113,,,Emerg. Mkts.
+1254,BAWJ.J,,,,113,,,Emerg. Mkts.
+1255,BAWJ.J,,,,113,,,Growth
+1256,BAWJ.J,,,,107,,,Emerg. Mkts.
+1257,BAWJ.J,,,,113,,,Index
+1258,BAWJ.J,,,,107,,,Emerg. Mkts.
+1259,BAWJ.J,,,,113,,,Growth
+1260,BAWJ.J,,,,101,,,GARP
+1261,BAWJ.J,,,,113,,,Index
+1262,BAWJ.J,,,,110,,,Index
+1263,BAWJ.J,,,,113,,,GARP
+1264,BAWJ.J,,,,113,,,Emerg. Mkts.
+1265,BAWJ.J,,,,107,,,Growth
+1266,BAWJ.J,,,,113,,,Emerg. Mkts.
+1267,BAWJ.J,,,,113,,,Emerg. Mkts.
+1268,BAWJ.J,,,,113,,,Growth
+1269,BAWJ.J,,,,107,,,Emerg. Mkts.
+1270,BAWJ.J,,,,113,,,Growth
+1271,BAWJ.J,,,,113,,,Core Growth
+1272,BAWJ.J,,,,113,,,Growth
+1273,BAWJ.J,,,,107,,,Specialty
+1274,BAWJ.J,,,,113,,,Specialty
+1275,BAWJ.J,,,,113,,,Emerg. Mkts.
+1276,BAWJ.J,,,,107,,,Emerg. Mkts.
+1277,BAWJ.J,,,,107,,,Emerg. Mkts.
+1278,BAWJ.J,,,,107,,,Specialty
+1279,BAWJ.J,,,,113,,,Emerg. Mkts.
+1280,BAWJ.J,,,,110,,,Emerg. Mkts.
+1281,BAWJ.J,,,,107,,,Emerg. Mkts.
+1282,BAWJ.J,,,,113,,,Emerg. Mkts.
+1283,BAWJ.J,,,,110,,,Growth
+1284,BAWJ.J,,,,113,,,Emerg. Mkts.
+1285,BAWJ.J,,,,107,,,Core Growth
+1286,BAWJ.J,,,,107,,,Income Value
+1287,BAWJ.J,,,,107,,,Emerg. Mkts.
+1288,BAWJ.J,,,,107,,,Emerg. Mkts.
+1289,BAWJ.J,,,,107,,,Specialty
+1290,BAWJ.J,,,,113,,,Emerg. Mkts.
+1291,BAWJ.J,,,,113,,,GARP
+1292,BAWJ.J,,,,113,,,Emerg. Mkts.
+1293,BAWJ.J,,,,113,,,Emerg. Mkts.
+1294,BAWJ.J,,,,107,,,Growth
+1295,BAWJ.J,,,,107,,,Emerg. Mkts.
+1296,BAWJ.J,,,,107,,,Emerg. Mkts.
+1297,BAWJ.J,,,,113,,,Emerg. Mkts.
+1298,BAWJ.J,,,,107,,,Emerg. Mkts.
+1299,BAWJ.J,,,,107,,,Emerg. Mkts.
+1300,BAWJ.J,,,,101,,,Emerg. Mkts.
+1301,BAWJ.J,,,,107,,,Index
+1302,BAWJ.J,,,,107,,,Emerg. Mkts.
+1303,BAWJ.J,,,,113,,,Specialty
+1304,BAWJ.J,,,,,,,Emerg. Mkts.
+1305,BAWJ.J,,,,,,,Emerg. Mkts.
+1306,BAWJ.J,,,,,,,Emerg. Mkts.
+1307,BAWJ.J,,,,,,,Emerg. Mkts.
+1308,BAWJ.J,,,,,,,Emerg. Mkts.
+1309,BAWJ.J,,,,,,,Emerg. Mkts.
+1310,BAWJ.J,,,,,,,Emerg. Mkts.
+1311,BAWJ.J,,,,,,,Emerg. Mkts.
+1312,BAWJ.J,,,,,,,Emerg. Mkts.
+1313,BAWJ.J,,,,,,,Core Growth
+1314,BAWJ.J,,,,,,,Specialty
+1315,BAWJ.J,,,,,,,Emerg. Mkts.
+1316,BAWJ.J,,,,,,,Emerg. Mkts.
+1317,BAWJ.J,,,,,,,Emerg. Mkts.
+1318,BAWJ.J,,,,,,,Emerg. Mkts.
+1319,BAWJ.J,,,,,,,Emerg. Mkts.
+1320,BAWJ.J,,,,,,,Emerg. Mkts.
+1321,BAWJ.J,,,,,,,Emerg. Mkts.
+1322,BAWJ.J,,,,,,,Emerg. Mkts.
+1323,BAWJ.J,,,,,,,Emerg. Mkts.
+1324,BAWJ.J,,,,,,,Emerg. Mkts.
+1325,BAWJ.J,,,,,,,Emerg. Mkts.
+1326,BAWJ.J,,,,,,,Core Growth
+1327,BAWJ.J,,,,,,,Emerg. Mkts.
+1328,BAWJ.J,,,,,,,Emerg. Mkts.
+1329,BAWJ.J,,,,,,,Growth
+1330,BAWJ.J,,,,,,,
+1331,BAWJ.J,,,,,,,Growth
+1332,BAWJ.J,,,,,,,Income Value
+1333,BAWJ.J,,,,,,,Emerg. Mkts.
+1334,BAWJ.J,,,,,,,Emerg. Mkts.
+1335,BAWJ.J,,,,,,,Index
+1336,BAWJ.J,,,,,,,Index
+1337,BAWJ.J,,,,,,,Core Growth
+1338,BAWJ.J,,,,,,,Core Growth
+1339,BAWJ.J,,,,,,,Emerg. Mkts.
+1340,BAWJ.J,,,,,,,Specialty
+1341,BAWJ.J,,,,,,,Core Growth
+1342,BAWJ.J,,,,,,,Core Value
+1343,BAWJ.J,,,,,,,Emerg. Mkts.
+1344,BAWJ.J,,,,,,,Index
+1345,BAWJ.J,,,,,,,Index
+1346,BAWJ.J,,,,,,,GARP
+1347,BAWJ.J,,,,,,,GARP
+1348,BAWJ.J,,,,,,,Growth
+1349,BAWJ.J,,,,,,,Emerg. Mkts.
+1350,BAWJ.J,,,,,,,Emerg. Mkts.
+1351,BAWJ.J,,,,,,,Growth
+1352,BAWJ.J,,,,,,,Emerg. Mkts.
+1353,BAWJ.J,,,,,,,Growth
+1354,BAWJ.J,,,,,,,Core Growth
+1355,BAWJ.J,,,,,,,Growth
+1356,BAWJ.J,,,,,,,Emerg. Mkts.
+1357,BAWJ.J,,,,,,,Growth
+1358,BAWJ.J,,,,,,,
+1359,BAWJ.J,,,,,,,
+1360,BAWJ.J,,,,,,,
+1361,BAWJ.J,,,,,,,
+1362,BAWJ.J,,,,,,,
+1363,BAWJ.J,,,,,,,
+1364,BAWJ.J,,,,,,,
+1365,BAWJ.J,,,,,,,
+1366,BAWJ.J,,,,,,,
+1367,BAWJ.J,,,,,,,
+1368,BAWJ.J,,,,,,,
+1369,BAWJ.J,,,,,,,
+1370,BAWJ.J,,,,,,,
+1371,BAWJ.J,,,,,,,
+1372,ABSA.NR,0.2153,1998-12-31T00:00:00Z,2005726,107,5001449043,South Africa,
+1373,ABSA.NR,,,2005726,,,,
+1374,BCFJ.J,52.5507,1998-08-03T00:00:00Z,3247841,306,48471677077,South Africa,Specialty
+1375,BCFJ.J,13.7102,1998-08-03T00:00:00Z,2676461,301,5000854298,,
+1376,BCFJ.J,13.1734,1998-08-03T00:00:00Z,2653009,301,48471686560,,
+1377,BCFJ.J,4.686,1998-12-31T00:00:00Z,2005217,107,,,
+1378,BCFJ.J,,,3247841,113,,,
+1379,BCFJ.J,,,2676461,111,,,
+1380,BCFJ.J,,,2653009,113,,,
+1381,BCFJ.J,,,2005217,,,,
+1382,BCFJ.J,,,,,,,
+1383,BCFJ.J,,,,,,,
+1384,BCFJ.J,,,,,,,
+1385,BCFJ.J,,,,,,,
+1386,BCFJ.J,,,,,,,
+1387,BCFJ.J,,,,,,,
+1388,BELJ.J,25.5242,1998-08-03T00:00:00Z,3253760,303,34413317827,South Africa,Specialty
+1389,BELJ.J,25.52,1998-08-03T00:00:00Z,3253759,303,,,Specialty
+1390,BELJ.J,25.52,1998-08-03T00:00:00Z,3253758,303,,,
+1391,BELJ.J,10.85,1998-08-03T00:00:00Z,3247813,113,,,
+1392,BELJ.J,8.85,1998-08-03T00:00:00Z,3247815,303,,,
+1393,BELJ.J,5.51,1998-08-03T00:00:00Z,2676461,303,5000854298,,
+1394,BELJ.J,2.5837,1998-08-03T00:00:00Z,2938719,301,5001196246,,
+1395,BELJ.J,25.6171,1997-01-31T00:00:00Z,3253760,110,34413317827,,
+1396,BELJ.J,25.62,1997-01-31T00:00:00Z,3253759,303,,,
+1397,BELJ.J,25.62,1997-01-31T00:00:00Z,3253758,303,,,
+1398,BELJ.J,,,3247815,303,,,
+1399,BELJ.J,,,3247813,113,,,
+1400,BELJ.J,,,2938719,,,,
+1401,BELJ.J,,,2676461,,,,
+1402,BELJ.J,,,,,,,
+1403,BELJ.J,,,,,,,
+1404,BERGER.LG,,,,,,Nigeria,
+1405,CAFCA.ZI,,,,,,,
+1406,BIHL.BT,,,,113,,South Africa,Emerg. Mkts.
+1407,BIHL.BT,,,,107,,,Emerg. Mkts.
+1408,BIHL.BT,,,,107,,,Emerg. Mkts.
+1409,BIHL.BT,,,,,,,Emerg. Mkts.
+1410,BIHL.BT,,,,,,,Emerg. Mkts.
+1411,BIHL.BT,,,,,,,
+1412,BIKJ.J,,,,,,South Africa,
+1413,BLUJ.J,,,,,,South Africa,
+1414,BOPP.GH,,,,,,Singapore,
+1415,BRDR.ZI,,,,,,Zimbabwe,
+1416,BRTJ.J,16.14,1998-08-17T00:00:00Z,2658527,301,5055408633,South Africa,
+1417,BRTJ.J,16.14,1998-08-17T00:00:00Z,2636700,302,,,
+1418,BRTJ.J,1.54,1998-08-17T00:00:00Z,3248852,201,34413513297,,
+1419,BRTJ.J,1.2378,1998-08-17T00:00:00Z,3248854,303,34413321011,,
+1420,BRTJ.J,1.22,1998-08-17T00:00:00Z,2675520,107,5055410695,,
+1421,BRTJ.J,,,3248854,303,,,
+1422,BRTJ.J,,,3248852,301,,,
+1423,BRTJ.J,,,2675520,,,,
+1424,BRTJ.J,,,2658527,,,,
+1425,BRTJ.J,,,2636700,,,,
+1426,BRTJ.J,,,,,,,
+1427,BRTJ.J,,,,,,,
+1428,BRTJ.J,,,,,,,
+1429,BRTJ.J,,,,,,,
+1430,BSRJ.J,4.51,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,
+1431,BSRJ.J,0.52,1998-06-30T00:00:00Z,2005211,113,,,
+1432,BSRJ.J,0.0027,1998-12-31T00:00:00Z,2006038,107,,,
+1433,BSRJ.J,0.27,1997-12-31T00:00:00Z,2005211,107,,,
+1434,BSRJ.J,,,2676461,107,,,
+1435,BSRJ.J,,,2006038,,,,
+1436,BSRJ.J,,,,,,,
+1437,BSRJ.J,,,,,,,
+1438,BVTJ.J,27.71,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Growth
+1439,BVTJ.J,16.36,1998-08-03T00:00:00Z,2637186,301,4297902883,,Emerg. Mkts.
+1440,BVTJ.J,8.96,1998-07-01T00:00:00Z,3253894,113,,,Emerg. Mkts.
+1441,BVTJ.J,6.93,1998-07-01T00:00:00Z,3300742,113,,,Specialty
+1442,BVTJ.J,6.85,1998-07-01T00:00:00Z,3292836,303,,,Emerg. Mkts.
+1443,BVTJ.J,4.09,1998-07-01T00:00:00Z,2938719,303,5001196246,,Growth
+1444,BVTJ.J,1.45,1998-07-01T00:00:00Z,3157772,303,,,Emerg. Mkts.
+1445,BVTJ.J,1.31,1998-07-01T00:00:00Z,3157773,302,,,GARP
+1446,BVTJ.J,1.25,1998-08-03T00:00:00Z,2639482,110,,,Specialty
+1447,BVTJ.J,0.06,1998-06-30T00:00:00Z,2005211,107,,,Income Value
+1448,BVTJ.J,0.01,1998-03-31T00:00:00Z,2785765,303,,,Specialty
+1449,BVTJ.J,0.01,1998-12-31T00:00:00Z,2005218,113,4298409344,,Income Value
+1450,BVTJ.J,0.0011,1998-12-31T00:00:00Z,2006038,303,,,Specialty
+1451,BVTJ.J,0.0002,1998-12-31T00:00:00Z,2003516,301,5000071982,,Emerg. Mkts.
+1452,BVTJ.J,0.0,1997-09-30T00:00:00Z,2003709,107,,,Sector Specific
+1453,BVTJ.J,0.0,1997-12-31T00:00:00Z,2003066,113,5000051932,,Emerg. Mkts.
+1454,BVTJ.J,0.0,1998-09-30T00:00:00Z,2002868,113,,,Emerg. Mkts.
+1455,BVTJ.J,25.48,1997-01-31T00:00:00Z,3253894,113,,,Growth
+1456,BVTJ.J,0.13,1997-12-31T00:00:00Z,2005211,113,,,Emerg. Mkts.
+1457,BVTJ.J,0.01,1997-12-31T00:00:00Z,2002868,107,,,Emerg. Mkts.
+1458,BVTJ.J,0.002,1997-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+1459,BVTJ.J,0.0,1997-09-30T00:00:00Z,2003709,107,,,Emerg. Mkts.
+1460,BVTJ.J,0.0,1997-12-31T00:00:00Z,2003066,107,5000051932,,Emerg. Mkts.
+1461,BVTJ.J,,,3300742,113,,,Specialty
+1462,BVTJ.J,,,3292836,107,,,Growth
+1463,BVTJ.J,,,3157773,107,,,Emerg. Mkts.
+1464,BVTJ.J,,,3157772,101,,,Emerg. Mkts.
+1465,BVTJ.J,,,2938719,107,,,Emerg. Mkts.
+1466,BVTJ.J,,,2785765,107,,,Emerg. Mkts.
+1467,BVTJ.J,,,2676461,107,,,Emerg. Mkts.
+1468,BVTJ.J,,,2639482,107,,,GARP
+1469,BVTJ.J,,,2637186,303,,,Emerg. Mkts.
+1470,BVTJ.J,,,2005218,113,,,Growth
+1471,BVTJ.J,,,2003516,113,,,
+1472,BVTJ.J,,,,113,,,Emerg. Mkts.
+1473,BVTJ.J,,,,113,,,Growth
+1474,BVTJ.J,,,,113,,,Index
+1475,BVTJ.J,,,,107,,,Emerg. Mkts.
+1476,BVTJ.J,,,,107,,,Core Value
+1477,BVTJ.J,,,,113,,,Core Value
+1478,BVTJ.J,,,,107,,,Specialty
+1479,BVTJ.J,,,,113,,,Growth
+1480,BVTJ.J,,,,107,,,Growth
+1481,BVTJ.J,,,,107,,,Growth
+1482,BVTJ.J,,,,107,,,GARP
+1483,BVTJ.J,,,,,,,Specialty
+1484,BVTJ.J,,,,,,,Emerg. Mkts.
+1485,BVTJ.J,,,,,,,Emerg. Mkts.
+1486,BVTJ.J,,,,,,,Sector Specific
+1487,BVTJ.J,,,,,,,Emerg. Mkts.
+1488,BVTJ.J,,,,,,,Emerg. Mkts.
+1489,BVTJ.J,,,,,,,Specialty
+1490,BVTJ.J,,,,,,,Emerg. Mkts.
+1491,BVTJ.J,,,,,,,Emerg. Mkts.
+1492,BVTJ.J,,,,,,,Specialty
+1493,BVTJ.J,,,,,,,Emerg. Mkts.
+1494,BVTJ.J,,,,,,,Emerg. Mkts.
+1495,BVTJ.J,,,,,,,Growth
+1496,BVTJ.J,,,,,,,Emerg. Mkts.
+1497,BVTJ.J,,,,,,,Emerg. Mkts.
+1498,BVTJ.J,,,,,,,Index
+1499,BVTJ.J,,,,,,,GARP
+1500,BVTJ.J,,,,,,,Growth
+1501,BVTJ.J,,,,,,,Core Value
+1502,BVTJ.J,,,,,,,Core Value
+1503,BVTJ.J,,,,,,,Emerg. Mkts.
+1504,BVTJ.J,,,,,,,
+1505,BVTJ.J,,,,,,,
+1506,BVTJ.J,,,,,,,
+1507,BVTJ.J,,,,,,,
+1508,BVTJ.J,,,,,,,
+1509,BVTJ.J,,,,,,,
+1510,BVTJ.J,,,,,,,
+1511,BVTJ.J,,,,,,,
+1512,BVTJ.J,,,,,,,
+1513,BVTJ.J,,,,,,,
+1514,BVTJ.J,,,,,,,
+1515,BVTJ.J,,,,,,,
+1516,BVTJ.J,,,,,,,
+1517,BVTJ.J,,,,,,,
+1518,CILEASI.LG,,,,,,Nigeria,
+1519,CADBURY.LG,,,,,,United States,
+1520,CAL.GH,,,,,,Ghana,
+1521,CAP.LG,,,,,,Nigeria,
+1522,CAPOIL.LG,,,,,,Nigeria,
+1523,CGEN.NR,,,,,,Kenya,
+1524,CARB.NR,,,,,,Kenya,
+1525,CATJ.J,60.0895,1998-06-01T00:00:00Z,3353971,302,5035511837,South Africa,Growth
+1526,CATJ.J,5.3578,1998-06-01T00:00:00Z,2637186,301,4297902883,,Emerg. Mkts.
+1527,CATJ.J,2.776,1998-06-01T00:00:00Z,2676461,301,5000854298,,Index
+1528,CATJ.J,2.0677,1998-06-01T00:00:00Z,2637290,301,48471680717,,Emerg. Mkts.
+1529,CATJ.J,0.7018,1998-12-31T00:00:00Z,2005217,302,,,Emerg. Mkts.
+1530,CATJ.J,0.0034,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+1531,CATJ.J,0.0023,1998-06-30T00:00:00Z,2005211,107,,,Index
+1532,CATJ.J,60.9865,1997-01-31T00:00:00Z,3353971,107,5035511837,,
+1533,CATJ.J,0.0037,1997-12-31T00:00:00Z,2005211,113,,,
+1534,CATJ.J,0.0019,1997-12-31T00:00:00Z,2006038,113,,,
+1535,CATJ.J,,,2676461,302,,,
+1536,CATJ.J,,,2637290,107,,,
+1537,CATJ.J,,,2637186,107,,,
+1538,CATJ.J,,,2005217,113,,,
+1539,CATJ.J,,,,,,,
+1540,CATJ.J,,,,,,,
+1541,CATJ.J,,,,,,,
+1542,CATJ.J,,,,,,,
+1543,CATJ.J,,,,,,,
+1544,CATJ.J,,,,,,,
+1545,CRWN.NR,,,,,,Kenya,
+1546,CBZ.ZI,,,,,,Zimbabwe,
+1547,SBIC.NR,,,,,,South Africa,
+1548,CFAO.GH,,,,,,Japan,
+1549,CFI.ZI,,,,107,,Zimbabwe,
+1550,CFI.ZI,,,,107,,,
+1551,CGRJ.J,,,,,,South Africa,
+1552,CHAMPIO.LG,,,,,,Netherlands,
+1553,CHELLAR.LG,,,,,,Nigeria,
+1554,CHO.BT,,,,,,Botswana,
+1555,LACZ.ZI,,,,,,Switzerland,
+1556,CKSJ.J,9.81,1997-12-04T00:00:00Z,2676461,301,5000854298,South Africa,
+1557,CKSJ.J,7.0,1997-12-04T00:00:00Z,5272012,301,5035499051,,
+1558,CKSJ.J,3.37,1997-12-04T00:00:00Z,2657775,301,,,
+1559,CKSJ.J,2.72,1997-12-04T00:00:00Z,2996797,301,,,
+1560,CKSJ.J,2.66,1997-12-04T00:00:00Z,2669904,301,4295889079,,
+1561,CKSJ.J,1.58,1997-12-04T00:00:00Z,3253809,303,,,
+1562,CKSJ.J,1.53,1997-12-04T00:00:00Z,3251438,303,,,
+1563,CKSJ.J,1.5,1997-12-04T00:00:00Z,3251437,303,,,
+1564,CKSJ.J,1.24,1997-12-04T00:00:00Z,2657792,301,,,
+1565,CKSJ.J,1.17,1997-12-04T00:00:00Z,3251436,303,,,
+1566,CKSJ.J,1.11,1997-12-04T00:00:00Z,2657796,113,,,
+1567,CKSJ.J,1.06,1997-12-04T00:00:00Z,2637186,301,4297902883,,
+1568,CKSJ.J,9.81,1997-12-04T00:00:00Z,2676461,301,5000854298,,
+1569,CKSJ.J,7.0,1997-12-04T00:00:00Z,5272012,301,5035499051,,
+1570,CKSJ.J,3.37,1997-12-04T00:00:00Z,2657775,301,,,
+1571,CKSJ.J,2.72,1997-12-04T00:00:00Z,2996797,301,,,
+1572,CKSJ.J,2.66,1997-12-04T00:00:00Z,2669904,301,4295889079,,
+1573,CKSJ.J,1.58,1997-12-04T00:00:00Z,3253809,301,,,
+1574,CKSJ.J,1.53,1997-12-04T00:00:00Z,3251438,303,,,
+1575,CKSJ.J,1.5,1997-12-04T00:00:00Z,3251437,303,,,
+1576,CKSJ.J,1.24,1997-12-04T00:00:00Z,2657792,303,,,
+1577,CKSJ.J,1.17,1997-12-04T00:00:00Z,3251436,301,,,
+1578,CKSJ.J,1.11,1997-12-04T00:00:00Z,2657796,303,,,
+1579,CKSJ.J,1.06,1997-12-04T00:00:00Z,2637186,113,4297902883,,
+1580,CKSJ.J,,,,301,,,
+1581,CKSJ.J,,,,301,,,
+1582,CLHJ.J,48.57,1998-08-03T00:00:00Z,3912190,301,4295888650,South Africa,Core Value
+1583,CLHJ.J,18.7272,1998-08-03T00:00:00Z,2656446,301,5035499104,,Emerg. Mkts.
+1584,CLHJ.J,2.74,1998-08-03T00:00:00Z,2676461,113,5000854298,,Index
+1585,CLHJ.J,1.29,1998-08-03T00:00:00Z,2637186,113,4297902883,,Emerg. Mkts.
+1586,CLHJ.J,0.19,1998-06-30T00:00:00Z,2005211,301,,,Core Value
+1587,CLHJ.J,0.0025,1998-12-31T00:00:00Z,2006038,301,,,Emerg. Mkts.
+1588,CLHJ.J,44.75,1997-01-31T00:00:00Z,3912190,107,4295888650,,Index
+1589,CLHJ.J,25.4674,1997-01-31T00:00:00Z,2656446,107,5035499104,,
+1590,CLHJ.J,0.09,1997-12-31T00:00:00Z,2005211,113,,,
+1591,CLHJ.J,,,2676461,301,,,
+1592,CLHJ.J,,,2637186,301,,,
+1593,CLHJ.J,,,2006038,113,,,
+1594,CLHJ.J,,,,113,,,
+1595,CLHJ.J,,,,107,,,
+1596,CLHJ.J,,,,113,,,
+1597,CLHJ.J,,,,,,,
+1598,CLHJ.J,,,,,,,
+1599,CLHJ.J,,,,,,,
+1600,CLYD.GH,,,,,,Ghana,
+1601,MTUJ.J,29.33,1998-08-03T00:00:00Z,2930002,301,4298534128,South Africa,
+1602,MTUJ.J,25.02,1998-08-03T00:00:00Z,3253780,303,,,
+1603,MTUJ.J,24.98,1998-08-03T00:00:00Z,3253779,303,,,
+1604,MTUJ.J,25.0,1997-01-31T00:00:00Z,3253780,303,,,
+1605,MTUJ.J,25.0,1997-01-31T00:00:00Z,3253779,303,,,
+1606,MTUJ.J,,,2930002,,,,
+1607,CMHJ.J,47.68,1998-08-03T00:00:00Z,2655596,302,,South Africa,
+1608,CMHJ.J,25.14,1998-08-03T00:00:00Z,2657124,301,5055410548,,
+1609,CMHJ.J,4.11,1998-08-03T00:00:00Z,3247955,113,48471669190,,
+1610,CMHJ.J,1.35,1998-08-03T00:00:00Z,3247954,306,,,
+1611,CMHJ.J,44.43,1997-01-31T00:00:00Z,2655596,303,,,
+1612,CMHJ.J,25.06,1997-01-31T00:00:00Z,2657124,302,5055410548,,
+1613,CMHJ.J,,,3247955,301,,,
+1614,CMHJ.J,,,3247954,,,,
+1615,CMHJ.J,,,,,,,
+1616,CMHJ.J,,,,,,,
+1617,CMLJ.J,,,,,,South Africa,
+1618,CMLT.GH,,,,,,Ghana,
+1619,CMOJ.J,,,,,,South Africa,
+1620,CNDJ.J,,,,,,South Africa,
+1621,CONFDIN.LG,,,,,,Nigeria,
+1622,CORNERS.LG,,,,,,Nigeria,
+1623,COSTAIN.LG,,,,,,Nigeria,
+1624,AICO.ZI,,,,,,Zimbabwe,
+1625,CPC.GH,,,,,,Ghana,
+1626,CPIJ.J,,,,,,South Africa,
+1627,CRUSADE.LG,,,,,,Nigeria,
+1628,CSBJ.J,11.19,1998-08-03T00:00:00Z,2672309,301,5055415176,South Africa,Emerg. Mkts.
+1629,CSBJ.J,6.03,1998-08-03T00:00:00Z,2666043,113,5035474046,,Emerg. Mkts.
+1630,CSBJ.J,3.38,1998-08-03T00:00:00Z,2676461,301,5000854298,,
+1631,CSBJ.J,0.89,1998-08-03T00:00:00Z,5139144,301,4297021561,,
+1632,CSBJ.J,,,5139144,111,,,
+1633,CSBJ.J,,,2676461,113,,,
+1634,CSBJ.J,,,2672309,,,,
+1635,CSBJ.J,,,2666043,,,,
+1636,CSBJ.J,,,,,,,
+1637,CSBJ.J,,,,,,,
+1638,IMH.NR,,,,,,Kenya,
+1639,CUSTODIAN.LG,,,,,,Nigeria,
+1640,CUTIX.LG,,,,,,Nigeria,
+1641,DZL.ZI,,,,,,Zimbabwe,
+1642,DANGSUG.LG,,,,,,Nigeria,
+1643,DAWN.ZI,,,,,,Mauritius,
+1644,SYGEUJ.J,,,,,,,
+1645,SYGUSJ.J,,,,,,,
+1646,SYGUKJ.J,,,,,,,
+1647,SYGJPJ.J,,,,,,,
+1648,SYGWDJ.J,,,,,,,
+1649,DLTA.ZI,0.06,1998-12-31T00:00:00Z,2005726,113,5001449043,Zimbabwe,Hedge Fund
+1650,DLTA.ZI,,,2005726,110,,,Emerg. Mkts.
+1651,DLTA.ZI,,,,107,,,Emerg. Mkts.
+1652,DLTA.ZI,,,,107,,,Emerg. Mkts.
+1653,DLTA.ZI,,,,113,,,Growth
+1654,DLTA.ZI,,,,107,,,Core Growth
+1655,DLTA.ZI,,,,113,,,Emerg. Mkts.
+1656,DLTA.ZI,,,,110,,,Emerg. Mkts.
+1657,DLTA.ZI,,,,,,,Emerg. Mkts.
+1658,DLTA.ZI,,,,,,,Emerg. Mkts.
+1659,DLTA.ZI,,,,,,,GARP
+1660,DLTA.ZI,,,,,,,Income Value
+1661,DLTA.ZI,,,,,,,Income Value
+1662,DLTA.ZI,,,,,,,Specialty
+1663,DLTA.ZI,,,,,,,Emerg. Mkts.
+1664,DLTA.ZI,,,,,,,Emerg. Mkts.
+1665,DLTA.ZI,,,,,,,Emerg. Mkts.
+1666,DLTA.ZI,,,,,,,Core Growth
+1667,DLTA.ZI,,,,,,,Emerg. Mkts.
+1668,DLTA.ZI,,,,,,,Emerg. Mkts.
+1669,DLTA.ZI,,,,,,,Emerg. Mkts.
+1670,DLTA.ZI,,,,,,,Hedge Fund
+1671,DLTA.ZI,,,,,,,Emerg. Mkts.
+1672,DLTA.ZI,,,,,,,Emerg. Mkts.
+1673,DLTA.ZI,,,,,,,Emerg. Mkts.
+1674,DLTA.ZI,,,,,,,Growth
+1675,DLTA.ZI,,,,,,,Emerg. Mkts.
+1676,DLTA.ZI,,,,,,,Specialty
+1677,DLTA.ZI,,,,,,,Emerg. Mkts.
+1678,DLTA.ZI,,,,,,,Emerg. Mkts.
+1679,DLTA.ZI,,,,,,,Core Growth
+1680,DLTA.ZI,,,,,,,Emerg. Mkts.
+1681,DLTA.ZI,,,,,,,Emerg. Mkts.
+1682,DLTA.ZI,,,,,,,Emerg. Mkts.
+1683,DLTA.ZI,,,,,,,Core Growth
+1684,DLTA.ZI,,,,,,,
+1685,DLTA.ZI,,,,,,,
+1686,DLTA.ZI,,,,,,,
+1687,DLTA.ZI,,,,,,,
+1688,DLTA.ZI,,,,,,,
+1689,DLTA.ZI,,,,,,,
+1690,DLTA.ZI,,,,,,,
+1691,BETAGLA.LG,,,,,,Greece,
+1692,DNMEYER.LG,,,,,,Nigeria,
+1693,DRDJ.J,,,,,,South Africa,
+1694,DSYJ.J,,,,,,South Africa,
+1695,DTCJ.J,19.2381,1998-09-30T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+1696,DTCJ.J,8.2853,1998-09-30T00:00:00Z,3281335,113,34415923066,,Specialty
+1697,DTCJ.J,2.5496,1998-09-30T00:00:00Z,2637186,303,4297902883,,Growth
+1698,DTCJ.J,1.3623,1998-09-30T00:00:00Z,5318905,113,4295889203,,Specialty
+1699,DTCJ.J,1.3124,1998-09-30T00:00:00Z,3253814,302,48471669465,,Emerg. Mkts.
+1700,DTCJ.J,0.8439,1998-06-30T00:00:00Z,2005211,107,,,Emerg. Mkts.
+1701,DTCJ.J,0.2334,1998-12-31T00:00:00Z,2005218,301,4298409344,,Emerg. Mkts.
+1702,DTCJ.J,0.0026,1998-12-31T00:00:00Z,2006038,302,,,Specialty
+1703,DTCJ.J,0.0,1998-06-01T00:00:00Z,2644210,306,4295888700,,Emerg. Mkts.
+1704,DTCJ.J,0.0,1998-06-30T00:00:00Z,2003974,107,5000001140,,Emerg. Mkts.
+1705,DTCJ.J,,1997-01-31T00:00:00Z,3253814,107,48471669465,,Emerg. Mkts.
+1706,DTCJ.J,78.1473,1997-01-31T00:00:00Z,2644210,113,4295888700,,Emerg. Mkts.
+1707,DTCJ.J,0.3977,1997-06-30T00:00:00Z,2005218,113,4298409344,,Growth
+1708,DTCJ.J,0.2662,1997-12-31T00:00:00Z,2006038,107,,,Emerg. Mkts.
+1709,DTCJ.J,0.1578,1997-03-31T00:00:00Z,2003974,107,5000001140,,Emerg. Mkts.
+1710,DTCJ.J,0.0346,1997-12-31T00:00:00Z,2005211,113,,,
+1711,DTCJ.J,,,5318905,113,,,Emerg. Mkts.
+1712,DTCJ.J,,,3281335,107,,,Core Value
+1713,DTCJ.J,,,2676461,301,,,GARP
+1714,DTCJ.J,,,2637186,113,,,Index
+1715,DTCJ.J,,,,306,,,Specialty
+1716,DTCJ.J,,,,301,,,Specialty
+1717,DTCJ.J,,,,113,,,Specialty
+1718,DTCJ.J,,,,107,,,Emerg. Mkts.
+1719,DTCJ.J,,,,107,,,Growth
+1720,DTCJ.J,,,,113,,,Growth
+1721,DTCJ.J,,,,107,,,Emerg. Mkts.
+1722,DTCJ.J,,,,113,,,Emerg. Mkts.
+1723,DTCJ.J,,,,113,,,Emerg. Mkts.
+1724,DTCJ.J,,,,,,,Emerg. Mkts.
+1725,DTCJ.J,,,,,,,Specialty
+1726,DTCJ.J,,,,,,,
+1727,DTCJ.J,,,,,,,
+1728,DTCJ.J,,,,,,,
+1729,DTCJ.J,,,,,,,
+1730,DTCJ.J,,,,,,,
+1731,DTCJ.J,,,,,,,
+1732,DTCJ.J,,,,,,,
+1733,DTCJ.J,,,,,,,
+1734,DTCJ.J,,,,,,,
+1735,DTCJ.J,,,,,,,
+1736,DTCJ.J,,,,,,,
+1737,DTK.NR,,,,107,,Kenya,
+1738,DTK.NR,,,,107,,,
+1739,OCH.NR,,,,,,Kenya,
+1740,DUNLOP.LG,0.0,1998-12-31T00:00:00Z,2006494,107,5000706029,Nigeria,
+1741,DUNLOP.LG,0.0,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+1742,CABL.NR,,,,,,Kenya,
+1743,PORT.NR,,,,107,,Kenya,Growth
+1744,PORT.NR,,,,107,,,Growth
+1745,EGH.GH,,,,,,Togo,
+1746,EQTY.NR,,,,,,Kenya,
+1747,EGAD.NR,,,,,,,
+1748,EGL.GH,6.54,1997-03-31T00:00:00Z,2003794,107,,Ghana,
+1749,EGL.GH,1.07,1998-12-31T00:00:00Z,2006494,107,5000706029,,Hedge Fund
+1750,EGL.GH,6.54,1997-03-31T00:00:00Z,2003794,107,,,Index
+1751,EGL.GH,0.43,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+1752,EGL.GH,,,,,,,Hedge Fund
+1753,EGL.GH,,,,,,,Index
+1754,EKOCORP.LG,,,,,,Nigeria,
+1755,ELIJ.J,,,,,,South Africa,
+1756,ELLAHLA.LG,,,,,,Nigeria,
+1757,EMIJ.J,,,,,,,
+1758,ECO.ZI,0.69,1998-12-31T00:00:00Z,2006494,113,5000706029,Zimbabwe,
+1759,ECO.ZI,,,2006494,107,,,
+1760,ECO.ZI,,,,,,,
+1761,ECO.ZI,,,,,,,
+1762,ENGN.BT,,,,107,,Malaysia,
+1763,ENGN.BT,,,,107,,,
+1764,EOHJ.J,1.56,1998-12-31T00:00:00Z,2006038,107,,South Africa,
+1765,EOHJ.J,,,2006038,,,,
+1766,ETERNAO.LG,,,,,,Nigeria,
+1767,ETI.LG,,,,,,Togo,
+1768,EVRD.NR,,,,,,,
+1769,XPRS.NR,,,,,,Kenya,
+1770,EXXJ.J,,,,,,South Africa,
+1771,FALG.ZI,,,,,,Switzerland,
+1772,FBRJ.J,29.6526,1998-08-03T00:00:00Z,3254717,303,,South Africa,Specialty
+1773,FBRJ.J,27.8574,1998-08-03T00:00:00Z,3254718,303,34413324417,,
+1774,FBRJ.J,7.31,1998-08-03T00:00:00Z,3248566,113,,,
+1775,FBRJ.J,2.64,1998-08-03T00:00:00Z,2676461,201,5000854298,,
+1776,FBRJ.J,2.27,1998-08-03T00:00:00Z,3248567,113,,,
+1777,FBRJ.J,40.2078,1997-01-31T00:00:00Z,3254717,303,,,
+1778,FBRJ.J,36.4012,1997-01-31T00:00:00Z,3254718,301,34413324417,,
+1779,FBRJ.J,,,3248567,303,,,
+1780,FBRJ.J,,,3248566,303,,,
+1781,FBRJ.J,,,2676461,303,,,
+1782,FBRJ.J,,,,113,,,
+1783,FBRJ.J,,,,,,,
+1784,FBRJ.J,,,,,,,
+1785,FBRJ.J,,,,,,,
+1786,FBRJ.J,,,,,,,
+1787,FBRJ.J,,,,,,,
+1788,FCMB.LG,,,,,,Nigeria,
+1789,FIDL.ZI,,,,,,Zimbabwe,
+1790,FIDELIT.LG,,,,,,Nigeria,
+1791,SMER.NR,0.21,1998-12-31T00:00:00Z,2006494,107,5000706029,Kenya,Hedge Fund
+1792,SMER.NR,0.1006,1998-12-31T00:00:00Z,2005726,107,5001449043,,Growth
+1793,SMER.NR,0.2086,1997-06-30T00:00:00Z,2006494,113,5000706029,,
+1794,SMER.NR,,,2005726,107,,,Hedge Fund
+1795,SMER.NR,,,,113,,,Growth
+1796,SMER.NR,,,,,,,
+1797,FBNH.LG,,,,,,Nigeria,
+1798,FLOURMI.LG,,,,,,,
+1799,FML.GH,,,,,,France,
+1800,FNBB.BT,,,,107,,South Africa,
+1801,FNBB.BT,,,,107,,,
+1802,TFGJ.J,52.45,1998-07-01T00:00:00Z,3253848,306,48471668836,South Africa,Hedge Fund
+1803,TFGJ.J,10.88,1998-07-01T00:00:00Z,2676461,301,5000854298,,Specialty
+1804,TFGJ.J,5.95,1998-07-01T00:00:00Z,2637186,113,4297902883,,Emerg. Mkts.
+1805,TFGJ.J,1.29,1998-07-01T00:00:00Z,2637290,301,48471680717,,Growth
+1806,TFGJ.J,1.28,1998-07-01T00:00:00Z,2684299,113,5001446208,,Emerg. Mkts.
+1807,TFGJ.J,0.2384,1998-12-31T00:00:00Z,2005218,302,4298409344,,Emerg. Mkts.
+1808,TFGJ.J,0.0068,1998-12-31T00:00:00Z,2006038,107,,,Index
+1809,TFGJ.J,0.0032,1998-06-30T00:00:00Z,2005211,301,,,Specialty
+1810,TFGJ.J,0.0,1998-12-31T00:00:00Z,2005217,110,,,
+1811,TFGJ.J,56.76,1997-01-31T00:00:00Z,3253848,113,48471668836,,Emerg. Mkts.
+1812,TFGJ.J,0.0897,1997-06-30T00:00:00Z,2005218,107,4298409344,,Growth
+1813,TFGJ.J,0.0047,1997-12-31T00:00:00Z,2005211,107,,,Index
+1814,TFGJ.J,0.0018,1997-12-31T00:00:00Z,2006038,107,,,Core Value
+1815,TFGJ.J,,,2684299,107,,,Emerg. Mkts.
+1816,TFGJ.J,,,2676461,107,,,Index
+1817,TFGJ.J,,,2637290,113,,,Emerg. Mkts.
+1818,TFGJ.J,,,2637186,113,,,Specialty
+1819,TFGJ.J,,,2005217,113,,,
+1820,TFGJ.J,,,,306,,,Index
+1821,TFGJ.J,,,,107,,,Core Value
+1822,TFGJ.J,,,,113,,,
+1823,TFGJ.J,,,,107,,,
+1824,TFGJ.J,,,,107,,,
+1825,TFGJ.J,,,,113,,,
+1826,TFGJ.J,,,,113,,,
+1827,TFGJ.J,,,,107,,,
+1828,TFGJ.J,,,,107,,,
+1829,TFGJ.J,,,,113,,,
+1830,TFGJ.J,,,,,,,
+1831,TFGJ.J,,,,,,,
+1832,TFGJ.J,,,,,,,
+1833,TFGJ.J,,,,,,,
+1834,TFGJ.J,,,,,,,
+1835,TFGJ.J,,,,,,,
+1836,TFGJ.J,,,,,,,
+1837,TFGJ.J,,,,,,,
+1838,FSRJ.J,13.67,1998-12-31T00:00:00Z,2676461,302,5000854298,South Africa,Specialty
+1839,FSRJ.J,7.67,1998-12-31T00:00:00Z,2637186,301,4297902883,,Specialty
+1840,FSRJ.J,3.08,1998-12-31T00:00:00Z,2647981,301,,,Index
+1841,FSRJ.J,0.29,1998-12-31T00:00:00Z,2005217,113,,,Emerg. Mkts.
+1842,FSRJ.J,0.08,1998-06-30T00:00:00Z,2005211,301,,,Emerg. Mkts.
+1843,FSRJ.J,0.04,1998-12-31T00:00:00Z,2005218,107,4298409344,,Emerg. Mkts.
+1844,FSRJ.J,0.01,1998-12-31T00:00:00Z,2004902,302,,,Emerg. Mkts.
+1845,FSRJ.J,0.01,1998-12-31T00:00:00Z,2006038,107,,,Emerg. Mkts.
+1846,FSRJ.J,0.0019,1998-12-31T00:00:00Z,2003457,113,5000036827,,Emerg. Mkts.
+1847,FSRJ.J,0.0017,1998-12-31T00:00:00Z,2005054,113,,,Emerg. Mkts.
+1848,FSRJ.J,0.33,1997-12-31T00:00:00Z,2005217,113,,,Core Growth
+1849,FSRJ.J,0.01,1997-06-30T00:00:00Z,2005218,107,4298409344,,Emerg. Mkts.
+1850,FSRJ.J,0.0034,1997-12-31T00:00:00Z,2005211,113,,,Emerg. Mkts.
+1851,FSRJ.J,0.002,1997-12-31T00:00:00Z,2006038,107,,,
+1852,FSRJ.J,,,2676461,110,,,Emerg. Mkts.
+1853,FSRJ.J,,,2647981,113,,,Emerg. Mkts.
+1854,FSRJ.J,,,2637186,113,,,Emerg. Mkts.
+1855,FSRJ.J,,,2005054,107,,,Emerg. Mkts.
+1856,FSRJ.J,,,2004902,113,,,Emerg. Mkts.
+1857,FSRJ.J,,,2003457,110,,,Emerg. Mkts.
+1858,FSRJ.J,,,,113,,,Index
+1859,FSRJ.J,,,,107,,,Emerg. Mkts.
+1860,FSRJ.J,,,,113,,,Growth
+1861,FSRJ.J,,,,107,,,Emerg. Mkts.
+1862,FSRJ.J,,,,113,,,Emerg. Mkts.
+1863,FSRJ.J,,,,113,,,Emerg. Mkts.
+1864,FSRJ.J,,,,107,,,Emerg. Mkts.
+1865,FSRJ.J,,,,107,,,Emerg. Mkts.
+1866,FSRJ.J,,,,107,,,Specialty
+1867,FSRJ.J,,,,107,,,Income Value
+1868,FSRJ.J,,,,113,,,Income Value
+1869,FSRJ.J,,,,113,,,Index
+1870,FSRJ.J,,,,107,,,GARP
+1871,FSRJ.J,,,,113,,,Index
+1872,FSRJ.J,,,,107,,,Core Growth
+1873,FSRJ.J,,,,302,,,Core Value
+1874,FSRJ.J,,,,113,,,Core Value
+1875,FSRJ.J,,,,113,,,Emerg. Mkts.
+1876,FSRJ.J,,,,113,,,Growth
+1877,FSRJ.J,,,,107,,,
+1878,FSRJ.J,,,,107,,,Emerg. Mkts.
+1879,FSRJ.J,,,,107,,,Specialty
+1880,FSRJ.J,,,,,,,Index
+1881,FSRJ.J,,,,,,,
+1882,FSRJ.J,,,,,,,
+1883,FSRJ.J,,,,,,,
+1884,FSRJ.J,,,,,,,
+1885,FSRJ.J,,,,,,,
+1886,FSRJ.J,,,,,,,
+1887,FSRJ.J,,,,,,,
+1888,FSRJ.J,,,,,,,
+1889,FSRJ.J,,,,,,,
+1890,FSRJ.J,,,,,,,
+1891,FSRJ.J,,,,,,,
+1892,FSRJ.J,,,,,,,
+1893,FSRJ.J,,,,,,,
+1894,FSRJ.J,,,,,,,
+1895,FSRJ.J,,,,,,,
+1896,FSRJ.J,,,,,,,
+1897,FSRJ.J,,,,,,,
+1898,FSRJ.J,,,,,,,
+1899,FSRJ.J,,,,,,,
+1900,FSRJ.J,,,,,,,
+1901,FSRJ.J,,,,,,,
+1902,FSRJ.J,,,,,,,
+1903,FSRJ.J,,,,,,,
+1904,FSRJ.J,,,,,,,
+1905,FSRJ.J,,,,,,,
+1906,FSRJ.J,,,,,,,
+1907,FSRJ.J,,,,,,,
+1908,FSRJ.J,,,,,,,
+1909,FSRJ.J,,,,,,,
+1910,FSRJ.J,,,,,,,
+1911,FSRJ.J,,,,,,,
+1912,FSRJ.J,,,,,,,
+1913,FSRJ.J,,,,,,,
+1914,FSRJ.J,,,,,,,
+1915,FSRJ.J,,,,,,,
+1916,CGNJ.J,,,,,,South Africa,
+1917,GFS.BT,,,,,,United States,
+1918,GCB.GH,,,,,,Ghana,Emerg. Mkts.
+1919,GCB.GH,,,,,,,Emerg. Mkts.
+1920,TSGJ.J,98.77,1998-08-03T00:00:00Z,3239334,303,,South Africa,
+1921,TSGJ.J,2.61,1998-06-01T00:00:00Z,3253800,113,,,
+1922,TSGJ.J,0.19,1998-12-31T00:00:00Z,2005217,113,,,
+1923,TSGJ.J,34.27,1997-01-31T00:00:00Z,3253800,302,,,
+1924,TSGJ.J,3.41,1997-12-31T00:00:00Z,2005217,113,,,
+1925,TSGJ.J,,,3239334,303,,,
+1926,TSGJ.J,,,,113,,,
+1927,TSGJ.J,,,,303,,,
+1928,TSGJ.J,,,,113,,,
+1929,TSGJ.J,,,,,,,
+1930,TSGJ.J,,,,,,,
+1931,TSGJ.J,,,,,,,
+1932,TSGJ.J,,,,,,,
+1933,TSGJ.J,,,,,,,
+1934,GBH.ZI,,,,,,Zimbabwe,
+1935,GFIJ.J,14.3838,1998-11-30T00:00:00Z,2676461,301,5000854298,South Africa,Growth
+1936,GFIJ.J,2.2511,1998-11-30T00:00:00Z,2633334,113,4295896494,,Sector Specific
+1937,GFIJ.J,0.148,1998-12-31T00:00:00Z,2003614,107,,,Specialty
+1938,GFIJ.J,0.09,1998-12-31T00:00:00Z,2783694,301,,,Sector Specific
+1939,GFIJ.J,0.0168,1998-06-30T00:00:00Z,2005211,113,,,Specialty
+1940,GFIJ.J,0.0064,1998-12-31T00:00:00Z,2007459,107,5000008390,,Growth
+1941,GFIJ.J,0.0038,1998-06-30T00:00:00Z,2499117,113,5001231143,,Specialty
+1942,GFIJ.J,0.0021,1998-12-31T00:00:00Z,2007509,107,5035750181,,Core Growth
+1943,GFIJ.J,0.0021,1998-06-30T00:00:00Z,2591990,107,5000036022,,Sector Specific
+1944,GFIJ.J,0.0015,1998-12-31T00:00:00Z,2587681,113,5000050125,,Emerg. Mkts.
+1945,GFIJ.J,0.0,1998-06-30T00:00:00Z,2003974,113,5000001140,,Index
+1946,GFIJ.J,0.0,1997-12-31T00:00:00Z,2003506,107,,,Emerg. Mkts.
+1947,GFIJ.J,0.2078,1997-12-31T00:00:00Z,2783694,107,,,Emerg. Mkts.
+1948,GFIJ.J,0.0404,1997-03-31T00:00:00Z,2003974,107,5000001140,,Emerg. Mkts.
+1949,GFIJ.J,0.0056,1997-12-31T00:00:00Z,2499117,107,5001231143,,Emerg. Mkts.
+1950,GFIJ.J,0.0,1997-06-30T00:00:00Z,2003614,107,,,Core Growth
+1951,GFIJ.J,0.0,1997-12-31T00:00:00Z,2003506,107,,,Emerg. Mkts.
+1952,GFIJ.J,,,2676461,113,,,Specialty
+1953,GFIJ.J,,,2633334,113,,,Sector Specific
+1954,GFIJ.J,,,2591990,107,,,Emerg. Mkts.
+1955,GFIJ.J,,,2587681,107,,,Specialty
+1956,GFIJ.J,,,2007509,108,,,Emerg. Mkts.
+1957,GFIJ.J,,,2007459,113,,,Emerg. Mkts.
+1958,GFIJ.J,,,2005211,107,,,Emerg. Mkts.
+1959,GFIJ.J,,,,113,,,
+1960,GFIJ.J,,,,107,,,Specialty
+1961,GFIJ.J,,,,113,,,Emerg. Mkts.
+1962,GFIJ.J,,,,108,,,Emerg. Mkts.
+1963,GFIJ.J,,,,107,,,Emerg. Mkts.
+1964,GFIJ.J,,,,107,,,Index
+1965,GFIJ.J,,,,101,,,
+1966,GFIJ.J,,,,107,,,Index
+1967,GFIJ.J,,,,107,,,Index
+1968,GFIJ.J,,,,107,,,Deep Value
+1969,GFIJ.J,,,,113,,,Core Value
+1970,GFIJ.J,,,,113,,,Emerg. Mkts.
+1971,GFIJ.J,,,,107,,,Emerg. Mkts.
+1972,GFIJ.J,,,,107,,,Index
+1973,GFIJ.J,,,,101,,,Specialty
+1974,GFIJ.J,,,,107,,,Sector Specific
+1975,GFIJ.J,,,,113,,,Emerg. Mkts.
+1976,GFIJ.J,,,,107,,,Emerg. Mkts.
+1977,GFIJ.J,,,,107,,,Sector Specific
+1978,GFIJ.J,,,,113,,,Yield
+1979,GFIJ.J,,,,107,,,Growth
+1980,GFIJ.J,,,,113,,,Sector Specific
+1981,GFIJ.J,,,,101,,,Specialty
+1982,GFIJ.J,,,,107,,,Core Growth
+1983,GFIJ.J,,,,101,,,Core Value
+1984,GFIJ.J,,,,107,,,
+1985,GFIJ.J,,,,107,,,Growth
+1986,GFIJ.J,,,,110,,,Sector Specific
+1987,GFIJ.J,,,,107,,,Specialty
+1988,GFIJ.J,,,,113,,,Emerg. Mkts.
+1989,GFIJ.J,,,,107,,,Emerg. Mkts.
+1990,GFIJ.J,,,,113,,,Index
+1991,GFIJ.J,,,,107,,,Yield
+1992,GFIJ.J,,,,107,,,Sector Specific
+1993,GFIJ.J,,,,107,,,Specialty
+1994,GFIJ.J,,,,107,,,Emerg. Mkts.
+1995,GFIJ.J,,,,113,,,Specialty
+1996,GFIJ.J,,,,113,,,Core Growth
+1997,GFIJ.J,,,,113,,,Specialty
+1998,GFIJ.J,,,,113,,,Sector Specific
+1999,GFIJ.J,,,,107,,,Emerg. Mkts.
+2000,GFIJ.J,,,,101,,,Emerg. Mkts.
+2001,GFIJ.J,,,,107,,,Emerg. Mkts.
+2002,GFIJ.J,,,,110,,,Emerg. Mkts.
+2003,GFIJ.J,,,,107,,,
+2004,GFIJ.J,,,,101,,,Emerg. Mkts.
+2005,GFIJ.J,,,,113,,,Emerg. Mkts.
+2006,GFIJ.J,,,,107,,,Index
+2007,GFIJ.J,,,,107,,,Index
+2008,GFIJ.J,,,,107,,,Index
+2009,GFIJ.J,,,,113,,,Deep Value
+2010,GFIJ.J,,,,113,,,Growth
+2011,GFIJ.J,,,,107,,,Core Value
+2012,GFIJ.J,,,,107,,,Emerg. Mkts.
+2013,GFIJ.J,,,,101,,,Sector Specific
+2014,GFIJ.J,,,,113,,,Emerg. Mkts.
+2015,GFIJ.J,,,,113,,,Growth
+2016,GFIJ.J,,,,107,,,Sector Specific
+2017,GFIJ.J,,,,107,,,Core Growth
+2018,GFIJ.J,,,,113,,,Core Value
+2019,GFIJ.J,,,,107,,,
+2020,GFIJ.J,,,,107,,,
+2021,GFIJ.J,,,,,,,
+2022,GFIJ.J,,,,,,,
+2023,GFIJ.J,,,,,,,
+2024,GFIJ.J,,,,,,,
+2025,GFIJ.J,,,,,,,
+2026,GFIJ.J,,,,,,,
+2027,GFIJ.J,,,,,,,
+2028,GFIJ.J,,,,,,,
+2029,GFIJ.J,,,,,,,
+2030,GFIJ.J,,,,,,,
+2031,GFIJ.J,,,,,,,
+2032,GFIJ.J,,,,,,,
+2033,GFIJ.J,,,,,,,
+2034,GFIJ.J,,,,,,,
+2035,GFIJ.J,,,,,,,
+2036,GFIJ.J,,,,,,,
+2037,GFIJ.J,,,,,,,
+2038,GFIJ.J,,,,,,,
+2039,GGBL.GH,0.0,1998-06-30T00:00:00Z,2006494,107,5000706029,United Kingdom,Hedge Fund
+2040,GGBL.GH,1.2453,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+2041,GGBL.GH,,,,107,,,Emerg. Mkts.
+2042,GGBL.GH,,,,107,,,Emerg. Mkts.
+2043,GGBL.GH,,,,107,,,Hedge Fund
+2044,GGBL.GH,,,,107,,,
+2045,GLDJ.J,,,,,,,
+2046,GNDJ.J,50.3595,1998-07-01T00:00:00Z,2660594,301,5035478601,South Africa,Growth
+2047,GNDJ.J,9.45,1998-07-01T00:00:00Z,2676461,301,5000854298,,Growth
+2048,GNDJ.J,1.8121,1998-07-01T00:00:00Z,3248254,303,,,
+2049,GNDJ.J,,,3248254,107,,,
+2050,GNDJ.J,,,2676461,107,,,
+2051,GNDJ.J,,,2660594,201,,,
+2052,GNDJ.J,,,,113,,,
+2053,GNDJ.J,,,,113,,,
+2054,GNDJ.J,,,,113,,,
+2055,GNDJ.J,,,,107,,,
+2056,GNDJ.J,,,,113,,,
+2057,GNDJ.J,,,,,,,
+2058,GNDJ.J,,,,,,,
+2059,GNDJ.J,,,,,,,
+2060,GNDJ.J,,,,,,,
+2061,GNDJ.J,,,,,,,
+2062,GNDJ.J,,,,,,,
+2063,GNDJ.J,,,,,,,
+2064,GOIL.GH,,,,,,Ghana,
+2065,GRTJ.J,0.844,1998-07-01T00:00:00Z,2676461,107,5000854298,South Africa,Specialty
+2066,GRTJ.J,,,2676461,113,,,Emerg. Mkts.
+2067,GRTJ.J,,,,301,,,Emerg. Mkts.
+2068,GRTJ.J,,,,301,,,Emerg. Mkts.
+2069,GRTJ.J,,,,302,,,Emerg. Mkts.
+2070,GRTJ.J,,,,201,,,Specialty
+2071,GRTJ.J,,,,113,,,
+2072,GRTJ.J,,,,107,,,
+2073,GRTJ.J,,,,107,,,
+2074,GRTJ.J,,,,107,,,
+2075,GRTJ.J,,,,107,,,
+2076,GRTJ.J,,,,107,,,
+2077,GRTJ.J,,,,113,,,
+2078,GRTJ.J,,,,,,,
+2079,GRTJ.J,,,,,,,
+2080,GRTJ.J,,,,,,,
+2081,GRTJ.J,,,,,,,
+2082,GRTJ.J,,,,,,,
+2083,GRTJ.J,,,,,,,
+2084,GRTJ.J,,,,,,,
+2085,GUINNES.LG,0.3108,1998-12-31T00:00:00Z,2006494,107,5000706029,United Kingdom,
+2086,GUINNES.LG,0.0283,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+2087,GUINNES.LG,,,,107,,,
+2088,GUINNES.LG,,,,,,,
+2089,GUINEAI.LG,,,,,,Nigeria,
+2090,HALLMAR.LG,,,,,,Nigeria,
+2091,HARJ.J,1.5556,1998-12-31T00:00:00Z,2003614,107,,South Africa,Sector Specific
+2092,HARJ.J,0.3125,1998-12-31T00:00:00Z,2783694,113,,,Sector Specific
+2093,HARJ.J,0.072,1998-03-31T00:00:00Z,2785765,113,,,Core Value
+2094,HARJ.J,0.0468,1998-12-31T00:00:00Z,2006060,110,4296583298,,Emerg. Mkts.
+2095,HARJ.J,0.0439,1998-12-31T00:00:00Z,2006034,113,5000014523,,Sector Specific
+2096,HARJ.J,0.0307,1998-12-31T00:00:00Z,2005218,107,4298409344,,Core Value
+2097,HARJ.J,0.0259,1998-06-30T00:00:00Z,2499117,107,5001231143,,Specialty
+2098,HARJ.J,0.0073,1998-12-31T00:00:00Z,2587681,113,5000050125,,Emerg. Mkts.
+2099,HARJ.J,0.0,1997-09-30T00:00:00Z,2005211,107,,,Specialty
+2100,HARJ.J,0.0,1998-06-30T00:00:00Z,2003974,107,5000001140,,Sector Specific
+2101,HARJ.J,0.0,1998-03-31T00:00:00Z,2002905,107,,,Growth
+2102,HARJ.J,0.7719,1997-12-31T00:00:00Z,2002905,113,,,Emerg. Mkts.
+2103,HARJ.J,0.3787,1997-12-31T00:00:00Z,2783694,107,,,Sector Specific
+2104,HARJ.J,0.1535,1997-03-31T00:00:00Z,2003974,107,5000001140,,Sector Specific
+2105,HARJ.J,0.0836,1997-12-31T00:00:00Z,2006060,113,4296583298,,Sector Specific
+2106,HARJ.J,0.0617,1997-12-31T00:00:00Z,2499117,107,5001231143,,Specialty
+2107,HARJ.J,0.0028,1997-06-30T00:00:00Z,2005218,107,4298409344,,Specialty
+2108,HARJ.J,0.0,1997-12-31T00:00:00Z,2006034,107,5000014523,,Sector Specific
+2109,HARJ.J,0.0,1997-09-30T00:00:00Z,2005211,113,,,Core Value
+2110,HARJ.J,,,2785765,107,,,Specialty
+2111,HARJ.J,,,2587681,107,,,Specialty
+2112,HARJ.J,,,2003614,107,,,Growth
+2113,HARJ.J,,,,107,,,Sector Specific
+2114,HARJ.J,,,,113,,,Sector Specific
+2115,HARJ.J,,,,113,,,Specialty
+2116,HARJ.J,,,,113,,,Emerg. Mkts.
+2117,HARJ.J,,,,113,,,GARP
+2118,HARJ.J,,,,107,,,Emerg. Mkts.
+2119,HARJ.J,,,,107,,,Emerg. Mkts.
+2120,HARJ.J,,,,113,,,Emerg. Mkts.
+2121,HARJ.J,,,,107,,,Deep Value
+2122,HARJ.J,,,,107,,,Specialty
+2123,HARJ.J,,,,107,,,Emerg. Mkts.
+2124,HARJ.J,,,,107,,,Specialty
+2125,HARJ.J,,,,113,,,GARP
+2126,HARJ.J,,,,107,,,Core Value
+2127,HARJ.J,,,,107,,,Emerg. Mkts.
+2128,HARJ.J,,,,107,,,Core Value
+2129,HARJ.J,,,,107,,,Sector Specific
+2130,HARJ.J,,,,110,,,
+2131,HARJ.J,,,,113,,,Core Value
+2132,HARJ.J,,,,113,,,Emerg. Mkts.
+2133,HARJ.J,,,,113,,,Sector Specific
+2134,HARJ.J,,,,113,,,Sector Specific
+2135,HARJ.J,,,,107,,,Emerg. Mkts.
+2136,HARJ.J,,,,107,,,Growth
+2137,HARJ.J,,,,107,,,Core Value
+2138,HARJ.J,,,,107,,,Sector Specific
+2139,HARJ.J,,,,107,,,Sector Specific
+2140,HARJ.J,,,,107,,,Specialty
+2141,HARJ.J,,,,107,,,Specialty
+2142,HARJ.J,,,,107,,,Sector Specific
+2143,HARJ.J,,,,107,,,Specialty
+2144,HARJ.J,,,,113,,,Specialty
+2145,HARJ.J,,,,113,,,Specialty
+2146,HARJ.J,,,,113,,,Specialty
+2147,HARJ.J,,,,107,,,Sector Specific
+2148,HARJ.J,,,,113,,,Specialty
+2149,HARJ.J,,,,107,,,Emerg. Mkts.
+2150,HARJ.J,,,,107,,,Emerg. Mkts.
+2151,HARJ.J,,,,113,,,Emerg. Mkts.
+2152,HARJ.J,,,,,,,Emerg. Mkts.
+2153,HARJ.J,,,,,,,Emerg. Mkts.
+2154,HARJ.J,,,,,,,Specialty
+2155,HARJ.J,,,,,,,Deep Value
+2156,HARJ.J,,,,,,,Specialty
+2157,HARJ.J,,,,,,,Emerg. Mkts.
+2158,HARJ.J,,,,,,,Core Value
+2159,HARJ.J,,,,,,,GARP
+2160,HARJ.J,,,,,,,Core Value
+2161,HARJ.J,,,,,,,Emerg. Mkts.
+2162,HARJ.J,,,,,,,Specialty
+2163,HARJ.J,,,,,,,Sector Specific
+2164,HARJ.J,,,,,,,
+2165,HARJ.J,,,,,,,
+2166,HARJ.J,,,,,,,
+2167,HARJ.J,,,,,,,
+2168,HARJ.J,,,,,,,
+2169,HARJ.J,,,,,,,
+2170,HARJ.J,,,,,,,
+2171,HCIJ.J,4.41,1998-12-31T00:00:00Z,2005217,113,,South Africa,Growth
+2172,HCIJ.J,0.72,1998-06-30T00:00:00Z,2005211,113,,,GARP
+2173,HCIJ.J,,,2685842,107,,,Emerg. Mkts.
+2174,HCIJ.J,32.96,1997-01-31T00:00:00Z,2685842,107,,,Specialty
+2175,HCIJ.J,3.52,1997-12-31T00:00:00Z,2005217,113,,,Growth
+2176,HCIJ.J,0.0,1997-12-31T00:00:00Z,2005211,113,,,Core Growth
+2177,HCIJ.J,,,,113,,,Core Value
+2178,HCIJ.J,,,,107,,,Emerg. Mkts.
+2179,HCIJ.J,,,,,,,Growth
+2180,HCIJ.J,,,,301,,,GARP
+2181,HCIJ.J,,,,113,,,Emerg. Mkts.
+2182,HCIJ.J,,,,113,,,Core Value
+2183,HCIJ.J,,,,113,,,
+2184,HCIJ.J,,,,107,,,
+2185,HCIJ.J,,,,113,,,
+2186,HCIJ.J,,,,107,,,
+2187,HCIJ.J,,,,,,,
+2188,HCIJ.J,,,,,,,
+2189,HDCJ.J,1.4424,1998-03-31T00:00:00Z,2785765,107,,South Africa,Growth
+2190,HDCJ.J,1.4424,1998-06-30T00:00:00Z,2005211,107,,,Emerg. Mkts.
+2191,HDCJ.J,0.0,1998-12-31T00:00:00Z,2006038,113,,,Sector Specific
+2192,HDCJ.J,1.4426,1997-12-31T00:00:00Z,2005211,107,,,Growth
+2193,HDCJ.J,0.0059,1997-12-31T00:00:00Z,2006038,113,,,
+2194,HDCJ.J,,,2785765,107,,,Specialty
+2195,HDCJ.J,,,,,,,Growth
+2196,HDCJ.J,,,,113,,,Sector Specific
+2197,HDCJ.J,,,,113,,,Growth
+2198,HDCJ.J,,,,107,,,
+2199,HDCJ.J,,,,107,,,Specialty
+2200,HDCJ.J,,,,113,,,
+2201,HDCJ.J,,,,107,,,
+2202,HDCJ.J,,,,,,,
+2203,RBGH.GH,,,,113,,Trinidad and Tobago,Core Value
+2204,RBGH.GH,,,,113,,,Index
+2205,RBGH.GH,,,,,,,Aggres. Gr.
+2206,RBGH.GH,,,,,,,Growth
+2207,RBGH.GH,,,,,,,Sector Specific
+2208,RBGH.GH,,,,,,,Core Growth
+2209,RBGH.GH,,,,,,,GARP
+2210,RBGH.GH,,,,,,,Core Value
+2211,RBGH.GH,,,,,,,Index
+2212,RBGH.GH,,,,,,,Core Value
+2213,RBGH.GH,,,,,,,Index
+2214,RBGH.GH,,,,,,,Aggres. Gr.
+2215,RBGH.GH,,,,,,,Growth
+2216,RBGH.GH,,,,,,,Sector Specific
+2217,RBGH.GH,,,,,,,Core Growth
+2218,RBGH.GH,,,,,,,GARP
+2219,RBGH.GH,,,,,,,Core Value
+2220,RBGH.GH,,,,,,,Index
+2221,HFCK.NR,,,,,,Kenya,
+2222,HIPO.ZI,,,,107,,South Africa,Core Growth
+2223,HIPO.ZI,,,,113,,,Core Growth
+2224,HIPO.ZI,,,,110,,,
+2225,HIPO.ZI,,,,107,,,
+2226,HIPO.ZI,,,,110,,,
+2227,HIPO.ZI,,,,113,,,
+2228,HLMJ.J,,,,,,South Africa,
+2229,HUGJ.J,,,,,,South Africa,
+2230,NPKZ.ZI,,,,,,South Africa,
+2231,HYPJ.J,0.0178,1998-12-31T00:00:00Z,2006038,107,,South Africa,Specialty
+2232,HYPJ.J,,,2638977,107,,,Specialty
+2233,HYPJ.J,22.3895,1997-01-31T00:00:00Z,2638977,107,5001449671,,
+2234,HYPJ.J,,,2006038,113,,,
+2235,HYPJ.J,,,,,,,
+2236,HYPJ.J,,,,113,,,
+2237,HYPJ.J,,,,107,,,
+2238,HYPJ.J,,,,110,,,
+2239,HYPJ.J,,,,107,,,
+2240,HYPJ.J,,,,,,,
+2241,IBTC.LG,,,,,,South Africa,
+2242,CTUM.NR,0.0401,1998-12-31T00:00:00Z,2005726,107,5001449043,Kenya,
+2243,CTUM.NR,,,2005726,,,,
+2244,IMG.LG,,,,,,Nigeria,
+2245,IKEJAHO.LG,,,,,,Nigeria,
+2246,IMPJ.J,0.6127,1997-06-03T00:00:00Z,2656252,113,,South Africa,GARP
+2247,IMPJ.J,0.5338,1998-06-30T00:00:00Z,2005211,301,,,Sector Specific
+2248,IMPJ.J,0.1317,1998-03-31T00:00:00Z,2785765,107,,,Sector Specific
+2249,IMPJ.J,0.0666,1998-12-31T00:00:00Z,2005218,107,4298409344,,Sector Specific
+2250,IMPJ.J,0.0464,1998-12-31T00:00:00Z,2003614,107,,,Sector Specific
+2251,IMPJ.J,0.0456,1998-12-31T00:00:00Z,2783694,113,,,Sector Specific
+2252,IMPJ.J,0.0076,1998-12-31T00:00:00Z,2002823,107,5000052202,,GARP
+2253,IMPJ.J,0.0,1997-12-31T00:00:00Z,2006034,107,5000014523,,Specialty
+2254,IMPJ.J,0.0,1997-12-31T00:00:00Z,2004902,113,,,Sector Specific
+2255,IMPJ.J,0.0,1998-06-30T00:00:00Z,2003974,107,5000001140,,Specialty
+2256,IMPJ.J,0.6127,1997-06-03T00:00:00Z,2656252,107,,,Specialty
+2257,IMPJ.J,0.1896,1997-12-31T00:00:00Z,2783694,107,,,Emerg. Mkts.
+2258,IMPJ.J,0.045,1997-03-31T00:00:00Z,2003974,107,5000001140,,Sector Specific
+2259,IMPJ.J,0.0321,1997-06-30T00:00:00Z,2005218,110,4298409344,,Index
+2260,IMPJ.J,0.0,1997-12-31T00:00:00Z,2006034,110,5000014523,,Core Growth
+2261,IMPJ.J,0.0,1997-12-31T00:00:00Z,2005211,107,,,Sector Specific
+2262,IMPJ.J,0.0,1997-12-31T00:00:00Z,2004902,113,,,Specialty
+2263,IMPJ.J,0.0,1997-06-30T00:00:00Z,2003614,107,,,Emerg. Mkts.
+2264,IMPJ.J,,,2785765,107,,,Emerg. Mkts.
+2265,IMPJ.J,,,2002823,113,,,GARP
+2266,IMPJ.J,,,,101,,,Core Growth
+2267,IMPJ.J,,,,113,,,Sector Specific
+2268,IMPJ.J,,,,107,,,Emerg. Mkts.
+2269,IMPJ.J,,,,107,,,Emerg. Mkts.
+2270,IMPJ.J,,,,113,,,Emerg. Mkts.
+2271,IMPJ.J,,,,107,,,Emerg. Mkts.
+2272,IMPJ.J,,,,113,,,
+2273,IMPJ.J,,,,113,,,Index
+2274,IMPJ.J,,,,107,,,Emerg. Mkts.
+2275,IMPJ.J,,,,113,,,Sector Specific
+2276,IMPJ.J,,,,107,,,Emerg. Mkts.
+2277,IMPJ.J,,,,301,,,Specialty
+2278,IMPJ.J,,,,113,,,Emerg. Mkts.
+2279,IMPJ.J,,,,107,,,Growth
+2280,IMPJ.J,,,,113,,,Sector Specific
+2281,IMPJ.J,,,,107,,,Emerg. Mkts.
+2282,IMPJ.J,,,,107,,,GARP
+2283,IMPJ.J,,,,113,,,Sector Specific
+2284,IMPJ.J,,,,107,,,Sector Specific
+2285,IMPJ.J,,,,110,,,Specialty
+2286,IMPJ.J,,,,113,,,GARP
+2287,IMPJ.J,,,,113,,,Sector Specific
+2288,IMPJ.J,,,,107,,,Specialty
+2289,IMPJ.J,,,,101,,,Sector Specific
+2290,IMPJ.J,,,,107,,,Emerg. Mkts.
+2291,IMPJ.J,,,,107,,,Emerg. Mkts.
+2292,IMPJ.J,,,,107,,,Core Growth
+2293,IMPJ.J,,,,113,,,Specialty
+2294,IMPJ.J,,,,107,,,Sector Specific
+2295,IMPJ.J,,,,107,,,Emerg. Mkts.
+2296,IMPJ.J,,,,107,,,Emerg. Mkts.
+2297,IMPJ.J,,,,,,,Emerg. Mkts.
+2298,IMPJ.J,,,,,,,Index
+2299,IMPJ.J,,,,,,,Specialty
+2300,IMPJ.J,,,,,,,Core Growth
+2301,IMPJ.J,,,,,,,
+2302,IMPJ.J,,,,,,,Index
+2303,IMPJ.J,,,,,,,Emerg. Mkts.
+2304,IMPJ.J,,,,,,,Emerg. Mkts.
+2305,IMPJ.J,,,,,,,Growth
+2306,IMPJ.J,,,,,,,Sector Specific
+2307,IMPJ.J,,,,,,,
+2308,IMPJ.J,,,,,,,
+2309,IMPJ.J,,,,,,,
+2310,IMPJ.J,,,,,,,
+2311,IMPJ.J,,,,,,,
+2312,IMPJ.J,,,,,,,
+2313,IMPJ.J,,,,,,,
+2314,IMPJ.J,,,,,,,
+2315,IMPJ.J,,,,,,,
+2316,IMPJ.J,,,,,,,
+2317,IMPJ.J,,,,,,,
+2318,FIRSTIN.LG,,,,,,Nigeria,
+2319,INLJ.J,14.088,1998-03-02T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+2320,INLJ.J,12.7898,1998-03-02T00:00:00Z,2637186,301,4297902883,,Specialty
+2321,INLJ.J,0.411,1998-06-30T00:00:00Z,2005211,113,,,GARP
+2322,INLJ.J,0.1874,1998-12-31T00:00:00Z,2003066,113,5000051932,,Growth
+2323,INLJ.J,0.0414,1998-03-31T00:00:00Z,2785765,113,,,Specialty
+2324,INLJ.J,0.0225,1998-03-02T00:00:00Z,2650925,107,5000128439,,Index
+2325,INLJ.J,0.0041,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+2326,INLJ.J,0.0009,1998-12-31T00:00:00Z,2002823,107,5000052202,,Specialty
+2327,INLJ.J,0.0,1998-09-30T00:00:00Z,2005218,107,4298409344,,Emerg. Mkts.
+2328,INLJ.J,0.0,1998-09-30T00:00:00Z,2005217,113,,,Emerg. Mkts.
+2329,INLJ.J,0.0,1998-06-30T00:00:00Z,2003974,110,5000001140,,Emerg. Mkts.
+2330,INLJ.J,0.0,1997-09-30T00:00:00Z,2003709,107,,,Emerg. Mkts.
+2331,INLJ.J,7.817,1997-01-31T00:00:00Z,2650925,110,5000128439,,Growth
+2332,INLJ.J,0.8387,1997-12-31T00:00:00Z,2005217,113,,,Emerg. Mkts.
+2333,INLJ.J,0.2897,1997-03-31T00:00:00Z,2003974,113,5000001140,,Core Growth
+2334,INLJ.J,0.0735,1997-06-30T00:00:00Z,2005218,301,4298409344,,Emerg. Mkts.
+2335,INLJ.J,0.0089,1997-12-31T00:00:00Z,2003066,113,5000051932,,Emerg. Mkts.
+2336,INLJ.J,0.0042,1997-12-31T00:00:00Z,2005211,107,,,Emerg. Mkts.
+2337,INLJ.J,0.002,1997-12-31T00:00:00Z,2006038,107,,,Emerg. Mkts.
+2338,INLJ.J,0.0,1997-09-30T00:00:00Z,2003709,107,,,Emerg. Mkts.
+2339,INLJ.J,,,2785765,107,,,Emerg. Mkts.
+2340,INLJ.J,,,2676461,107,,,Emerg. Mkts.
+2341,INLJ.J,,,2637186,113,,,Growth
+2342,INLJ.J,,,2002823,107,,,Emerg. Mkts.
+2343,INLJ.J,,,,113,,,Emerg. Mkts.
+2344,INLJ.J,,,,113,,,
+2345,INLJ.J,,,,107,,,Core Value
+2346,INLJ.J,,,,107,,,Emerg. Mkts.
+2347,INLJ.J,,,,301,,,Index
+2348,INLJ.J,,,,113,,,Emerg. Mkts.
+2349,INLJ.J,,,,113,,,Emerg. Mkts.
+2350,INLJ.J,,,,113,,,Emerg. Mkts.
+2351,INLJ.J,,,,113,,,GARP
+2352,INLJ.J,,,,113,,,Index
+2353,INLJ.J,,,,113,,,Core Value
+2354,INLJ.J,,,,113,,,Emerg. Mkts.
+2355,INLJ.J,,,,107,,,Specialty
+2356,INLJ.J,,,,110,,,Emerg. Mkts.
+2357,INLJ.J,,,,113,,,Emerg. Mkts.
+2358,INLJ.J,,,,107,,,Specialty
+2359,INLJ.J,,,,110,,,Specialty
+2360,INLJ.J,,,,107,,,Emerg. Mkts.
+2361,INLJ.J,,,,107,,,Emerg. Mkts.
+2362,INLJ.J,,,,107,,,Specialty
+2363,INLJ.J,,,,107,,,Index
+2364,INLJ.J,,,,,,,Emerg. Mkts.
+2365,INLJ.J,,,,,,,Specialty
+2366,INLJ.J,,,,,,,GARP
+2367,INLJ.J,,,,,,,Growth
+2368,INLJ.J,,,,,,,Core Growth
+2369,INLJ.J,,,,,,,Emerg. Mkts.
+2370,INLJ.J,,,,,,,Emerg. Mkts.
+2371,INLJ.J,,,,,,,Emerg. Mkts.
+2372,INLJ.J,,,,,,,Emerg. Mkts.
+2373,INLJ.J,,,,,,,Emerg. Mkts.
+2374,INLJ.J,,,,,,,Growth
+2375,INLJ.J,,,,,,,Emerg. Mkts.
+2376,INLJ.J,,,,,,,Emerg. Mkts.
+2377,INLJ.J,,,,,,,Core Value
+2378,INLJ.J,,,,,,,Index
+2379,INLJ.J,,,,,,,Core Value
+2380,INLJ.J,,,,,,,Emerg. Mkts.
+2381,INLJ.J,,,,,,,GARP
+2382,INLJ.J,,,,,,,
+2383,INLJ.J,,,,,,,
+2384,INLJ.J,,,,,,,
+2385,INLJ.J,,,,,,,
+2386,INLJ.J,,,,,,,
+2387,INLJ.J,,,,,,,
+2388,INLJ.J,,,,,,,
+2389,INLJ.J,,,,,,,
+2390,INLJ.J,,,,,,,
+2391,INLJ.J,,,,,,,
+2392,INLJ.J,,,,,,,
+2393,INLJ.J,,,,,,,
+2394,INLJ.J,,,,,,,
+2395,INLJ.J,,,,,,,
+2396,INLJ.J,,,,,,,
+2397,INN.ZI^B23,,,,,,Zimbabwe,
+2398,INTBREW.LG,,,,,,Germany,
+2399,EUNISELL.LG,,,,,,Nigeria,
+2400,ISAJ.J,,,,,,South Africa,
+2401,ISBJ.J,,,,,,South Africa,
+2402,ITEJ.J,0.0,1998-06-30T00:00:00Z,2005211,113,,,Specialty
+2403,ITEJ.J,,,3253781,107,,,Specialty
+2404,ITEJ.J,,,2634208,,,,
+2405,ITEJ.J,60.5,1997-01-31T00:00:00Z,2634208,,5035512577,,
+2406,ITEJ.J,5.2,1997-01-31T00:00:00Z,3253781,302,,,
+2407,ITEJ.J,0.0,1997-12-31T00:00:00Z,2005211,113,,,
+2408,ITEJ.J,,,,303,,,
+2409,ITEJ.J,,,,107,,,
+2410,IVTJ.J,0.0036,1998-12-31T00:00:00Z,2006038,113,,South Africa,Specialty
+2411,IVTJ.J,0.0,1998-12-31T00:00:00Z,2005217,113,,,Specialty
+2412,IVTJ.J,0.0064,1997-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+2413,IVTJ.J,,,2005217,107,,,Emerg. Mkts.
+2414,IVTJ.J,,,,113,,,Specialty
+2415,IVTJ.J,,,,113,,,Specialty
+2416,IVTJ.J,,,,113,,,Emerg. Mkts.
+2417,IVTJ.J,,,,113,,,
+2418,IVTJ.J,,,,113,,,
+2419,IVTJ.J,,,,107,,,
+2420,IVTJ.J,,,,113,,,
+2421,IVTJ.J,,,,,,,
+2422,JAPAULGOLD.LG,,,,,,Nigeria,
+2423,JBERGER.LG,0.0161,1998-12-31T00:00:00Z,2006494,107,5000706029,Nigeria,
+2424,JBERGER.LG,0.1615,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+2425,ATIJ.J,,,,,,,
+2426,JOHNHOL.LG,0.0,1998-06-30T00:00:00Z,2006494,107,5000706029,,
+2427,JOHNHOL.LG,0.1532,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+2428,JSCJ.J,2.5722,1998-06-30T00:00:00Z,2005211,113,,South Africa,Specialty
+2429,JSCJ.J,,,3253883,107,,,Specialty
+2430,JSCJ.J,,,2632439,113,,,Specialty
+2431,JSCJ.J,20.8076,1997-01-31T00:00:00Z,2632439,113,4295891340,,Specialty
+2432,JSCJ.J,16.6,1997-01-31T00:00:00Z,3253883,,34413325189,,
+2433,JSCJ.J,,,2005211,,,,
+2434,JSCJ.J,,,,301,,,
+2435,JSCJ.J,,,,303,,,
+2436,JSCJ.J,,,,113,,,
+2437,JSCJ.J,,,,113,,,
+2438,JSCJ.J,,,,,,,
+2439,JSCJ.J,,,,,,,
+2440,JSEJ.J,,,,,,South Africa,
+2441,JUB.NR,,,,,,Kenya,
+2442,JULI.LG,,,,,,Nigeria,
+2443,KUKZ.NR,0.0,1998-12-31T00:00:00Z,2006494,113,5000706029,Bermuda,
+2444,KUKZ.NR,0.5482,1997-06-30T00:00:00Z,2006494,107,5000706029,,Specialty
+2445,KUKZ.NR,,,,107,,,Specialty
+2446,KUKZ.NR,,,,113,,,
+2447,KUKZ.NR,,,,107,,,Specialty
+2448,KUKZ.NR,,,,107,,,Specialty
+2449,KAPC.NR,,,,,,Kenya,
+2450,KAPJ.J,62.94,1998-06-01T00:00:00Z,2986875,301,4296692230,South Africa,Index
+2451,KAPJ.J,5.51,1998-07-01T00:00:00Z,2676461,302,5000854298,,Index
+2452,KAPJ.J,0.0047,1998-12-31T00:00:00Z,2006038,301,,,
+2453,KAPJ.J,,,2986875,107,,,
+2454,KAPJ.J,,,2676461,107,,,
+2455,KAPJ.J,,,2006038,107,,,
+2456,KAPJ.J,,,,,,,
+2457,KAPJ.J,,,,,,,
+2458,KAPJ.J,,,,,,,
+2459,KAPJ.J,,,,,,,
+2460,KCB.NR,0.4476,1998-12-31T00:00:00Z,2006494,107,5000706029,Kenya,Hedge Fund
+2461,KCB.NR,0.2785,1998-12-31T00:00:00Z,2005726,107,5001449043,,Growth
+2462,KCB.NR,0.2308,1997-06-30T00:00:00Z,2006494,110,5000706029,,
+2463,KCB.NR,,,2005726,107,,,Emerg. Mkts.
+2464,KCB.NR,,,,113,,,Emerg. Mkts.
+2465,KCB.NR,,,,107,,,Hedge Fund
+2466,KCB.NR,,,,113,,,Emerg. Mkts.
+2467,KCB.NR,,,,107,,,
+2468,KCB.NR,,,,110,,,Emerg. Mkts.
+2469,KCB.NR,,,,113,,,
+2470,KCB.NR,,,,107,,,
+2471,KCB.NR,,,,107,,,
+2472,KCB.NR,,,,113,,,
+2473,KCB.NR,,,,,,,
+2474,KEGN.NR,,,,,,Kenya,
+2475,KIOJ.J,,,,,,United Kingdom,
+2476,ORCH.NR,,,,,,Kenya,
+2477,KPLC.NR,,,,110,,Kenya,Hedge Fund
+2478,KPLC.NR,,,,107,,,Growth
+2479,KPLC.NR,,,,107,,,Emerg. Mkts.
+2480,KPLC.NR,,,,110,,,Hedge Fund
+2481,KPLC.NR,,,,,,,Emerg. Mkts.
+2482,KPLC.NR,,,,,,,
+2483,KQNA.NR,26.0,1998-07-14T00:00:00Z,2658340,301,,Kenya,GARP
+2484,KQNA.NR,,,2658340,113,,,Emerg. Mkts.
+2485,KQNA.NR,,,,113,,,Emerg. Mkts.
+2486,KQNA.NR,,,,107,,,GARP
+2487,KQNA.NR,,,,113,,,Emerg. Mkts.
+2488,KQNA.NR,,,,107,,,Emerg. Mkts.
+2489,KQNA.NR,,,,,,,
+2490,KQNA.NR,,,,,,,
+2491,KNRE.NR,,,,,,Kenya,
+2492,LABJ.J,25.797,1998-08-03T00:00:00Z,3299184,201,48470517600,South Africa,
+2493,LABJ.J,,,3299184,107,,,
+2494,LABJ.J,,,,306,,,
+2495,LABJ.J,,,,,,,
+2496,LABJ.J,,,,,,,
+2497,LABJ.J,,,,,,,
+2498,LASACO.LG,,,,,,Nigeria,
+2499,LBHJ.J^C22,10.09,1998-07-01T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+2500,LBHJ.J^C22,2.81,1998-07-01T00:00:00Z,2637186,301,4297902883,,Specialty
+2501,LBHJ.J^C22,0.4,1998-12-31T00:00:00Z,2002306,113,,,GARP
+2502,LBHJ.J^C22,0.23,1998-06-30T00:00:00Z,2005211,113,,,Emerg. Mkts.
+2503,LBHJ.J^C22,0.15,1998-03-31T00:00:00Z,2785765,107,,,Emerg. Mkts.
+2504,LBHJ.J^C22,0.03,1998-12-31T00:00:00Z,2005217,107,,,Emerg. Mkts.
+2505,LBHJ.J^C22,0.0,1997-12-31T00:00:00Z,2005211,113,,,Emerg. Mkts.
+2506,LBHJ.J^C22,,,2785765,107,,,Specialty
+2507,LBHJ.J^C22,,,2676461,107,,,Emerg. Mkts.
+2508,LBHJ.J^C22,,,2637186,107,,,Core Value
+2509,LBHJ.J^C22,,,2005217,107,,,Index
+2510,LBHJ.J^C22,,,2002306,113,,,Specialty
+2511,LBHJ.J^C22,,,,113,,,Specialty
+2512,LBHJ.J^C22,,,,113,,,GARP
+2513,LBHJ.J^C22,,,,107,,,Index
+2514,LBHJ.J^C22,,,,113,,,
+2515,LBHJ.J^C22,,,,107,,,
+2516,LBHJ.J^C22,,,,107,,,
+2517,LBHJ.J^C22,,,,113,,,
+2518,LBHJ.J^C22,,,,107,,,
+2519,LBHJ.J^C22,,,,113,,,
+2520,LBHJ.J^C22,,,,,,,
+2521,LBHJ.J^C22,,,,,,,
+2522,LBHJ.J^C22,,,,,,,
+2523,LBHJ.J^C22,,,,,,,
+2524,LBHJ.J^C22,,,,,,,
+2525,LBHJ.J^C22,,,,,,,
+2526,LBHJ.J^C22,,,,,,,
+2527,LEWJ.J,,,,,,South Africa,
+2528,LETS.BT,,,,,,Botswana,
+2529,UNILEVE.LG,0.0,1998-12-31T00:00:00Z,2006494,107,5000706029,United Kingdom,
+2530,UNILEVE.LG,0.0,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+2531,LIMT.NR,,,,,,United Kingdom,
+2532,LINKASS.LG,,,,,,Nigeria,
+2533,LIVESTO.LG,,,,,,Nigeria,
+2534,LEARNAF.LG,,,,,,United Kingdom,
+2535,BFCA.ZI,,,,,,Zimbabwe,
+2536,MANDRID.LG,,,,,,Nigeria,
+2537,MASH.ZI,,,,107,,Zimbabwe,
+2538,MASH.ZI,,,,107,,,
+2539,MAYBAKE.LG,,,,,,Nigeria,
+2540,MBENEFI.LG,,,,,,Nigeria,
+2541,KMAL.ZI,0.0,1997-12-31T00:00:00Z,2004902,110,,Zimbabwe,Emerg. Mkts.
+2542,KMAL.ZI,0.0,1997-09-30T00:00:00Z,2003066,113,5000051932,,Emerg. Mkts.
+2543,KMAL.ZI,0.0,1997-12-31T00:00:00Z,2004902,107,,,Emerg. Mkts.
+2544,KMAL.ZI,0.0,1997-09-30T00:00:00Z,2003066,107,5000051932,,Emerg. Mkts.
+2545,KMAL.ZI,,,,113,,,Emerg. Mkts.
+2546,KMAL.ZI,,,,107,,,Core Growth
+2547,KMAL.ZI,,,,113,,,Emerg. Mkts.
+2548,KMAL.ZI,,,,113,,,Emerg. Mkts.
+2549,KMAL.ZI,,,,107,,,Emerg. Mkts.
+2550,KMAL.ZI,,,,113,,,GARP
+2551,KMAL.ZI,,,,113,,,Emerg. Mkts.
+2552,KMAL.ZI,,,,107,,,Emerg. Mkts.
+2553,KMAL.ZI,,,,110,,,Emerg. Mkts.
+2554,KMAL.ZI,,,,107,,,Emerg. Mkts.
+2555,KMAL.ZI,,,,110,,,Emerg. Mkts.
+2556,KMAL.ZI,,,,113,,,Emerg. Mkts.
+2557,KMAL.ZI,,,,107,,,GARP
+2558,KMAL.ZI,,,,113,,,
+2559,KMAL.ZI,,,,113,,,
+2560,KMAL.ZI,,,,107,,,
+2561,KMAL.ZI,,,,113,,,
+2562,KMAL.ZI,,,,113,,,
+2563,KMAL.ZI,,,,107,,,
+2564,KMAL.ZI,,,,113,,,
+2565,KMAL.ZI,,,,107,,,
+2566,KMAL.ZI,,,,,,,
+2567,MTMJ.J,,,,,,South Africa,
+2568,MFLJ.J,27.47,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+2569,MFLJ.J,6.23,1998-08-03T00:00:00Z,2938719,110,5001196246,,Sector Specific
+2570,MFLJ.J,2.5318,1998-08-03T00:00:00Z,2006038,302,,,Emerg. Mkts.
+2571,MFLJ.J,2.38,1998-08-03T00:00:00Z,3248148,107,,,Specialty
+2572,MFLJ.J,1.45,1998-12-31T00:00:00Z,2005217,303,,,Sector Specific
+2573,MFLJ.J,1.26,1998-08-03T00:00:00Z,2639482,113,,,
+2574,MFLJ.J,0.87,1998-12-31T00:00:00Z,2005218,107,4298409344,,
+2575,MFLJ.J,0.0025,1998-06-30T00:00:00Z,2005211,113,,,
+2576,MFLJ.J,4.86,1997-12-31T00:00:00Z,2005217,301,,,
+2577,MFLJ.J,1.3837,1997-12-31T00:00:00Z,2005211,107,,,
+2578,MFLJ.J,0.0036,1997-12-31T00:00:00Z,2006038,107,,,
+2579,MFLJ.J,,,3248148,107,,,
+2580,MFLJ.J,,,2938719,113,,,
+2581,MFLJ.J,,,2676461,113,,,
+2582,MFLJ.J,,,2639482,107,,,
+2583,MFLJ.J,,,2005218,107,,,
+2584,MFLJ.J,,,,107,,,
+2585,MFLJ.J,,,,,,,
+2586,MFLJ.J,,,,,,,
+2587,MFLJ.J,,,,,,,
+2588,MFLJ.J,,,,,,,
+2589,MFLJ.J,,,,,,,
+2590,MFLJ.J,,,,,,,
+2591,MFLJ.J,,,,,,,
+2592,MFLJ.J,,,,,,,
+2593,MFLJ.J,,,,,,,
+2594,MIXJ.J,,,,,,South Africa,
+2595,SEBJ.J,,,,,,,
+2596,UATJ.J,,,,,,South Africa,
+2597,TOTAL.GH,,,,,,France,
+2598,MORISON.LG,,,,,,Nigeria,
+2599,MRPJ.J,7.0711,1998-08-03T00:00:00Z,5139144,113,4297021561,South Africa,Sector Specific
+2600,MRPJ.J,7.0539,1998-08-03T00:00:00Z,2637186,111,4297902883,,GARP
+2601,MRPJ.J,4.1534,1998-08-03T00:00:00Z,2676461,301,5000854298,,Specialty
+2602,MRPJ.J,2.952,1998-08-03T00:00:00Z,2990678,301,5000772465,,Growth
+2603,MRPJ.J,2.4426,1998-03-31T00:00:00Z,2785765,113,,,Core Value
+2604,MRPJ.J,2.4333,1998-06-30T00:00:00Z,2005211,301,,,Index
+2605,MRPJ.J,0.0074,1998-12-31T00:00:00Z,2006038,107,,,Emerg. Mkts.
+2606,MRPJ.J,0.0,1998-06-30T00:00:00Z,2005217,107,,,GARP
+2607,MRPJ.J,0.0075,1997-12-31T00:00:00Z,2006038,113,,,Specialty
+2608,MRPJ.J,0.0,1997-12-31T00:00:00Z,2005211,302,,,Core Value
+2609,MRPJ.J,,,5139144,113,,,Index
+2610,MRPJ.J,,,2990678,107,,,Emerg. Mkts.
+2611,MRPJ.J,,,2785765,113,,,
+2612,MRPJ.J,,,2676461,113,,,
+2613,MRPJ.J,,,2637186,113,,,
+2614,MRPJ.J,,,2005217,107,,,
+2615,MRPJ.J,,,,107,,,
+2616,MRPJ.J,,,,113,,,
+2617,MRPJ.J,,,,113,,,
+2618,MRPJ.J,,,,,,,
+2619,MRPJ.J,,,,,,,
+2620,MRPJ.J,,,,,,,
+2621,MRPJ.J,,,,,,,
+2622,MRPJ.J,,,,,,,
+2623,MRPJ.J,,,,,,,
+2624,MRPJ.J,,,,,,,
+2625,MRPJ.J,,,,,,,
+2626,MRPJ.J,,,,,,,
+2627,MSHL.ZI,,,,,,Zimbabwe,
+2628,ZIMR.ZI,,,,,,Zimbabwe,
+2629,MRFJ.J,39.1694,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,
+2630,MRFJ.J,26.859,1998-08-03T00:00:00Z,2250008,107,5001447542,,
+2631,MRFJ.J,12.7207,1998-08-03T00:00:00Z,3248475,303,,,
+2632,MRFJ.J,10.5571,1998-08-03T00:00:00Z,2653331,301,5055413127,,
+2633,MRFJ.J,8.4308,1998-08-03T00:00:00Z,3248477,303,,,
+2634,MRFJ.J,6.9759,1998-08-03T00:00:00Z,2675520,107,5055410695,,
+2635,MRFJ.J,4.5138,1998-08-03T00:00:00Z,3248171,301,,,
+2636,MRFJ.J,,,3248477,201,,,
+2637,MRFJ.J,,,3248475,113,,,
+2638,MRFJ.J,,,3248171,303,,,
+2639,MRFJ.J,,,2676461,,,,
+2640,MRFJ.J,,,2675520,,,,
+2641,MRFJ.J,,,2653331,,,,
+2642,MRFJ.J,,,2250008,,,,
+2643,MRFJ.J,,,,,,,
+2644,MRFJ.J,,,,,,,
+2645,MRFJ.J,,,,,,,
+2646,MRFJ.J,,,,,,,
+2647,MRFJ.J,,,,,,,
+2648,MRFJ.J,,,,,,,
+2649,MSC.NR,,,,,,Kenya,
+2650,MSTJ.J,15.985,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+2651,MSTJ.J,12.6536,1998-08-03T00:00:00Z,2669853,301,,,Growth
+2652,MSTJ.J,12.2422,1998-08-03T00:00:00Z,3257076,303,34413317955,,Specialty
+2653,MSTJ.J,4.9867,1998-06-30T00:00:00Z,2005211,107,,,Specialty
+2654,MSTJ.J,4.2054,1998-12-31T00:00:00Z,2005217,113,,,Growth
+2655,MSTJ.J,2.1141,1998-09-30T00:00:00Z,2783074,113,,,Emerg. Mkts.
+2656,MSTJ.J,1.8363,1998-08-03T00:00:00Z,2669854,107,48471686387,,Emerg. Mkts.
+2657,MSTJ.J,1.4851,1998-08-03T00:00:00Z,2637186,301,4297902883,,Emerg. Mkts.
+2658,MSTJ.J,1.3848,1998-08-03T00:00:00Z,2938719,301,5001196246,,Emerg. Mkts.
+2659,MSTJ.J,0.003,1998-12-31T00:00:00Z,2006038,110,,,Emerg. Mkts.
+2660,MSTJ.J,3.4417,1997-12-31T00:00:00Z,2005217,113,,,Emerg. Mkts.
+2661,MSTJ.J,0.0646,1997-12-31T00:00:00Z,2005211,107,,,Growth
+2662,MSTJ.J,0.0026,1997-12-31T00:00:00Z,2006038,113,,,Specialty
+2663,MSTJ.J,,,3257076,113,,,Specialty
+2664,MSTJ.J,,,2938719,113,,,Specialty
+2665,MSTJ.J,,,2783074,113,,,Growth
+2666,MSTJ.J,,,2676461,113,,,Emerg. Mkts.
+2667,MSTJ.J,,,2669854,113,,,Emerg. Mkts.
+2668,MSTJ.J,,,2669853,107,,,Emerg. Mkts.
+2669,MSTJ.J,,,2637186,107,,,
+2670,MSTJ.J,,,,113,,,
+2671,MSTJ.J,,,,,,,
+2672,MSTJ.J,,,,,,,
+2673,MSTJ.J,,,,,,,
+2674,MSTJ.J,,,,,,,
+2675,MSTJ.J,,,,,,,
+2676,MSTJ.J,,,,,,,
+2677,MSTJ.J,,,,,,,
+2678,MTAJ.J,16.61,1998-08-03T00:00:00Z,2676461,113,5000854298,South Africa,
+2679,MTAJ.J,13.36,1998-08-03T00:00:00Z,3668789,301,,,
+2680,MTAJ.J,0.0,1997-01-31T00:00:00Z,3668789,302,,,
+2681,MTAJ.J,,,2676461,107,,,
+2682,MTAJ.J,,,,302,,,
+2683,MTAJ.J,,,,,,,
+2684,MTAJ.J,,,,,,,
+2685,MTAJ.J,,,,,,,
+2686,MTNJ.J,10.79,1998-07-01T00:00:00Z,2676461,113,5000854298,South Africa,Growth
+2687,MTNJ.J,0.05,1998-12-31T00:00:00Z,2005054,301,,,Specialty
+2688,MTNJ.J,0.03,1998-12-31T00:00:00Z,2005217,113,,,GARP
+2689,MTNJ.J,0.0034,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+2690,MTNJ.J,0.0037,1998-06-30T00:00:00Z,2005211,113,,,Index
+2691,MTNJ.J,0.01,1997-12-31T00:00:00Z,2005211,113,,,Growth
+2692,MTNJ.J,0.0019,1997-12-31T00:00:00Z,2006038,107,,,Emerg. Mkts.
+2693,MTNJ.J,0.0,1997-06-30T00:00:00Z,2005217,107,,,Emerg. Mkts.
+2694,MTNJ.J,,,2676461,113,,,
+2695,MTNJ.J,,,2005054,107,,,Specialty
+2696,MTNJ.J,,,,107,,,Index
+2697,MTNJ.J,,,,107,,,Growth
+2698,MTNJ.J,,,,107,,,Growth
+2699,MTNJ.J,,,,113,,,Growth
+2700,MTNJ.J,,,,107,,,GARP
+2701,MTNJ.J,,,,107,,,Emerg. Mkts.
+2702,MTNJ.J,,,,107,,,Growth
+2703,MTNJ.J,,,,113,,,Index
+2704,MTNJ.J,,,,113,,,
+2705,MTNJ.J,,,,,,,Index
+2706,MTNJ.J,,,,,,,
+2707,MTNJ.J,,,,,,,
+2708,MTNJ.J,,,,,,,
+2709,MTNJ.J,,,,,,,
+2710,MTNJ.J,,,,,,,
+2711,MTNJ.J,,,,,,,
+2712,MURJ.J,26.12,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Core Value
+2713,MURJ.J,1.28,1998-08-03T00:00:00Z,3248185,113,,,Growth
+2714,MURJ.J,0.14,1998-06-30T00:00:00Z,2005211,113,,,Specialty
+2715,MURJ.J,0.08,1998-12-31T00:00:00Z,2002823,302,5000052202,,Emerg. Mkts.
+2716,MURJ.J,0.0,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+2717,MURJ.J,0.0,1998-06-30T00:00:00Z,2005217,303,,,Emerg. Mkts.
+2718,MURJ.J,0.46,1997-12-31T00:00:00Z,2005217,201,,,Specialty
+2719,MURJ.J,0.01,1997-12-31T00:00:00Z,2005211,113,,,Index
+2720,MURJ.J,0.0,1997-12-31T00:00:00Z,2006038,107,,,Core Value
+2721,MURJ.J,,,3248185,107,,,Emerg. Mkts.
+2722,MURJ.J,,,2676461,107,,,Specialty
+2723,MURJ.J,,,2002823,107,,,Emerg. Mkts.
+2724,MURJ.J,,,,107,,,Growth
+2725,MURJ.J,,,,113,,,Core Growth
+2726,MURJ.J,,,,113,,,Core Value
+2727,MURJ.J,,,,110,,,Emerg. Mkts.
+2728,MURJ.J,,,,107,,,Emerg. Mkts.
+2729,MURJ.J,,,,107,,,Emerg. Mkts.
+2730,MURJ.J,,,,107,,,
+2731,MURJ.J,,,,101,,,Index
+2732,MURJ.J,,,,113,,,Emerg. Mkts.
+2733,MURJ.J,,,,113,,,Index
+2734,MURJ.J,,,,113,,,Emerg. Mkts.
+2735,MURJ.J,,,,113,,,Emerg. Mkts.
+2736,MURJ.J,,,,113,,,Growth
+2737,MURJ.J,,,,113,,,Emerg. Mkts.
+2738,MURJ.J,,,,113,,,Emerg. Mkts.
+2739,MURJ.J,,,,113,,,Specialty
+2740,MURJ.J,,,,113,,,Core Growth
+2741,MURJ.J,,,,107,,,Index
+2742,MURJ.J,,,,107,,,Emerg. Mkts.
+2743,MURJ.J,,,,113,,,Core Value
+2744,MURJ.J,,,,113,,,Emerg. Mkts.
+2745,MURJ.J,,,,110,,,Emerg. Mkts.
+2746,MURJ.J,,,,113,,,Core Value
+2747,MURJ.J,,,,107,,,Emerg. Mkts.
+2748,MURJ.J,,,,107,,,Core Value
+2749,MURJ.J,,,,107,,,Specialty
+2750,MURJ.J,,,,107,,,Emerg. Mkts.
+2751,MURJ.J,,,,101,,,Emerg. Mkts.
+2752,MURJ.J,,,,113,,,Specialty
+2753,MURJ.J,,,,113,,,Core Value
+2754,MURJ.J,,,,113,,,Emerg. Mkts.
+2755,MURJ.J,,,,,,,Emerg. Mkts.
+2756,MURJ.J,,,,,,,Growth
+2757,MURJ.J,,,,,,,Emerg. Mkts.
+2758,MURJ.J,,,,,,,Index
+2759,MURJ.J,,,,,,,Core Value
+2760,MURJ.J,,,,,,,Emerg. Mkts.
+2761,MURJ.J,,,,,,,Emerg. Mkts.
+2762,MURJ.J,,,,,,,Specialty
+2763,MURJ.J,,,,,,,Emerg. Mkts.
+2764,MURJ.J,,,,,,,Growth
+2765,MURJ.J,,,,,,,Core Growth
+2766,MURJ.J,,,,,,,Emerg. Mkts.
+2767,MURJ.J,,,,,,,Emerg. Mkts.
+2768,MURJ.J,,,,,,,Emerg. Mkts.
+2769,MURJ.J,,,,,,,
+2770,MURJ.J,,,,,,,Core Value
+2771,MURJ.J,,,,,,,Index
+2772,MURJ.J,,,,,,,Index
+2773,MURJ.J,,,,,,,Emerg. Mkts.
+2774,MURJ.J,,,,,,,Growth
+2775,MURJ.J,,,,,,,Specialty
+2776,MURJ.J,,,,,,,Core Growth
+2777,MURJ.J,,,,,,,Index
+2778,MURJ.J,,,,,,,Emerg. Mkts.
+2779,MURJ.J,,,,,,,Core Value
+2780,MURJ.J,,,,,,,Emerg. Mkts.
+2781,MURJ.J,,,,,,,
+2782,MURJ.J,,,,,,,
+2783,MURJ.J,,,,,,,
+2784,NAHCO.LG,,,,,,Nigeria,
+2785,NASCON.LG,,,,,,Nigeria,
+2786,NB.LG,3.7519,1997-12-31T00:00:00Z,2637326,302,4295884808,Netherlands,
+2787,NB.LG,0.0132,1998-12-31T00:00:00Z,2005726,107,5001449043,,
+2788,NB.LG,0.0079,1998-12-31T00:00:00Z,2006494,107,5000706029,,
+2789,NB.LG,3.7519,1997-12-31T00:00:00Z,2637326,107,4295884808,,
+2790,NB.LG,0.0026,1997-06-30T00:00:00Z,2006494,113,5000706029,,
+2791,NB.LG,,,2005726,302,,,
+2792,NB.LG,,,,107,,,
+2793,NB.LG,,,,113,,,
+2794,NB.LG,,,,,,,
+2795,NB.LG,,,,,,,
+2796,SXMJ.J,7.2901,1998-06-01T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+2797,SXMJ.J,3.3143,1998-06-01T00:00:00Z,3251419,113,,,Specialty
+2798,SXMJ.J,2.1037,1998-06-01T00:00:00Z,2650900,303,5055407070,,
+2799,SXMJ.J,1.9765,1998-12-31T00:00:00Z,2005217,107,,,
+2800,SXMJ.J,1.945,1998-06-01T00:00:00Z,2637186,301,4297902883,,
+2801,SXMJ.J,1.8457,1998-06-01T00:00:00Z,2634267,113,5043455375,,
+2802,SXMJ.J,1.2636,1998-06-01T00:00:00Z,2675520,301,5055410695,,
+2803,SXMJ.J,1.2437,1998-06-01T00:00:00Z,3390792,301,,,
+2804,SXMJ.J,1.1709,1998-06-01T00:00:00Z,2666952,301,,,
+2805,SXMJ.J,0.6616,1998-06-01T00:00:00Z,2656192,301,5055414660,,
+2806,SXMJ.J,0.0832,1998-12-31T00:00:00Z,2006038,301,,,
+2807,SXMJ.J,0.0019,1998-06-30T00:00:00Z,2005211,201,,,
+2808,SXMJ.J,2.551,1997-12-31T00:00:00Z,2005217,113,,,
+2809,SXMJ.J,0.356,1997-12-31T00:00:00Z,2006038,302,,,
+2810,SXMJ.J,,,3390792,107,,,
+2811,SXMJ.J,,,3251419,301,,,
+2812,SXMJ.J,,,2676461,107,,,
+2813,SXMJ.J,,,2675520,113,,,
+2814,SXMJ.J,,,2666952,107,,,
+2815,SXMJ.J,,,2656192,107,,,
+2816,SXMJ.J,,,2650900,113,,,
+2817,SXMJ.J,,,2637186,107,,,
+2818,SXMJ.J,,,2634267,,,,
+2819,SXMJ.J,,,2005211,,,,
+2820,SXMJ.J,,,,,,,
+2821,SXMJ.J,,,,,,,
+2822,SXMJ.J,,,,,,,
+2823,SXMJ.J,,,,,,,
+2824,SXMJ.J,,,,,,,
+2825,SXMJ.J,,,,,,,
+2826,SXMJ.J,,,,,,,
+2827,SXMJ.J,,,,,,,
+2828,SXMJ.J,,,,,,,
+2829,SXMJ.J,,,,,,,
+2830,SXMJ.J,,,,,,,
+2831,SXMJ.J,,,,,,,
+2832,SXMJ.J,,,,,,,
+2833,SXMJ.J,,,,,,,
+2834,SXMJ.J,,,,,,,
+2835,SXMJ.J,,,,,,,
+2836,NCR.LG,,,,,,United States,
+2837,NCSJ.J,61.55,1998-08-03T00:00:00Z,2660519,301,5055412260,South Africa,
+2838,NCSJ.J,9.4214,1998-08-03T00:00:00Z,2676461,107,5000854298,,
+2839,NCSJ.J,4.6178,1998-12-31T00:00:00Z,2005726,301,5001449043,,
+2840,NCSJ.J,2.44,1998-08-03T00:00:00Z,3248172,107,,,
+2841,NCSJ.J,2.17,1998-08-03T00:00:00Z,3248232,107,,,
+2842,NCSJ.J,,,3248232,303,,,
+2843,NCSJ.J,,,3248172,303,,,
+2844,NCSJ.J,,,2676461,,,,
+2845,NCSJ.J,,,2660519,,,,
+2846,NCSJ.J,,,2005726,,,,
+2847,NCSJ.J,,,,,,,
+2848,NCSJ.J,,,,,,,
+2849,NCSJ.J,,,,,,,
+2850,NCSJ.J,,,,,,,
+2851,NEDJ.J,15.6631,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+2852,NEDJ.J,3.2975,1998-08-03T00:00:00Z,2637186,301,4297902883,,Emerg. Mkts.
+2853,NEDJ.J,1.458,1998-04-01T00:00:00Z,2656252,113,,,GARP
+2854,NEDJ.J,0.2634,1998-12-31T00:00:00Z,2005217,301,,,Core Growth
+2855,NEDJ.J,0.1466,1998-03-31T00:00:00Z,2785765,302,,,Specialty
+2856,NEDJ.J,0.0712,1998-12-31T00:00:00Z,2005218,301,4298409344,,Specialty
+2857,NEDJ.J,0.0645,1998-12-31T00:00:00Z,2004961,113,,,Emerg. Mkts.
+2858,NEDJ.J,0.0215,1998-12-31T00:00:00Z,2003677,113,,,Emerg. Mkts.
+2859,NEDJ.J,0.0083,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+2860,NEDJ.J,0.0043,1998-12-31T00:00:00Z,2005136,113,,,Specialty
+2861,NEDJ.J,0.0043,1998-12-31T00:00:00Z,2003457,113,5000036827,,Emerg. Mkts.
+2862,NEDJ.J,0.0037,1998-12-31T00:00:00Z,2002823,107,5000052202,,Emerg. Mkts.
+2863,NEDJ.J,0.003,1998-06-30T00:00:00Z,2005211,107,,,Emerg. Mkts.
+2864,NEDJ.J,0.0004,1998-12-31T00:00:00Z,2003614,113,,,Emerg. Mkts.
+2865,NEDJ.J,0.0,1998-12-31T00:00:00Z,2004902,113,,,Core Growth
+2866,NEDJ.J,0.2651,1997-12-31T00:00:00Z,2005217,113,,,Growth
+2867,NEDJ.J,0.0479,1997-12-31T00:00:00Z,2004961,107,,,Index
+2868,NEDJ.J,0.0417,1997-12-31T00:00:00Z,2006038,107,,,Emerg. Mkts.
+2869,NEDJ.J,0.0226,1997-06-30T00:00:00Z,2005218,110,4298409344,,Emerg. Mkts.
+2870,NEDJ.J,0.0184,1997-12-31T00:00:00Z,2003677,107,,,Emerg. Mkts.
+2871,NEDJ.J,0.0174,1997-12-31T00:00:00Z,2004902,113,,,Emerg. Mkts.
+2872,NEDJ.J,0.0044,1997-12-31T00:00:00Z,2005136,107,,,Core Growth
+2873,NEDJ.J,0.0043,1997-12-31T00:00:00Z,2005211,107,,,Emerg. Mkts.
+2874,NEDJ.J,,,2785765,113,,,Emerg. Mkts.
+2875,NEDJ.J,,,2676461,110,,,Emerg. Mkts.
+2876,NEDJ.J,,,2656252,107,,,Emerg. Mkts.
+2877,NEDJ.J,,,2637186,107,,,Specialty
+2878,NEDJ.J,,,2003614,113,,,Core Growth
+2879,NEDJ.J,,,2003457,113,,,Emerg. Mkts.
+2880,NEDJ.J,,,2002823,113,,,Emerg. Mkts.
+2881,NEDJ.J,,,,107,,,Emerg. Mkts.
+2882,NEDJ.J,,,,107,,,Emerg. Mkts.
+2883,NEDJ.J,,,,113,,,Emerg. Mkts.
+2884,NEDJ.J,,,,107,,,Emerg. Mkts.
+2885,NEDJ.J,,,,113,,,Emerg. Mkts.
+2886,NEDJ.J,,,,107,,,Growth
+2887,NEDJ.J,,,,113,,,Emerg. Mkts.
+2888,NEDJ.J,,,,113,,,Emerg. Mkts.
+2889,NEDJ.J,,,,107,,,
+2890,NEDJ.J,,,,107,,,Emerg. Mkts.
+2891,NEDJ.J,,,,107,,,Emerg. Mkts.
+2892,NEDJ.J,,,,113,,,Growth
+2893,NEDJ.J,,,,107,,,Emerg. Mkts.
+2894,NEDJ.J,,,,107,,,Emerg. Mkts.
+2895,NEDJ.J,,,,107,,,Emerg. Mkts.
+2896,NEDJ.J,,,,107,,,Index
+2897,NEDJ.J,,,,101,,,Emerg. Mkts.
+2898,NEDJ.J,,,,107,,,Specialty
+2899,NEDJ.J,,,,107,,,Emerg. Mkts.
+2900,NEDJ.J,,,,107,,,Income Value
+2901,NEDJ.J,,,,113,,,Emerg. Mkts.
+2902,NEDJ.J,,,,107,,,Emerg. Mkts.
+2903,NEDJ.J,,,,107,,,Emerg. Mkts.
+2904,NEDJ.J,,,,107,,,GARP
+2905,NEDJ.J,,,,107,,,Growth
+2906,NEDJ.J,,,,101,,,Growth
+2907,NEDJ.J,,,,107,,,Index
+2908,NEDJ.J,,,,113,,,Income Value
+2909,NEDJ.J,,,,113,,,Index
+2910,NEDJ.J,,,,301,,,Emerg. Mkts.
+2911,NEDJ.J,,,,113,,,Emerg. Mkts.
+2912,NEDJ.J,,,,113,,,Emerg. Mkts.
+2913,NEDJ.J,,,,113,,,Emerg. Mkts.
+2914,NEDJ.J,,,,113,,,Growth
+2915,NEDJ.J,,,,113,,,Growth
+2916,NEDJ.J,,,,113,,,GARP
+2917,NEDJ.J,,,,113,,,Growth
+2918,NEDJ.J,,,,110,,,Growth
+2919,NEDJ.J,,,,107,,,Emerg. Mkts.
+2920,NEDJ.J,,,,107,,,GARP
+2921,NEDJ.J,,,,107,,,Emerg. Mkts.
+2922,NEDJ.J,,,,107,,,Growth
+2923,NEDJ.J,,,,113,,,Core Growth
+2924,NEDJ.J,,,,110,,,Growth
+2925,NEDJ.J,,,,107,,,Core Value
+2926,NEDJ.J,,,,113,,,Emerg. Mkts.
+2927,NEDJ.J,,,,107,,,Growth
+2928,NEDJ.J,,,,107,,,Specialty
+2929,NEDJ.J,,,,107,,,GARP
+2930,NEDJ.J,,,,107,,,Core Growth
+2931,NEDJ.J,,,,113,,,Emerg. Mkts.
+2932,NEDJ.J,,,,107,,,Index
+2933,NEDJ.J,,,,107,,,Emerg. Mkts.
+2934,NEDJ.J,,,,107,,,Emerg. Mkts.
+2935,NEDJ.J,,,,107,,,Emerg. Mkts.
+2936,NEDJ.J,,,,107,,,Emerg. Mkts.
+2937,NEDJ.J,,,,107,,,Emerg. Mkts.
+2938,NEDJ.J,,,,107,,,Emerg. Mkts.
+2939,NEDJ.J,,,,113,,,Emerg. Mkts.
+2940,NEDJ.J,,,,113,,,Emerg. Mkts.
+2941,NEDJ.J,,,,113,,,Core Growth
+2942,NEDJ.J,,,,113,,,Index
+2943,NEDJ.J,,,,107,,,Growth
+2944,NEDJ.J,,,,101,,,Emerg. Mkts.
+2945,NEDJ.J,,,,107,,,Specialty
+2946,NEDJ.J,,,,113,,,Core Growth
+2947,NEDJ.J,,,,113,,,Emerg. Mkts.
+2948,NEDJ.J,,,,,,,Emerg. Mkts.
+2949,NEDJ.J,,,,,,,Specialty
+2950,NEDJ.J,,,,,,,Emerg. Mkts.
+2951,NEDJ.J,,,,,,,Emerg. Mkts.
+2952,NEDJ.J,,,,,,,Emerg. Mkts.
+2953,NEDJ.J,,,,,,,Emerg. Mkts.
+2954,NEDJ.J,,,,,,,Growth
+2955,NEDJ.J,,,,,,,
+2956,NEDJ.J,,,,,,,Emerg. Mkts.
+2957,NEDJ.J,,,,,,,Emerg. Mkts.
+2958,NEDJ.J,,,,,,,Growth
+2959,NEDJ.J,,,,,,,Emerg. Mkts.
+2960,NEDJ.J,,,,,,,Emerg. Mkts.
+2961,NEDJ.J,,,,,,,Emerg. Mkts.
+2962,NEDJ.J,,,,,,,Emerg. Mkts.
+2963,NEDJ.J,,,,,,,Emerg. Mkts.
+2964,NEDJ.J,,,,,,,Emerg. Mkts.
+2965,NEDJ.J,,,,,,,GARP
+2966,NEDJ.J,,,,,,,Growth
+2967,NEDJ.J,,,,,,,Index
+2968,NEDJ.J,,,,,,,GARP
+2969,NEDJ.J,,,,,,,Specialty
+2970,NEDJ.J,,,,,,,Emerg. Mkts.
+2971,NEDJ.J,,,,,,,Index
+2972,NEDJ.J,,,,,,,Emerg. Mkts.
+2973,NEDJ.J,,,,,,,Core Growth
+2974,NEDJ.J,,,,,,,Emerg. Mkts.
+2975,NEDJ.J,,,,,,,GARP
+2976,NEDJ.J,,,,,,,Emerg. Mkts.
+2977,NEDJ.J,,,,,,,Emerg. Mkts.
+2978,NEDJ.J,,,,,,,Emerg. Mkts.
+2979,NEDJ.J,,,,,,,Growth
+2980,NEDJ.J,,,,,,,Growth
+2981,NEDJ.J,,,,,,,Growth
+2982,NEDJ.J,,,,,,,Growth
+2983,NEDJ.J,,,,,,,Core Value
+2984,NEDJ.J,,,,,,,Growth
+2985,NEDJ.J,,,,,,,
+2986,NEDJ.J,,,,,,,
+2987,NEDJ.J,,,,,,,
+2988,NEDJ.J,,,,,,,
+2989,NEDJ.J,,,,,,,
+2990,NEDJ.J,,,,,,,
+2991,NEDJ.J,,,,,,,
+2992,NEDJ.J,,,,,,,
+2993,NEDJ.J,,,,,,,
+2994,NEDJ.J,,,,,,,
+2995,NEDJ.J,,,,,,,
+2996,NEDJ.J,,,,,,,
+2997,NEDJ.J,,,,,,,
+2998,NEDJ.J,,,,,,,
+2999,NEDJ.J,,,,,,,
+3000,NEDJ.J,,,,,,,
+3001,NEDJ.J,,,,,,,
+3002,NEDJ.J,,,,,,,
+3003,NEDJ.J,,,,,,,
+3004,NEDJ.J,,,,,,,
+3005,NEM.LG,,,,,,Nigeria,
+3006,NESF.LG,,,,,,Nigeria,
+3007,NESTLE.LG,0.0,1998-12-31T00:00:00Z,2006494,107,5000706029,Switzerland,
+3008,NESTLE.LG,0.0,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+3009,NPHJ.J,14.2088,1998-07-17T00:00:00Z,2676461,301,5000854298,South Africa,Sector Specific
+3010,NPHJ.J,0.018,1998-12-31T00:00:00Z,2783694,113,,,Growth
+3011,NPHJ.J,,,2783694,113,,,Specialty
+3012,NPHJ.J,,,2676461,113,,,Sector Specific
+3013,NPHJ.J,,,,107,,,Specialty
+3014,NPHJ.J,,,,113,,,Sector Specific
+3015,NPHJ.J,,,,107,,,Growth
+3016,NPHJ.J,,,,107,,,Specialty
+3017,NPHJ.J,,,,107,,,Sector Specific
+3018,NPHJ.J,,,,113,,,
+3019,NPHJ.J,,,,107,,,
+3020,NPHJ.J,,,,113,,,
+3021,NPHJ.J,,,,113,,,
+3022,NPHJ.J,,,,113,,,
+3023,NPHJ.J,,,,,,,
+3024,NPHJ.J,,,,,,,
+3025,NPHJ.J,,,,,,,
+3026,NPHJ.J,,,,,,,
+3027,NCBA.NR,1.4251,1998-12-31T00:00:00Z,2006494,107,5000706029,Kenya,
+3028,NCBA.NR,2.5289,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+3029,NCBA.NR,,,,107,,,
+3030,NCBA.NR,,,,107,,,
+3031,NIDBFUN.LG,,,,,,Nigeria,
+3032,NIGERIN.LG,,,,,,Nigeria,
+3033,NIGROPE.LG,,,,,,Nigeria,
+3034,NIWICAB.LG,,,,,,Nigeria,
+3035,NMB.ZI,,,,,,Zimbabwe,
+3036,NMG.NR,0.5437,1998-12-31T00:00:00Z,2006494,107,5000706029,Kenya,
+3037,NMG.NR,0.2718,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+3038,NNFM.LG,,,,,,,
+3039,CONOIL.LG,,,,,,Nigeria,
+3040,NPKJ.J,59.4612,1998-09-30T00:00:00Z,5750846,302,,South Africa,Specialty
+3041,NPKJ.J,9.0575,1998-08-03T00:00:00Z,2676461,301,5000854298,,Emerg. Mkts.
+3042,NPKJ.J,4.1134,1998-08-03T00:00:00Z,2637186,107,4297902883,,Specialty
+3043,NPKJ.J,1.8916,1998-08-03T00:00:00Z,2995881,113,,,GARP
+3044,NPKJ.J,0.3279,1998-09-30T00:00:00Z,5750610,301,48471687286,,Emerg. Mkts.
+3045,NPKJ.J,0.0171,1998-12-31T00:00:00Z,2003516,301,5000071982,,Emerg. Mkts.
+3046,NPKJ.J,0.0035,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+3047,NPKJ.J,0.0023,1998-06-30T00:00:00Z,2005211,302,,,Emerg. Mkts.
+3048,NPKJ.J,59.6429,1997-09-30T00:00:00Z,5750846,301,,,Growth
+3049,NPKJ.J,0.3382,1997-09-30T00:00:00Z,5750610,113,48471687286,,Core Growth
+3050,NPKJ.J,0.0171,1997-12-31T00:00:00Z,2003516,107,5000071982,,Emerg. Mkts.
+3051,NPKJ.J,0.0031,1997-12-31T00:00:00Z,2005211,113,,,Specialty
+3052,NPKJ.J,0.0018,1997-12-31T00:00:00Z,2006038,113,,,Core Value
+3053,NPKJ.J,,,2995881,113,,,Emerg. Mkts.
+3054,NPKJ.J,,,2676461,113,,,Emerg. Mkts.
+3055,NPKJ.J,,,2637186,110,,,
+3056,NPKJ.J,,,,107,,,Growth
+3057,NPKJ.J,,,,107,,,Core Value
+3058,NPKJ.J,,,,107,,,Emerg. Mkts.
+3059,NPKJ.J,,,,107,,,Index
+3060,NPKJ.J,,,,107,,,Index
+3061,NPKJ.J,,,,107,,,Emerg. Mkts.
+3062,NPKJ.J,,,,107,,,Growth
+3063,NPKJ.J,,,,113,,,Index
+3064,NPKJ.J,,,,101,,,Emerg. Mkts.
+3065,NPKJ.J,,,,113,,,Emerg. Mkts.
+3066,NPKJ.J,,,,107,,,Core Value
+3067,NPKJ.J,,,,113,,,Emerg. Mkts.
+3068,NPKJ.J,,,,107,,,Specialty
+3069,NPKJ.J,,,,113,,,Index
+3070,NPKJ.J,,,,302,,,Emerg. Mkts.
+3071,NPKJ.J,,,,107,,,Emerg. Mkts.
+3072,NPKJ.J,,,,113,,,Growth
+3073,NPKJ.J,,,,301,,,Specialty
+3074,NPKJ.J,,,,107,,,Core Value
+3075,NPKJ.J,,,,113,,,Core Growth
+3076,NPKJ.J,,,,113,,,Emerg. Mkts.
+3077,NPKJ.J,,,,113,,,Emerg. Mkts.
+3078,NPKJ.J,,,,107,,,
+3079,NPKJ.J,,,,107,,,Emerg. Mkts.
+3080,NPKJ.J,,,,110,,,Index
+3081,NPKJ.J,,,,107,,,Index
+3082,NPKJ.J,,,,107,,,Emerg. Mkts.
+3083,NPKJ.J,,,,113,,,Emerg. Mkts.
+3084,NPKJ.J,,,,113,,,Core Value
+3085,NPKJ.J,,,,107,,,Emerg. Mkts.
+3086,NPKJ.J,,,,113,,,
+3087,NPKJ.J,,,,107,,,
+3088,NPKJ.J,,,,101,,,
+3089,NPKJ.J,,,,107,,,
+3090,NPKJ.J,,,,113,,,
+3091,NPKJ.J,,,,113,,,
+3092,NPKJ.J,,,,,,,
+3093,NPKJ.J,,,,,,,
+3094,NPKJ.J,,,,,,,
+3095,NPKJ.J,,,,,,,
+3096,NPKJ.J,,,,,,,
+3097,NPKJ.J,,,,,,,
+3098,NPKJ.J,,,,,,,
+3099,NPKJ.J,,,,,,,
+3100,NPNJn.J,30.01,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Growth
+3101,NPNJn.J,2.81,1998-08-03T00:00:00Z,2637186,113,4297902883,,Emerg. Mkts.
+3102,NPNJn.J,1.21,1998-12-31T00:00:00Z,2002306,113,,,Emerg. Mkts.
+3103,NPNJn.J,0.08,1998-03-31T00:00:00Z,2785765,302,,,Emerg. Mkts.
+3104,NPNJn.J,0.0034,1998-06-30T00:00:00Z,2005211,301,,,Emerg. Mkts.
+3105,NPNJn.J,0.0,1997-09-30T00:00:00Z,2005217,107,,,Emerg. Mkts.
+3106,NPNJn.J,0.0,1997-12-31T00:00:00Z,2002905,107,,,Emerg. Mkts.
+3107,NPNJn.J,0.0039,1997-12-31T00:00:00Z,2005211,113,,,Emerg. Mkts.
+3108,NPNJn.J,0.0,1997-09-30T00:00:00Z,2005217,107,,,
+3109,NPNJn.J,0.0,1997-12-31T00:00:00Z,2002905,107,,,Emerg. Mkts.
+3110,NPNJn.J,,,2785765,113,,,Index
+3111,NPNJn.J,,,2676461,107,,,Emerg. Mkts.
+3112,NPNJn.J,,,2637186,113,,,Index
+3113,NPNJn.J,,,2002306,107,,,Growth
+3114,NPNJn.J,,,,113,,,Index
+3115,NPNJn.J,,,,113,,,Emerg. Mkts.
+3116,NPNJn.J,,,,107,,,Growth
+3117,NPNJn.J,,,,110,,,Growth
+3118,NPNJn.J,,,,107,,,Core Growth
+3119,NPNJn.J,,,,113,,,Emerg. Mkts.
+3120,NPNJn.J,,,,107,,,GARP
+3121,NPNJn.J,,,,113,,,GARP
+3122,NPNJn.J,,,,107,,,Growth
+3123,NPNJn.J,,,,110,,,Core Growth
+3124,NPNJn.J,,,,113,,,Growth
+3125,NPNJn.J,,,,107,,,Emerg. Mkts.
+3126,NPNJn.J,,,,113,,,Emerg. Mkts.
+3127,NPNJn.J,,,,113,,,Growth
+3128,NPNJn.J,,,,107,,,Growth
+3129,NPNJn.J,,,,,,,Emerg. Mkts.
+3130,NPNJn.J,,,,,,,Growth
+3131,NPNJn.J,,,,,,,Emerg. Mkts.
+3132,NPNJn.J,,,,,,,Emerg. Mkts.
+3133,NPNJn.J,,,,,,,GARP
+3134,NPNJn.J,,,,,,,Emerg. Mkts.
+3135,NPNJn.J,,,,,,,Emerg. Mkts.
+3136,NPNJn.J,,,,,,,Emerg. Mkts.
+3137,NPNJn.J,,,,,,,Core Growth
+3138,NPNJn.J,,,,,,,Core Growth
+3139,NPNJn.J,,,,,,,Growth
+3140,NPNJn.J,,,,,,,Emerg. Mkts.
+3141,NPNJn.J,,,,,,,Index
+3142,NPNJn.J,,,,,,,Growth
+3143,NPNJn.J,,,,,,,GARP
+3144,NPNJn.J,,,,,,,
+3145,NPNJn.J,,,,,,,Index
+3146,NPNJn.J,,,,,,,Growth
+3147,NPNJn.J,,,,,,,Growth
+3148,NPNJn.J,,,,,,,Growth
+3149,NPNJn.J,,,,,,,Emerg. Mkts.
+3150,NPNJn.J,,,,,,,
+3151,NPNJn.J,,,,,,,
+3152,NPNJn.J,,,,,,,
+3153,NPNJn.J,,,,,,,
+3154,NPNJn.J,,,,,,,
+3155,NPNJn.J,,,,,,,
+3156,NRDJ.J^D14,,,,,,,
+3157,NTCJ.J,57.88,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+3158,NTCJ.J,9.75,1998-08-03T00:00:00Z,2650925,301,5000128439,,Specialty
+3159,NTCJ.J,8.48,1998-08-03T00:00:00Z,3668005,303,34414034225,,Sector Specific
+3160,NTCJ.J,5.82,1998-12-31T00:00:00Z,2005217,113,,,Specialty
+3161,NTCJ.J,6.39,1998-08-03T00:00:00Z,2653323,301,5055412002,,Sector Specific
+3162,NTCJ.J,1.69,1998-08-03T00:00:00Z,3248230,107,,,
+3163,NTCJ.J,1.17,1998-06-30T00:00:00Z,2005211,303,,,
+3164,NTCJ.J,0.38,1998-03-31T00:00:00Z,2785765,107,,,
+3165,NTCJ.J,0.0087,1998-12-31T00:00:00Z,2006038,113,,,
+3166,NTCJ.J,0.83,1997-12-31T00:00:00Z,2005211,113,,,
+3167,NTCJ.J,0.0038,1997-12-31T00:00:00Z,2006038,107,,,
+3168,NTCJ.J,0.0,1997-09-30T00:00:00Z,2005217,113,,,
+3169,NTCJ.J,,,3668005,107,,,
+3170,NTCJ.J,,,3248230,107,,,
+3171,NTCJ.J,,,2785765,107,,,
+3172,NTCJ.J,,,2676461,107,,,
+3173,NTCJ.J,,,2653323,113,,,
+3174,NTCJ.J,,,2650925,,,,
+3175,NTCJ.J,,,,,,,
+3176,NTCJ.J,,,,,,,
+3177,NTCJ.J,,,,,,,
+3178,NTCJ.J,,,,,,,
+3179,NTCJ.J,,,,,,,
+3180,NTCJ.J,,,,,,,
+3181,NTCJ.J,,,,,,,
+3182,NTCJ.J,,,,,,,
+3183,NTCJ.J,,,,,,,
+3184,NTCJ.J,,,,,,,
+3185,NTS.ZI,,,,,,Zimbabwe,
+3186,NWLJ.J,60.26,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+3187,NWLJ.J,2.91,1998-08-03T00:00:00Z,5139144,113,4297021561,,Emerg. Mkts.
+3188,NWLJ.J,1.7,1998-08-03T00:00:00Z,2637186,302,4297902883,,Emerg. Mkts.
+3189,NWLJ.J,0.02,1998-12-31T00:00:00Z,2006038,113,,,Growth
+3190,NWLJ.J,0.0,1998-03-31T00:00:00Z,2005211,111,,,Specialty
+3191,NWLJ.J,0.12,1997-12-31T00:00:00Z,2005211,301,,,Emerg. Mkts.
+3192,NWLJ.J,,,5139144,107,,,Growth
+3193,NWLJ.J,,,2676461,107,,,
+3194,NWLJ.J,,,2637186,107,,,
+3195,NWLJ.J,,,2006038,107,,,
+3196,NWLJ.J,,,,113,,,
+3197,NWLJ.J,,,,,,,
+3198,NWLJ.J,,,,,,,
+3199,NWLJ.J,,,,,,,
+3200,NWLJ.J,,,,,,,
+3201,NWLJ.J,,,,,,,
+3202,NWLJ.J,,,,,,,
+3203,NWLJ.J,,,,,,,
+3204,OASJ.J,,,,,,South Africa,
+3205,OKZ.ZI,,,,,,Zimbabwe,
+3206,OKOMUOI.LG,,,,,,Luxembourg,
+3207,OMUJ.J,,,,,,South Africa,
+3208,OMNJ.J,11.5961,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Growth
+3209,OMNJ.J,5.525,1998-08-03T00:00:00Z,2628293,113,5043445914,,Specialty
+3210,OMNJ.J,2.5314,1998-08-03T00:00:00Z,3248265,302,34413679820,,
+3211,OMNJ.J,1.5125,1998-08-03T00:00:00Z,2665132,303,5043444994,,
+3212,OMNJ.J,1.2605,1998-07-06T00:00:00Z,3248264,301,,,
+3213,OMNJ.J,0.0111,1998-12-31T00:00:00Z,2006038,107,,,
+3214,OMNJ.J,0.0077,1997-12-31T00:00:00Z,2006038,303,,,
+3215,OMNJ.J,,,3248265,107,,,
+3216,OMNJ.J,,,3248264,107,,,
+3217,OMNJ.J,,,2676461,,,,
+3218,OMNJ.J,,,2665132,,,,
+3219,OMNJ.J,,,2628293,,,,
+3220,OMNJ.J,,,,,,,
+3221,OMNJ.J,,,,,,,
+3222,OMNJ.J,,,,,,,
+3223,OMNJ.J,,,,,,,
+3224,OREJ.J^L19,,,,,,South Africa,
+3225,SLAM.NR,,,,,,South Africa,Core Value
+3226,SLAM.NR,,,,,,,Core Value
+3227,PBC.GH,,,,,,Ghana,
+3228,NEIMETH.LG,,,,,,Nigeria,
+3229,PHARMDE.LG,,,,,,Nigeria,
+3230,PIKJ.J,,1998-07-31T00:00:00Z,2648206,302,4295888552,South Africa,Specialty
+3231,PIKJ.J,58.03,1998-07-31T00:00:00Z,2676461,301,5000854298,,Emerg. Mkts.
+3232,PIKJ.J,11.88,1998-07-31T00:00:00Z,2637186,301,4297902883,,Emerg. Mkts.
+3233,PIKJ.J,0.85,1998-12-31T00:00:00Z,2004902,113,,,Index
+3234,PIKJ.J,0.01,1998-12-31T00:00:00Z,2006038,107,,,Specialty
+3235,PIKJ.J,0.0032,1998-06-30T00:00:00Z,2005211,302,,,Emerg. Mkts.
+3236,PIKJ.J,,1997-01-31T00:00:00Z,2648206,113,4295888552,,Emerg. Mkts.
+3237,PIKJ.J,0.01,1997-12-31T00:00:00Z,2005211,107,,,Emerg. Mkts.
+3238,PIKJ.J,0.0031,1997-12-31T00:00:00Z,2006038,113,,,Core Growth
+3239,PIKJ.J,,,2676461,113,,,Specialty
+3240,PIKJ.J,,,2637186,113,,,Specialty
+3241,PIKJ.J,,,2004902,113,,,Core Value
+3242,PIKJ.J,,,,110,,,
+3243,PIKJ.J,,,,113,,,Index
+3244,PIKJ.J,,,,113,,,Emerg. Mkts.
+3245,PIKJ.J,,,,113,,,Emerg. Mkts.
+3246,PIKJ.J,,,,107,,,Emerg. Mkts.
+3247,PIKJ.J,,,,113,,,Emerg. Mkts.
+3248,PIKJ.J,,,,113,,,Emerg. Mkts.
+3249,PIKJ.J,,,,107,,,Specialty
+3250,PIKJ.J,,,,107,,,Emerg. Mkts.
+3251,PIKJ.J,,,,101,,,Emerg. Mkts.
+3252,PIKJ.J,,,,302,,,Emerg. Mkts.
+3253,PIKJ.J,,,,113,,,Emerg. Mkts.
+3254,PIKJ.J,,,,113,,,Index
+3255,PIKJ.J,,,,113,,,Core Growth
+3256,PIKJ.J,,,,113,,,Core Value
+3257,PIKJ.J,,,,110,,,Emerg. Mkts.
+3258,PIKJ.J,,,,113,,,Index
+3259,PIKJ.J,,,,107,,,
+3260,PIKJ.J,,,,107,,,
+3261,PIKJ.J,,,,101,,,
+3262,PIKJ.J,,,,,,,
+3263,PIKJ.J,,,,,,,
+3264,PIKJ.J,,,,,,,
+3265,PIKJ.J,,,,,,,
+3266,PIKJ.J,,,,,,,
+3267,PIKJ.J,,,,,,,
+3268,PIKJ.J,,,,,,,
+3269,PIKJ.J,,,,,,,
+3270,PIKJ.J,,,,,,,
+3271,PIKJ.J,,,,,,,
+3272,PIKJ.J,,,,,,,
+3273,PIKJ.J,,,,,,,
+3274,UNIF.ZI,,,,,,Zimbabwe,
+3275,PMVJ.J,14.6204,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Emerg. Mkts.
+3276,PMVJ.J,3.8251,1998-08-03T00:00:00Z,2644211,113,4295888698,,Emerg. Mkts.
+3277,PMVJ.J,1.9942,1998-08-03T00:00:00Z,2665024,301,5035492921,,Specialty
+3278,PMVJ.J,1.7195,1998-08-03T00:00:00Z,3248343,113,,,
+3279,PMVJ.J,1.5823,1998-12-31T00:00:00Z,2005217,301,,,
+3280,PMVJ.J,0.0123,1998-12-31T00:00:00Z,2006038,113,,,
+3281,PMVJ.J,,,3248343,303,,,
+3282,PMVJ.J,,,2676461,113,,,
+3283,PMVJ.J,,,2665024,107,,,
+3284,PMVJ.J,,,2644211,,,,
+3285,PMVJ.J,,,2006038,,,,
+3286,PMVJ.J,,,2005217,,,,
+3287,PMVJ.J,,,,,,,
+3288,PMVJ.J,,,,,,,
+3289,PMVJ.J,,,,,,,
+3290,PMVJ.J,,,,,,,
+3291,PMVJ.J,,,,,,,
+3292,PMVJ.J,,,,,,,
+3293,POLYPRO.LG,,,,,,Nigeria,
+3294,PPCJ.J,64.3379,1998-08-03T00:00:00Z,2660922,301,4295888508,South Africa,Specialty
+3295,PPCJ.J,11.0294,1998-08-03T00:00:00Z,2676461,301,5000854298,,Emerg. Mkts.
+3296,PPCJ.J,4.7815,1998-08-03T00:00:00Z,2637186,107,4297902883,,Emerg. Mkts.
+3297,PPCJ.J,0.1893,1998-03-31T00:00:00Z,2785765,301,,,Emerg. Mkts.
+3298,PPCJ.J,0.0054,1998-12-31T00:00:00Z,2006038,113,,,Core Growth
+3299,PPCJ.J,0.0039,1998-06-30T00:00:00Z,2005211,107,,,Emerg. Mkts.
+3300,PPCJ.J,0.0,1998-06-30T00:00:00Z,2005217,107,,,Core Value
+3301,PPCJ.J,65.7181,1997-01-31T00:00:00Z,2660922,113,4295888508,,Core Value
+3302,PPCJ.J,1.0695,1997-12-31T00:00:00Z,2005217,113,,,
+3303,PPCJ.J,0.0066,1997-12-31T00:00:00Z,2005211,107,,,Index
+3304,PPCJ.J,0.0017,1997-12-31T00:00:00Z,2006038,107,,,Specialty
+3305,PPCJ.J,,,2785765,107,,,Emerg. Mkts.
+3306,PPCJ.J,,,2676461,113,,,Emerg. Mkts.
+3307,PPCJ.J,,,2637186,113,,,Emerg. Mkts.
+3308,PPCJ.J,,,,110,,,Core Growth
+3309,PPCJ.J,,,,301,,,Core Value
+3310,PPCJ.J,,,,107,,,Emerg. Mkts.
+3311,PPCJ.J,,,,113,,,Core Value
+3312,PPCJ.J,,,,107,,,
+3313,PPCJ.J,,,,110,,,Index
+3314,PPCJ.J,,,,113,,,
+3315,PPCJ.J,,,,107,,,
+3316,PPCJ.J,,,,107,,,
+3317,PPCJ.J,,,,107,,,
+3318,PPCJ.J,,,,113,,,
+3319,PPCJ.J,,,,,,,
+3320,PPCJ.J,,,,,,,
+3321,PPCJ.J,,,,,,,
+3322,PPCJ.J,,,,,,,
+3323,PPCJ.J,,,,,,,
+3324,PPEJ.J,,,,,,South Africa,
+3325,PPRJ.J,53.01,1998-08-03T00:00:00Z,2671065,302,5035497278,,
+3326,PPRJ.J,8.1,1998-08-03T00:00:00Z,2676461,301,5000854298,,
+3327,PPRJ.J,3.15,1998-08-03T00:00:00Z,3248352,303,,,
+3328,PPRJ.J,1.84,1998-08-03T00:00:00Z,5139144,111,4297021561,,
+3329,PPRJ.J,53.0,1997-01-31T00:00:00Z,2671065,302,5035497278,,
+3330,PPRJ.J,,,5139144,113,,,
+3331,PPRJ.J,,,3248352,302,,,
+3332,PPRJ.J,,,2676461,,,,
+3333,PPRJ.J,,,,,,,
+3334,PPRJ.J,,,,,,,
+3335,PPRJ.J,,,,,,,
+3336,PPRJ.J,,,,,,,
+3337,PREMBRE.LG,,,,,,Nigeria,
+3338,PREMPAI.LG,,,,,,Nigeria,
+3339,PRESCO.LG,,,,,,Belgium,
+3340,PRESTIG.LG,,,,,,India,
+3341,PMT_u.BT,,,,,,Botswana,
+3342,PSVJ.J,67.73,1998-06-01T00:00:00Z,2659540,301,5055414214,South Africa,Emerg. Mkts.
+3343,PSVJ.J,4.89,1998-06-01T00:00:00Z,2661470,301,5055409052,,
+3344,PSVJ.J,1.5,1998-06-01T00:00:00Z,2676461,301,5000854298,,
+3345,PSVJ.J,,,2676461,113,,,
+3346,PSVJ.J,,,2661470,,,,
+3347,PSVJ.J,,,2659540,,,,
+3348,PSVJ.J,,,,,,,
+3349,PSVJ.J,,,,,,,
+3350,PTXSPYJ.J^K19,,,,,,,
+3351,PWS.ZI,,,,,,Zimbabwe,
+3352,PZ.LG,,,,,,United Kingdom,
+3353,RAKUNIT.LG,,,,,,,
+3354,RBXJ.J,,,,,,South Africa,
+3355,RCLJ.J,10.6339,1998-08-03T00:00:00Z,2684325,302,5000074201,South Africa,Emerg. Mkts.
+3356,RCLJ.J,1.234,1998-08-03T00:00:00Z,2676461,301,5000854298,,Sector Specific
+3357,RCLJ.J,0.488,1998-08-03T00:00:00Z,2643086,301,5055411391,,Emerg. Mkts.
+3358,RCLJ.J,0.005,1998-06-30T00:00:00Z,2005211,107,,,Emerg. Mkts.
+3359,RCLJ.J,0.0005,1998-12-31T00:00:00Z,2006038,107,,,Emerg. Mkts.
+3360,RCLJ.J,5.2394,1997-01-31T00:00:00Z,2643086,113,5055411391,,Index
+3361,RCLJ.J,1.1676,1997-12-31T00:00:00Z,2005211,301,,,Emerg. Mkts.
+3362,RCLJ.J,,,2684325,107,,,Emerg. Mkts.
+3363,RCLJ.J,,,2676461,113,,,Sector Specific
+3364,RCLJ.J,,,2006038,,,,Emerg. Mkts.
+3365,RCLJ.J,,,,,,,Emerg. Mkts.
+3366,RCLJ.J,,,,,,,Emerg. Mkts.
+3367,RCLJ.J,,,,,,,Emerg. Mkts.
+3368,RCLJ.J,,,,,,,Emerg. Mkts.
+3369,RCLJ.J,,,,,,,Index
+3370,RCLJ.J,,,,,,,
+3371,RDCP.BT,,,,,,Botswana,
+3372,RDFJ.J,,,,,,South Africa,
+3373,REMJ.J,,,,,,South Africa,
+3374,RESJ.J,,,,,,South Africa,
+3375,RTNR.ZI,0.0,1997-12-31T00:00:00Z,2499117,107,5001231143,Zimbabwe,Core Value
+3376,RTNR.ZI,0.0,1997-12-31T00:00:00Z,2499117,107,5001231143,,Core Value
+3377,RTNR.ZI,,,,107,,,Core Value
+3378,RTNR.ZI,,,,107,,,Core Value
+3379,RLOJ.J,33.93,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Emerg. Mkts.
+3380,RLOJ.J,2.23,1998-12-31T00:00:00Z,2005217,113,,,Specialty
+3381,RLOJ.J,1.75,1998-08-03T00:00:00Z,2637186,113,4297902883,,Specialty
+3382,RLOJ.J,0.6,1998-03-31T00:00:00Z,2785765,107,,,Emerg. Mkts.
+3383,RLOJ.J,0.02,1998-12-31T00:00:00Z,2002823,302,5000052202,,Specialty
+3384,RLOJ.J,0.0048,1998-06-30T00:00:00Z,2005211,113,,,Emerg. Mkts.
+3385,RLOJ.J,0.0047,1998-12-31T00:00:00Z,2006038,301,,,Emerg. Mkts.
+3386,RLOJ.J,1.0,1997-12-31T00:00:00Z,2005217,107,,,Emerg. Mkts.
+3387,RLOJ.J,0.0055,1997-12-31T00:00:00Z,2005211,110,,,Emerg. Mkts.
+3388,RLOJ.J,0.0018,1997-12-31T00:00:00Z,2006038,107,,,Index
+3389,RLOJ.J,,,2785765,113,,,Emerg. Mkts.
+3390,RLOJ.J,,,2676461,107,,,Emerg. Mkts.
+3391,RLOJ.J,,,2637186,107,,,Emerg. Mkts.
+3392,RLOJ.J,,,2002823,107,,,Core Growth
+3393,RLOJ.J,,,,101,,,Emerg. Mkts.
+3394,RLOJ.J,,,,113,,,Emerg. Mkts.
+3395,RLOJ.J,,,,113,,,
+3396,RLOJ.J,,,,113,,,Index
+3397,RLOJ.J,,,,113,,,Income Value
+3398,RLOJ.J,,,,107,,,Emerg. Mkts.
+3399,RLOJ.J,,,,113,,,Emerg. Mkts.
+3400,RLOJ.J,,,,113,,,Emerg. Mkts.
+3401,RLOJ.J,,,,107,,,Emerg. Mkts.
+3402,RLOJ.J,,,,113,,,Specialty
+3403,RLOJ.J,,,,110,,,Emerg. Mkts.
+3404,RLOJ.J,,,,113,,,Specialty
+3405,RLOJ.J,,,,107,,,Emerg. Mkts.
+3406,RLOJ.J,,,,107,,,Emerg. Mkts.
+3407,RLOJ.J,,,,101,,,Emerg. Mkts.
+3408,RLOJ.J,,,,113,,,Emerg. Mkts.
+3409,RLOJ.J,,,,,,,Index
+3410,RLOJ.J,,,,,,,Emerg. Mkts.
+3411,RLOJ.J,,,,,,,Emerg. Mkts.
+3412,RLOJ.J,,,,,,,Emerg. Mkts.
+3413,RLOJ.J,,,,,,,Core Growth
+3414,RLOJ.J,,,,,,,
+3415,RLOJ.J,,,,,,,Emerg. Mkts.
+3416,RLOJ.J,,,,,,,Income Value
+3417,RLOJ.J,,,,,,,Index
+3418,RLOJ.J,,,,,,,Emerg. Mkts.
+3419,RLOJ.J,,,,,,,
+3420,RLOJ.J,,,,,,,
+3421,RLOJ.J,,,,,,,
+3422,RLOJ.J,,,,,,,
+3423,RMHJ.J,16.63,1998-12-31T00:00:00Z,2676461,107,5000854298,South Africa,Growth
+3424,RMHJ.J,8.87,1998-12-31T00:00:00Z,2637186,301,4297902883,,Emerg. Mkts.
+3425,RMHJ.J,1.08,1998-12-31T00:00:00Z,2938719,301,5001196246,,Specialty
+3426,RMHJ.J,0.97,1998-12-31T00:00:00Z,4992288,113,5043417200,,Specialty
+3427,RMHJ.J,0.12,1998-03-31T00:00:00Z,2785765,302,,,Emerg. Mkts.
+3428,RMHJ.J,0.0035,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+3429,RMHJ.J,0.0028,1998-06-30T00:00:00Z,2005211,110,,,Specialty
+3430,RMHJ.J,0.0,1998-09-30T00:00:00Z,2005217,301,,,Emerg. Mkts.
+3431,RMHJ.J,0.41,1997-12-31T00:00:00Z,2005217,113,,,Emerg. Mkts.
+3432,RMHJ.J,0.0039,1997-12-31T00:00:00Z,2005211,113,,,Emerg. Mkts.
+3433,RMHJ.J,0.002,1997-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+3434,RMHJ.J,,,4992288,107,,,Emerg. Mkts.
+3435,RMHJ.J,,,2938719,113,,,Core Value
+3436,RMHJ.J,,,2785765,113,,,
+3437,RMHJ.J,,,2676461,107,,,Emerg. Mkts.
+3438,RMHJ.J,,,2637186,107,,,GARP
+3439,RMHJ.J,,,,107,,,Index
+3440,RMHJ.J,,,,113,,,Emerg. Mkts.
+3441,RMHJ.J,,,,113,,,Growth
+3442,RMHJ.J,,,,113,,,Specialty
+3443,RMHJ.J,,,,113,,,Emerg. Mkts.
+3444,RMHJ.J,,,,113,,,Specialty
+3445,RMHJ.J,,,,113,,,Emerg. Mkts.
+3446,RMHJ.J,,,,113,,,Emerg. Mkts.
+3447,RMHJ.J,,,,113,,,
+3448,RMHJ.J,,,,107,,,GARP
+3449,RMHJ.J,,,,113,,,Index
+3450,RMHJ.J,,,,107,,,
+3451,RMHJ.J,,,,113,,,
+3452,RMHJ.J,,,,,,,
+3453,RMHJ.J,,,,,,,
+3454,RMHJ.J,,,,,,,
+3455,RMHJ.J,,,,,,,
+3456,RMHJ.J,,,,,,,
+3457,RMHJ.J,,,,,,,
+3458,RMHJ.J,,,,,,,
+3459,RMHJ.J,,,,,,,
+3460,RMHJ.J,,,,,,,
+3461,RMHJ.J,,,,,,,
+3462,RMHJ.J,,,,,,,
+3463,RNGJ.J,31.26,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Growth
+3464,RNGJ.J,17.68,1998-06-30T00:00:00Z,2781424,107,,,Emerg. Mkts.
+3465,RNGJ.J,17.68,1998-12-31T00:00:00Z,2004961,107,,,Sector Specific
+3466,RNGJ.J,6.56,1998-08-03T00:00:00Z,2637186,301,4297902883,,Specialty
+3467,RNGJ.J,4.36,1998-08-03T00:00:00Z,2638637,301,5001422245,,Emerg. Mkts.
+3468,RNGJ.J,1.67,1998-08-03T00:00:00Z,2661170,302,5037050157,,Emerg. Mkts.
+3469,RNGJ.J,0.78,1998-12-31T00:00:00Z,2783694,301,,,Specialty
+3470,RNGJ.J,0.18,1998-06-30T00:00:00Z,2499117,113,5001231143,,Core Value
+3471,RNGJ.J,0.0,1997-12-31T00:00:00Z,2784801,201,,,Sector Specific
+3472,RNGJ.J,0.0,1997-12-31T00:00:00Z,2005217,113,,,Specialty
+3473,RNGJ.J,0.0,1997-06-30T00:00:00Z,2003709,107,,,Sector Specific
+3474,RNGJ.J,0.0,1998-03-31T00:00:00Z,2002905,107,,,Specialty
+3475,RNGJ.J,2.31,1997-12-31T00:00:00Z,2004961,113,,,Specialty
+3476,RNGJ.J,1.32,1997-12-31T00:00:00Z,2783694,113,,,Core Value
+3477,RNGJ.J,0.73,1997-12-31T00:00:00Z,2002905,107,,,Specialty
+3478,RNGJ.J,0.03,1997-12-31T00:00:00Z,2499117,101,5001231143,,Emerg. Mkts.
+3479,RNGJ.J,0.0,1997-12-31T00:00:00Z,2784801,107,,,Emerg. Mkts.
+3480,RNGJ.J,0.0,1997-12-31T00:00:00Z,2005217,107,,,Sector Specific
+3481,RNGJ.J,0.0,1997-06-30T00:00:00Z,2003709,107,,,Deep Value
+3482,RNGJ.J,,,2781424,107,,,Specialty
+3483,RNGJ.J,,,2676461,113,,,Core Value
+3484,RNGJ.J,,,2661170,107,,,Emerg. Mkts.
+3485,RNGJ.J,,,2638637,107,,,GARP
+3486,RNGJ.J,,,2637186,107,,,Deep Value
+3487,RNGJ.J,,,,113,,,Sector Specific
+3488,RNGJ.J,,,,113,,,Sector Specific
+3489,RNGJ.J,,,,107,,,Sector Specific
+3490,RNGJ.J,,,,113,,,Growth
+3491,RNGJ.J,,,,113,,,Sector Specific
+3492,RNGJ.J,,,,107,,,Emerg. Mkts.
+3493,RNGJ.J,,,,107,,,Sector Specific
+3494,RNGJ.J,,,,110,,,Sector Specific
+3495,RNGJ.J,,,,,,,Specialty
+3496,RNGJ.J,,,,113,,,Growth
+3497,RNGJ.J,,,,107,,,Sector Specific
+3498,RNGJ.J,,,,107,,,Core Value
+3499,RNGJ.J,,,,113,,,Specialty
+3500,RNGJ.J,,,,107,,,Emerg. Mkts.
+3501,RNGJ.J,,,,113,,,Emerg. Mkts.
+3502,RNGJ.J,,,,107,,,Sector Specific
+3503,RNGJ.J,,,,113,,,Specialty
+3504,RNGJ.J,,,,110,,,Specialty
+3505,RNGJ.J,,,,107,,,Specialty
+3506,RNGJ.J,,,,107,,,Emerg. Mkts.
+3507,RNGJ.J,,,,107,,,Sector Specific
+3508,RNGJ.J,,,,107,,,Sector Specific
+3509,RNGJ.J,,,,107,,,Sector Specific
+3510,RNGJ.J,,,,107,,,Emerg. Mkts.
+3511,RNGJ.J,,,,107,,,Sector Specific
+3512,RNGJ.J,,,,113,,,Specialty
+3513,RNGJ.J,,,,107,,,Specialty
+3514,RNGJ.J,,,,113,,,Specialty
+3515,RNGJ.J,,,,107,,,Specialty
+3516,RNGJ.J,,,,107,,,Growth
+3517,RNGJ.J,,,,113,,,Emerg. Mkts.
+3518,RNGJ.J,,,,113,,,Sector Specific
+3519,RNGJ.J,,,,,,,Emerg. Mkts.
+3520,RNGJ.J,,,,,,,Sector Specific
+3521,RNGJ.J,,,,,,,Deep Value
+3522,RNGJ.J,,,,,,,Core Value
+3523,RNGJ.J,,,,,,,GARP
+3524,RNGJ.J,,,,,,,Sector Specific
+3525,RNGJ.J,,,,,,,Emerg. Mkts.
+3526,RNGJ.J,,,,,,,
+3527,RNGJ.J,,,,,,,
+3528,RNGJ.J,,,,,,,
+3529,ROYALEX.LG,,,,,,Nigeria,
+3530,RTBRISC.LG,,,,,,Nigeria,
+3531,RTG.ZI,,,,,,Zimbabwe,
+3532,RTOJ.J,71.74,1998-08-03T00:00:00Z,5536619,302,4295888581,South Africa,
+3533,RTOJ.J,2.04,1998-08-03T00:00:00Z,2676461,113,5000854298,,
+3534,RTOJ.J,1.91,1998-08-03T00:00:00Z,2655426,107,4296667984,,
+3535,RTOJ.J,71.1,1997-01-31T00:00:00Z,5536619,107,4295888581,,
+3536,RTOJ.J,,,2676461,301,,,
+3537,RTOJ.J,,,2655426,108,,,
+3538,RTOJ.J,,,,302,,,
+3539,RTOJ.J,,,,113,,,
+3540,RTOJ.J,,,,107,,,
+3541,RTOJ.J,,,,,,,
+3542,RTOJ.J,,,,,,,
+3543,RTOJ.J,,,,,,,
+3544,SACJ.J,0.0,1997-09-30T00:00:00Z,2005211,113,,South Africa,Hedge Fund
+3545,SACJ.J,0.0,1998-12-31T00:00:00Z,2002306,107,,,Growth
+3546,SACJ.J,0.0,1997-09-30T00:00:00Z,2005211,107,,,Specialty
+3547,SACJ.J,,,2002306,107,,,Growth
+3548,SACJ.J,,,,107,,,Specialty
+3549,SACJ.J,,,,107,,,
+3550,SACJ.J,,,,107,,,
+3551,SACJ.J,,,,107,,,
+3552,SACJ.J,,,,,,,
+3553,SACJ.J,,,,,,,
+3554,SAPJ.J,32.8127,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Core Value
+3555,SAPJ.J,11.5181,1998-08-03T00:00:00Z,2657747,114,5001449709,,Emerg. Mkts.
+3556,SAPJ.J,6.71,1998-08-03T00:00:00Z,2637186,113,4297902883,,Emerg. Mkts.
+3557,SAPJ.J,3.7396,1998-08-03T00:00:00Z,2641297,301,5035492090,,Core Value
+3558,SAPJ.J,1.2181,1998-08-03T00:00:00Z,2670511,113,48471683257,,Growth
+3559,SAPJ.J,0.1339,1998-03-31T00:00:00Z,2785765,301,,,Emerg. Mkts.
+3560,SAPJ.J,0.079,1998-06-30T00:00:00Z,2005211,302,,,Income Value
+3561,SAPJ.J,0.085,1997-03-31T00:00:00Z,2006346,301,5000067095,,Emerg. Mkts.
+3562,SAPJ.J,0.0592,1998-12-31T00:00:00Z,2004197,113,4296293277,,Emerg. Mkts.
+3563,SAPJ.J,0.0246,1998-12-31T00:00:00Z,2005218,107,4298409344,,Hedge Fund
+3564,SAPJ.J,0.004,1998-12-31T00:00:00Z,2006038,107,,,Income Value
+3565,SAPJ.J,0.0,1998-06-30T00:00:00Z,2005217,107,,,Specialty
+3566,SAPJ.J,0.0,1997-12-31T00:00:00Z,2005136,107,,,Emerg. Mkts.
+3567,SAPJ.J,0.0,1997-12-31T00:00:00Z,2004902,110,,,Emerg. Mkts.
+3568,SAPJ.J,0.0,1998-06-30T00:00:00Z,2003974,113,5000001140,,Emerg. Mkts.
+3569,SAPJ.J,0.0,1997-12-31T00:00:00Z,2003614,107,,,Index
+3570,SAPJ.J,0.0,1998-12-31T00:00:00Z,2002823,113,5000052202,,Emerg. Mkts.
+3571,SAPJ.J,0.5026,1997-12-31T00:00:00Z,2005217,113,,,Emerg. Mkts.
+3572,SAPJ.J,0.111,1997-12-31T00:00:00Z,2005211,107,,,Emerg. Mkts.
+3573,SAPJ.J,0.085,1997-03-31T00:00:00Z,2006346,107,5000067095,,Emerg. Mkts.
+3574,SAPJ.J,0.0695,1997-06-30T00:00:00Z,2005218,107,4298409344,,Sector Specific
+3575,SAPJ.J,0.0303,1997-03-31T00:00:00Z,2003974,107,5000001140,,Core Value
+3576,SAPJ.J,0.0236,1997-12-31T00:00:00Z,2004197,107,4296293277,,Emerg. Mkts.
+3577,SAPJ.J,0.002,1997-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+3578,SAPJ.J,0.0,1997-12-31T00:00:00Z,2005136,110,,,Growth
+3579,SAPJ.J,0.0,1997-12-31T00:00:00Z,2004902,107,,,Emerg. Mkts.
+3580,SAPJ.J,0.0,1997-12-31T00:00:00Z,2003614,107,,,Emerg. Mkts.
+3581,SAPJ.J,,,2785765,107,,,Index
+3582,SAPJ.J,,,2676461,107,,,Emerg. Mkts.
+3583,SAPJ.J,,,2670511,107,,,Emerg. Mkts.
+3584,SAPJ.J,,,2657747,107,,,Core Growth
+3585,SAPJ.J,,,2641297,107,,,Emerg. Mkts.
+3586,SAPJ.J,,,2637186,113,,,Emerg. Mkts.
+3587,SAPJ.J,,,2002823,113,,,Growth
+3588,SAPJ.J,,,,101,,,Emerg. Mkts.
+3589,SAPJ.J,,,,113,,,Sector Specific
+3590,SAPJ.J,,,,113,,,GARP
+3591,SAPJ.J,,,,113,,,Emerg. Mkts.
+3592,SAPJ.J,,,,107,,,Specialty
+3593,SAPJ.J,,,,107,,,Emerg. Mkts.
+3594,SAPJ.J,,,,113,,,Emerg. Mkts.
+3595,SAPJ.J,,,,113,,,Core Value
+3596,SAPJ.J,,,,107,,,
+3597,SAPJ.J,,,,107,,,Index
+3598,SAPJ.J,,,,113,,,Emerg. Mkts.
+3599,SAPJ.J,,,,107,,,Emerg. Mkts.
+3600,SAPJ.J,,,,113,,,
+3601,SAPJ.J,,,,113,,,Index
+3602,SAPJ.J,,,,113,,,GARP
+3603,SAPJ.J,,,,113,,,Index
+3604,SAPJ.J,,,,107,,,Core Value
+3605,SAPJ.J,,,,113,,,Emerg. Mkts.
+3606,SAPJ.J,,,,107,,,Specialty
+3607,SAPJ.J,,,,107,,,Yield
+3608,SAPJ.J,,,,107,,,Core Growth
+3609,SAPJ.J,,,,107,,,Growth
+3610,SAPJ.J,,,,113,,,Emerg. Mkts.
+3611,SAPJ.J,,,,110,,,Yield
+3612,SAPJ.J,,,,107,,,Index
+3613,SAPJ.J,,,,113,,,Emerg. Mkts.
+3614,SAPJ.J,,,,113,,,Core Value
+3615,SAPJ.J,,,,107,,,Emerg. Mkts.
+3616,SAPJ.J,,,,113,,,Emerg. Mkts.
+3617,SAPJ.J,,,,107,,,Specialty
+3618,SAPJ.J,,,,113,,,Emerg. Mkts.
+3619,SAPJ.J,,,,107,,,Sector Specific
+3620,SAPJ.J,,,,101,,,Core Value
+3621,SAPJ.J,,,,113,,,Emerg. Mkts.
+3622,SAPJ.J,,,,107,,,
+3623,SAPJ.J,,,,107,,,Core Value
+3624,SAPJ.J,,,,107,,,Growth
+3625,SAPJ.J,,,,113,,,Emerg. Mkts.
+3626,SAPJ.J,,,,107,,,Specialty
+3627,SAPJ.J,,,,113,,,Emerg. Mkts.
+3628,SAPJ.J,,,,113,,,Emerg. Mkts.
+3629,SAPJ.J,,,,,,,Emerg. Mkts.
+3630,SAPJ.J,,,,,,,Growth
+3631,SAPJ.J,,,,,,,Emerg. Mkts.
+3632,SAPJ.J,,,,,,,Emerg. Mkts.
+3633,SAPJ.J,,,,,,,Emerg. Mkts.
+3634,SAPJ.J,,,,,,,Core Value
+3635,SAPJ.J,,,,,,,Income Value
+3636,SAPJ.J,,,,,,,Sector Specific
+3637,SAPJ.J,,,,,,,Index
+3638,SAPJ.J,,,,,,,Emerg. Mkts.
+3639,SAPJ.J,,,,,,,Emerg. Mkts.
+3640,SAPJ.J,,,,,,,Emerg. Mkts.
+3641,SAPJ.J,,,,,,,Emerg. Mkts.
+3642,SAPJ.J,,,,,,,Core Value
+3643,SAPJ.J,,,,,,,Emerg. Mkts.
+3644,SAPJ.J,,,,,,,Growth
+3645,SAPJ.J,,,,,,,Core Growth
+3646,SAPJ.J,,,,,,,Emerg. Mkts.
+3647,SAPJ.J,,,,,,,Emerg. Mkts.
+3648,SAPJ.J,,,,,,,Specialty
+3649,SAPJ.J,,,,,,,Emerg. Mkts.
+3650,SAPJ.J,,,,,,,Emerg. Mkts.
+3651,SAPJ.J,,,,,,,Emerg. Mkts.
+3652,SAPJ.J,,,,,,,Emerg. Mkts.
+3653,SAPJ.J,,,,,,,Emerg. Mkts.
+3654,SAPJ.J,,,,,,,Sector Specific
+3655,SAPJ.J,,,,,,,Emerg. Mkts.
+3656,SAPJ.J,,,,,,,Core Value
+3657,SAPJ.J,,,,,,,
+3658,SAPJ.J,,,,,,,Emerg. Mkts.
+3659,SAPJ.J,,,,,,,Core Value
+3660,SAPJ.J,,,,,,,Emerg. Mkts.
+3661,SAPJ.J,,,,,,,Index
+3662,SAPJ.J,,,,,,,Emerg. Mkts.
+3663,SAPJ.J,,,,,,,Emerg. Mkts.
+3664,SAPJ.J,,,,,,,Emerg. Mkts.
+3665,SAPJ.J,,,,,,,Index
+3666,SAPJ.J,,,,,,,Index
+3667,SAPJ.J,,,,,,,Emerg. Mkts.
+3668,SAPJ.J,,,,,,,Core Growth
+3669,SAPJ.J,,,,,,,Growth
+3670,SAPJ.J,,,,,,,Emerg. Mkts.
+3671,SAPJ.J,,,,,,,Index
+3672,SAPJ.J,,,,,,,Emerg. Mkts.
+3673,SAPJ.J,,,,,,,Sector Specific
+3674,SAPJ.J,,,,,,,Core Value
+3675,SAPJ.J,,,,,,,Growth
+3676,SAPJ.J,,,,,,,
+3677,SAPJ.J,,,,,,,
+3678,SAPJ.J,,,,,,,
+3679,SAPJ.J,,,,,,,
+3680,SAPJ.J,,,,,,,
+3681,SAPJ.J,,,,,,,
+3682,SAPJ.J,,,,,,,
+3683,SAPJ.J,,,,,,,
+3684,SAPJ.J,,,,,,,
+3685,SAPJ.J,,,,,,,
+3686,SAPJ.J,,,,,,,
+3687,SAPJ.J,,,,,,,
+3688,SAPJ.J,,,,,,,
+3689,SAPJ.J,,,,,,,
+3690,SAPJ.J,,,,,,,
+3691,SAPJ.J,,,,,,,
+3692,SASN.NR,1.2234,1998-12-31T00:00:00Z,2006494,107,5000706029,Kenya,Growth
+3693,SASN.NR,1.8547,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+3694,SASN.NR,,,,113,,,Growth
+3695,SASN.NR,,,,107,,,
+3696,SASN.NR,,,,107,,,
+3697,SASN.NR,,,,113,,,
+3698,SBKJ.J,1.3279,1998-08-17T00:00:00Z,2676461,113,5000854298,South Africa,Specialty
+3699,SBKJ.J,0.7884,1998-08-17T00:00:00Z,2637186,107,4297902883,,Growth
+3700,SBKJ.J,0.2276,1998-12-31T00:00:00Z,2642844,301,4295888391,,Specialty
+3701,SBKJ.J,0.0111,1998-06-30T00:00:00Z,2005211,301,,,Emerg. Mkts.
+3702,SBKJ.J,0.0004,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+3703,SBKJ.J,0.0001,1998-12-31T00:00:00Z,2003708,301,5000064072,,Emerg. Mkts.
+3704,SBKJ.J,0.0,1998-12-31T00:00:00Z,2002823,113,5000052202,,Emerg. Mkts.
+3705,SBKJ.J,0.0004,1997-12-31T00:00:00Z,2005211,107,,,Emerg. Mkts.
+3706,SBKJ.J,0.0002,1997-12-31T00:00:00Z,2006038,113,,,Specialty
+3707,SBKJ.J,,,2676461,113,,,Emerg. Mkts.
+3708,SBKJ.J,,,2642844,107,,,Emerg. Mkts.
+3709,SBKJ.J,,,2637186,113,,,Emerg. Mkts.
+3710,SBKJ.J,,,2003708,113,,,Emerg. Mkts.
+3711,SBKJ.J,,,2002823,113,,,Emerg. Mkts.
+3712,SBKJ.J,,,,107,,,Core Value
+3713,SBKJ.J,,,,107,,,Emerg. Mkts.
+3714,SBKJ.J,,,,113,,,Core Value
+3715,SBKJ.J,,,,107,,,
+3716,SBKJ.J,,,,107,,,Emerg. Mkts.
+3717,SBKJ.J,,,,113,,,Emerg. Mkts.
+3718,SBKJ.J,,,,113,,,Emerg. Mkts.
+3719,SBKJ.J,,,,113,,,GARP
+3720,SBKJ.J,,,,107,,,Emerg. Mkts.
+3721,SBKJ.J,,,,101,,,Index
+3722,SBKJ.J,,,,113,,,Specialty
+3723,SBKJ.J,,,,107,,,Emerg. Mkts.
+3724,SBKJ.J,,,,113,,,Index
+3725,SBKJ.J,,,,107,,,Specialty
+3726,SBKJ.J,,,,107,,,Emerg. Mkts.
+3727,SBKJ.J,,,,107,,,Sector Specific
+3728,SBKJ.J,,,,113,,,Index
+3729,SBKJ.J,,,,113,,,GARP
+3730,SBKJ.J,,,,113,,,Income Value
+3731,SBKJ.J,,,,107,,,Emerg. Mkts.
+3732,SBKJ.J,,,,113,,,Index
+3733,SBKJ.J,,,,113,,,Core Value
+3734,SBKJ.J,,,,107,,,Emerg. Mkts.
+3735,SBKJ.J,,,,107,,,Emerg. Mkts.
+3736,SBKJ.J,,,,107,,,GARP
+3737,SBKJ.J,,,,113,,,Core Growth
+3738,SBKJ.J,,,,107,,,Emerg. Mkts.
+3739,SBKJ.J,,,,101,,,Growth
+3740,SBKJ.J,,,,,,,Growth
+3741,SBKJ.J,,,,,,,Specialty
+3742,SBKJ.J,,,,,,,Core Value
+3743,SBKJ.J,,,,,,,Emerg. Mkts.
+3744,SBKJ.J,,,,,,,Core Value
+3745,SBKJ.J,,,,,,,Emerg. Mkts.
+3746,SBKJ.J,,,,,,,Emerg. Mkts.
+3747,SBKJ.J,,,,,,,
+3748,SBKJ.J,,,,,,,Emerg. Mkts.
+3749,SBKJ.J,,,,,,,Growth
+3750,SBKJ.J,,,,,,,Core Value
+3751,SBKJ.J,,,,,,,Emerg. Mkts.
+3752,SBKJ.J,,,,,,,Emerg. Mkts.
+3753,SBKJ.J,,,,,,,Emerg. Mkts.
+3754,SBKJ.J,,,,,,,Index
+3755,SBKJ.J,,,,,,,Specialty
+3756,SBKJ.J,,,,,,,Index
+3757,SBKJ.J,,,,,,,Index
+3758,SBKJ.J,,,,,,,Specialty
+3759,SBKJ.J,,,,,,,Index
+3760,SBKJ.J,,,,,,,GARP
+3761,SBKJ.J,,,,,,,Emerg. Mkts.
+3762,SBKJ.J,,,,,,,Core Growth
+3763,SBKJ.J,,,,,,,
+3764,SBKJ.J,,,,,,,
+3765,SBKJ.J,,,,,,,
+3766,SBKJ.J,,,,,,,
+3767,SBKJ.J,,,,,,,
+3768,SBKJ.J,,,,,,,
+3769,SBKJ.J,,,,,,,
+3770,SBKJ.J,,,,,,,
+3771,SBKJ.J,,,,,,,
+3772,SBKJ.J,,,,,,,
+3773,SBKJ.J,,,,,,,
+3774,SBKJ.J,,,,,,,
+3775,SBKJ.J,,,,,,,
+3776,SBKJ.J,,,,,,,
+3777,SBKJ.J,,,,,,,
+3778,SBKJ.J,,,,,,,
+3779,SBKJ.J,,,,,,,
+3780,SBKJ.J,,,,,,,
+3781,SBKJ.J,,,,,,,
+3782,SBKJ.J,,,,,,,
+3783,SBKJ.J,,,,,,,
+3784,SCB.GH,0.0,1998-12-31T00:00:00Z,2006494,113,5000706029,United Kingdom,Hedge Fund
+3785,SCB.GH,0.6035,1997-06-30T00:00:00Z,2006494,107,5000706029,,Emerg. Mkts.
+3786,SCB.GH,,,,107,,,
+3787,SCB.GH,,,,107,,,GARP
+3788,SCB.GH,,,,107,,,Emerg. Mkts.
+3789,SCB.GH,,,,,,,Hedge Fund
+3790,SCB.GH,,,,,,,Emerg. Mkts.
+3791,SCB.GH,,,,,,,
+3792,SCB.GH,,,,,,,Emerg. Mkts.
+3793,SCB.GH,,,,,,,
+3794,SCBK.NR,,,,,,United Kingdom,
+3795,SCAN.NR,,,,,,United Kingdom,
+3796,SCOA.LG,,,,,,Nigeria,
+3797,SECH.BT,0.6014,1997-03-31T00:00:00Z,2003794,113,,Botswana,Growth
+3798,SECH.BT,0.0,1998-12-31T00:00:00Z,2006494,107,5000706029,,Emerg. Mkts.
+3799,SECH.BT,0.0,1998-03-31T00:00:00Z,2003258,107,,,Emerg. Mkts.
+3800,SECH.BT,0.6014,1997-03-31T00:00:00Z,2003794,107,,,GARP
+3801,SECH.BT,0.0752,1997-12-31T00:00:00Z,2003258,107,,,Growth
+3802,SECH.BT,,,2006494,113,,,Hedge Fund
+3803,SECH.BT,,,,107,,,Emerg. Mkts.
+3804,SECH.BT,,,,113,,,Emerg. Mkts.
+3805,SECH.BT,,,,107,,,
+3806,SECH.BT,,,,107,,,Growth
+3807,SECH.BT,,,,107,,,Growth
+3808,SECH.BT,,,,113,,,Emerg. Mkts.
+3809,SECH.BT,,,,,,,Specialty
+3810,SECH.BT,,,,,,,Growth
+3811,SECH.BT,,,,,,,Emerg. Mkts.
+3812,SECH.BT,,,,,,,Emerg. Mkts.
+3813,SECH.BT,,,,,,,Growth
+3814,SECH.BT,,,,,,,Emerg. Mkts.
+3815,SECH.BT,,,,,,,Growth
+3816,SECH.BT,,,,,,,Emerg. Mkts.
+3817,SECH.BT,,,,,,,Emerg. Mkts.
+3818,SECH.BT,,,,,,,Growth
+3819,SECH.BT,,,,,,,Growth
+3820,SECH.BT,,,,,,,Hedge Fund
+3821,SECH.BT,,,,,,,Emerg. Mkts.
+3822,SECH.BT,,,,,,,Specialty
+3823,SECH.BT,,,,,,,Emerg. Mkts.
+3824,SECH.BT,,,,,,,Emerg. Mkts.
+3825,SECH.BT,,,,,,,GARP
+3826,SECH.BT,,,,,,,
+3827,SECH.BT,,,,,,,
+3828,SECH.BT,,,,,,,
+3829,SECH.BT,,,,,,,
+3830,SECH.BT,,,,,,,
+3831,SEED.ZI,,,,107,,Zimbabwe,
+3832,SEED.ZI,,,,107,,,
+3833,SEFA.BT,0.0,1998-06-30T00:00:00Z,2006494,113,5000706029,Botswana,Hedge Fund
+3834,SEFA.BT,0.3125,1997-06-30T00:00:00Z,2006494,107,5000706029,,Emerg. Mkts.
+3835,SEFA.BT,,,,107,,,
+3836,SEFA.BT,,,,107,,,Emerg. Mkts.
+3837,SEFA.BT,,,,107,,,Hedge Fund
+3838,SEFA.BT,,,,,,,Emerg. Mkts.
+3839,SEFA.BT,,,,,,,Emerg. Mkts.
+3840,SEFA.BT,,,,,,,
+3841,EMHJ.J,34.59,1998-08-03T00:00:00Z,2635540,301,5055410154,South Africa,Core Value
+3842,EMHJ.J,4.36,1998-08-03T00:00:00Z,2659499,107,5043428434,,Index
+3843,EMHJ.J,2.08,1998-08-03T00:00:00Z,2668836,302,,,Core Value
+3844,EMHJ.J,1.11,1998-08-03T00:00:00Z,2669926,301,,,Index
+3845,EMHJ.J,0.0,1997-12-31T00:00:00Z,2005211,301,,,
+3846,EMHJ.J,0.0,1997-12-31T00:00:00Z,2005211,113,,,
+3847,EMHJ.J,,,2669926,301,,,
+3848,EMHJ.J,,,2668836,113,,,
+3849,EMHJ.J,,,2659499,107,,,
+3850,EMHJ.J,,,2635540,107,,,
+3851,EMHJ.J,,,,113,,,
+3852,EMHJ.J,,,,107,,,
+3853,EMHJ.J,,,,,,,
+3854,EMHJ.J,,,,,,,
+3855,EMHJ.J,,,,,,,
+3856,EMHJ.J,,,,,,,
+3857,EMHJ.J,,,,,,,
+3858,EMHJ.J,,,,,,,
+3859,SHPJ.J,4.5,1998-08-03T00:00:00Z,2676461,113,5000854298,South Africa,Specialty
+3860,SHPJ.J,2.03,1998-08-03T00:00:00Z,2637186,301,4297902883,,Emerg. Mkts.
+3861,SHPJ.J,0.0035,1998-12-31T00:00:00Z,2006038,301,,,Emerg. Mkts.
+3862,SHPJ.J,0.0032,1998-06-30T00:00:00Z,2005211,113,,,Emerg. Mkts.
+3863,SHPJ.J,0.0,1997-12-31T00:00:00Z,2005217,107,,,Specialty
+3864,SHPJ.J,0.0045,1997-12-31T00:00:00Z,2005211,113,,,Emerg. Mkts.
+3865,SHPJ.J,0.0018,1997-12-31T00:00:00Z,2006038,113,,,
+3866,SHPJ.J,0.0,1997-12-31T00:00:00Z,2005217,107,,,Index
+3867,SHPJ.J,,,2676461,107,,,Emerg. Mkts.
+3868,SHPJ.J,,,2637186,113,,,Specialty
+3869,SHPJ.J,,,,113,,,Emerg. Mkts.
+3870,SHPJ.J,,,,107,,,Emerg. Mkts.
+3871,SHPJ.J,,,,113,,,
+3872,SHPJ.J,,,,113,,,Index
+3873,SHPJ.J,,,,107,,,
+3874,SHPJ.J,,,,107,,,
+3875,SHPJ.J,,,,113,,,
+3876,SHPJ.J,,,,113,,,
+3877,SHPJ.J,,,,,,,
+3878,SHPJ.J,,,,,,,
+3879,SIC.GH,,,,,,Ghana,
+3880,GLAXOSM.LG,,,,,,United Kingdom,
+3881,AEEJ.J,,,,,,South Africa,
+3882,SLMJ.J,0.2,1998-12-31T00:00:00Z,2003066,113,5000051932,South Africa,Emerg. Mkts.
+3883,SLMJ.J,0.11,1998-12-31T00:00:00Z,2005217,107,,,Growth
+3884,SLMJ.J,0.03,1998-12-31T00:00:00Z,2004902,113,,,Emerg. Mkts.
+3885,SLMJ.J,0.01,1998-12-31T00:00:00Z,2005054,113,,,Emerg. Mkts.
+3886,SLMJ.J,0.0,1998-12-31T00:00:00Z,2006038,107,,,Specialty
+3887,SLMJ.J,0.0,1998-12-31T00:00:00Z,2003614,107,,,Emerg. Mkts.
+3888,SLMJ.J,,,2006038,107,,,Emerg. Mkts.
+3889,SLMJ.J,,,2005217,113,,,Specialty
+3890,SLMJ.J,,,2005054,113,,,Emerg. Mkts.
+3891,SLMJ.J,,,2004902,107,,,GARP
+3892,SLMJ.J,,,2003614,113,,,Emerg. Mkts.
+3893,SLMJ.J,,,2003066,107,,,Growth
+3894,SLMJ.J,,,,113,,,Yield
+3895,SLMJ.J,,,,107,,,Emerg. Mkts.
+3896,SLMJ.J,,,,110,,,GARP
+3897,SLMJ.J,,,,107,,,Growth
+3898,SLMJ.J,,,,107,,,Core Value
+3899,SLMJ.J,,,,113,,,Specialty
+3900,SLMJ.J,,,,107,,,Emerg. Mkts.
+3901,SLMJ.J,,,,113,,,Growth
+3902,SLMJ.J,,,,107,,,Emerg. Mkts.
+3903,SLMJ.J,,,,107,,,Emerg. Mkts.
+3904,SLMJ.J,,,,,,,Emerg. Mkts.
+3905,SLMJ.J,,,,,,,Emerg. Mkts.
+3906,SLMJ.J,,,,,,,Emerg. Mkts.
+3907,SLMJ.J,,,,,,,Growth
+3908,SLMJ.J,,,,,,,Growth
+3909,SLMJ.J,,,,,,,
+3910,SLMJ.J,,,,,,,
+3911,SLMJ.J,,,,,,,
+3912,SLMJ.J,,,,,,,
+3913,SLMJ.J,,,,,,,
+3914,SLMJ.J,,,,,,,
+3915,SLMJ.J,,,,,,,
+3916,SLMJ.J,,,,,,,
+3917,SLMJ.J,,,,,,,
+3918,SLMJ.J,,,,,,,
+3919,SLMJ.J,,,,,,,
+3920,SLMJ.J,,,,,,,
+3921,SLMJ.J,,,,,,,
+3922,SLMJ.J,,,,,,,
+3923,SLMJ.J,,,,,,,
+3924,SLMJ.J,,,,,,,
+3925,SLMJ.J,,,,,,,
+3926,SLMJ.J,,,,,,,
+3927,SLMJ.J,,,,,,,
+3928,SLMJ.J,,,,,,,
+3929,SLMJ.J,,,,,,,
+3930,SLMJ.J,,,,,,,
+3931,SLMJ.J,,,,,,,
+3932,SLMJ.J,,,,,,,
+3933,SLMJ.J,,,,,,,
+3934,SLMJ.J,,,,,,,
+3935,SLMJ.J,,,,,,,
+3936,SMURFIT.LG,,,,,,Nigeria,
+3937,SGL.NR,,,,,,United Kingdom,
+3938,SNTJ.J,18.28,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,
+3939,SNTJ.J,17.34,1998-08-03T00:00:00Z,2637186,301,4297902883,,Index
+3940,SNTJ.J,2.84,1998-06-30T00:00:00Z,2005211,301,,,
+3941,SNTJ.J,0.01,1998-12-31T00:00:00Z,2006038,107,,,
+3942,SNTJ.J,0.0,1998-06-30T00:00:00Z,2005217,107,,,
+3943,SNTJ.J,0.41,1997-12-31T00:00:00Z,2005217,302,,,
+3944,SNTJ.J,0.01,1997-12-31T00:00:00Z,2005211,113,,,
+3945,SNTJ.J,0.0018,1997-12-31T00:00:00Z,2006038,107,,,
+3946,SNTJ.J,,,2676461,113,,,
+3947,SNTJ.J,,,2637186,113,,,
+3948,SNTJ.J,,,,113,,,
+3949,SNTJ.J,,,,113,,,
+3950,SNTJ.J,,,,113,,,
+3951,SNTJ.J,,,,113,,,
+3952,SNTJ.J,,,,107,,,
+3953,SNTJ.J,,,,113,,,
+3954,SNTJ.J,,,,107,,,
+3955,SNTJ.J,,,,,,,
+3956,SNTJ.J,,,,,,,
+3957,SNTJ.J,,,,,,,
+3958,SNTJ.J,,,,,,,
+3959,SNTJ.J,,,,,,,
+3960,SNVJ.J,,,,,,South Africa,
+3961,SOHJ.J,,,,,,South Africa,
+3962,SOLJ.J,39.5023,1998-08-28T00:00:00Z,2676461,301,5000854298,South Africa,Growth
+3963,SOLJ.J,8.0496,1998-08-28T00:00:00Z,2637186,113,4297902883,,Growth
+3964,SOLJ.J,0.2241,1998-12-31T00:00:00Z,2003614,113,,,Emerg. Mkts.
+3965,SOLJ.J,0.2095,1998-06-30T00:00:00Z,2005211,301,,,Growth
+3966,SOLJ.J,0.1062,1998-03-31T00:00:00Z,2785765,302,,,Emerg. Mkts.
+3967,SOLJ.J,0.1004,1998-12-31T00:00:00Z,2005218,107,4298409344,,Specialty
+3968,SOLJ.J,0.0322,1998-12-31T00:00:00Z,2003504,107,,,Specialty
+3969,SOLJ.J,0.0231,1998-09-30T00:00:00Z,2783074,107,,,Emerg. Mkts.
+3970,SOLJ.J,0.0221,1998-12-31T00:00:00Z,2004197,107,4296293277,,Hedge Fund
+3971,SOLJ.J,0.0135,1998-12-31T00:00:00Z,2003677,113,,,Core Growth
+3972,SOLJ.J,0.0134,1998-12-31T00:00:00Z,2783694,113,,,Index
+3973,SOLJ.J,0.0067,1998-12-31T00:00:00Z,2003516,113,5000071982,,Growth
+3974,SOLJ.J,0.0046,1998-12-31T00:00:00Z,2784485,107,,,Emerg. Mkts.
+3975,SOLJ.J,0.004,1998-12-31T00:00:00Z,2006038,107,,,GARP
+3976,SOLJ.J,0.0028,1998-12-31T00:00:00Z,2003457,113,5000036827,,Emerg. Mkts.
+3977,SOLJ.J,0.0012,1998-06-30T00:00:00Z,2619373,113,5001224632,,Emerg. Mkts.
+3978,SOLJ.J,0.0,1998-12-31T00:00:00Z,2005136,107,,,Emerg. Mkts.
+3979,SOLJ.J,0.0,1998-12-31T00:00:00Z,2004961,113,,,Hedge Fund
+3980,SOLJ.J,0.0,1998-06-30T00:00:00Z,2003974,107,5000001140,,Emerg. Mkts.
+3981,SOLJ.J,0.0,1997-09-30T00:00:00Z,2003709,107,,,Emerg. Mkts.
+3982,SOLJ.J,0.0,1998-12-31T00:00:00Z,2003708,107,5000064072,,Emerg. Mkts.
+3983,SOLJ.J,0.0,1998-12-31T00:00:00Z,2002823,110,5000052202,,Emerg. Mkts.
+3984,SOLJ.J,0.0,1998-03-31T00:00:00Z,2002735,110,,,Emerg. Mkts.
+3985,SOLJ.J,0.0661,1997-12-31T00:00:00Z,2004961,107,,,Specialty
+3986,SOLJ.J,0.038,1997-12-31T00:00:00Z,2003614,107,,,Sector Specific
+3987,SOLJ.J,0.0355,1997-12-31T00:00:00Z,2003504,107,,,Emerg. Mkts.
+3988,SOLJ.J,0.0281,1997-06-30T00:00:00Z,2005218,113,4298409344,,Emerg. Mkts.
+3989,SOLJ.J,0.0227,1997-12-31T00:00:00Z,2006038,107,,,Core Growth
+3990,SOLJ.J,0.0167,1997-03-31T00:00:00Z,2003974,113,5000001140,,Core Value
+3991,SOLJ.J,0.0116,1997-12-31T00:00:00Z,2003677,107,,,Emerg. Mkts.
+3992,SOLJ.J,0.0067,1997-12-31T00:00:00Z,2003516,107,5000071982,,Emerg. Mkts.
+3993,SOLJ.J,0.0066,1997-12-31T00:00:00Z,2005136,107,,,Emerg. Mkts.
+3994,SOLJ.J,0.0051,1997-12-31T00:00:00Z,2003708,107,5000064072,,Emerg. Mkts.
+3995,SOLJ.J,0.005,1997-12-31T00:00:00Z,2004197,107,4296293277,,Core Growth
+3996,SOLJ.J,0.0041,1997-12-31T00:00:00Z,2002735,107,,,Specialty
+3997,SOLJ.J,0.0036,1997-12-31T00:00:00Z,2005211,107,,,Emerg. Mkts.
+3998,SOLJ.J,0.0012,1997-12-31T00:00:00Z,2619373,107,5001224632,,Emerg. Mkts.
+3999,SOLJ.J,0.0,1997-09-30T00:00:00Z,2003709,107,,,Growth
+4000,SOLJ.J,,,2785765,101,,,Core Growth
+4001,SOLJ.J,,,2784485,107,,,Emerg. Mkts.
+4002,SOLJ.J,,,2783694,101,,,Emerg. Mkts.
+4003,SOLJ.J,,,2783074,107,,,Emerg. Mkts.
+4004,SOLJ.J,,,2676461,107,,,Emerg. Mkts.
+4005,SOLJ.J,,,2637186,107,,,Emerg. Mkts.
+4006,SOLJ.J,,,2003457,107,,,Emerg. Mkts.
+4007,SOLJ.J,,,2002823,113,,,Emerg. Mkts.
+4008,SOLJ.J,,,,107,,,Emerg. Mkts.
+4009,SOLJ.J,,,,107,,,Emerg. Mkts.
+4010,SOLJ.J,,,,113,,,Emerg. Mkts.
+4011,SOLJ.J,,,,113,,,Sector Specific
+4012,SOLJ.J,,,,107,,,Emerg. Mkts.
+4013,SOLJ.J,,,,113,,,Index
+4014,SOLJ.J,,,,107,,,Emerg. Mkts.
+4015,SOLJ.J,,,,113,,,Specialty
+4016,SOLJ.J,,,,107,,,Emerg. Mkts.
+4017,SOLJ.J,,,,107,,,Emerg. Mkts.
+4018,SOLJ.J,,,,113,,,Emerg. Mkts.
+4019,SOLJ.J,,,,113,,,Emerg. Mkts.
+4020,SOLJ.J,,,,107,,,Deep Value
+4021,SOLJ.J,,,,107,,,GARP
+4022,SOLJ.J,,,,113,,,Core Growth
+4023,SOLJ.J,,,,107,,,Growth
+4024,SOLJ.J,,,,107,,,Emerg. Mkts.
+4025,SOLJ.J,,,,107,,,Emerg. Mkts.
+4026,SOLJ.J,,,,113,,,Emerg. Mkts.
+4027,SOLJ.J,,,,107,,,Emerg. Mkts.
+4028,SOLJ.J,,,,113,,,Emerg. Mkts.
+4029,SOLJ.J,,,,107,,,
+4030,SOLJ.J,,,,107,,,Emerg. Mkts.
+4031,SOLJ.J,,,,113,,,Emerg. Mkts.
+4032,SOLJ.J,,,,107,,,Core Value
+4033,SOLJ.J,,,,107,,,Emerg. Mkts.
+4034,SOLJ.J,,,,113,,,Emerg. Mkts.
+4035,SOLJ.J,,,,107,,,Emerg. Mkts.
+4036,SOLJ.J,,,,113,,,Emerg. Mkts.
+4037,SOLJ.J,,,,113,,,Emerg. Mkts.
+4038,SOLJ.J,,,,113,,,Growth
+4039,SOLJ.J,,,,113,,,Emerg. Mkts.
+4040,SOLJ.J,,,,101,,,Emerg. Mkts.
+4041,SOLJ.J,,,,107,,,Emerg. Mkts.
+4042,SOLJ.J,,,,113,,,Emerg. Mkts.
+4043,SOLJ.J,,,,113,,,Index
+4044,SOLJ.J,,,,113,,,Emerg. Mkts.
+4045,SOLJ.J,,,,107,,,Income Value
+4046,SOLJ.J,,,,107,,,Income Value
+4047,SOLJ.J,,,,107,,,Emerg. Mkts.
+4048,SOLJ.J,,,,113,,,Emerg. Mkts.
+4049,SOLJ.J,,,,107,,,GARP
+4050,SOLJ.J,,,,113,,,Growth
+4051,SOLJ.J,,,,107,,,Growth
+4052,SOLJ.J,,,,113,,,Emerg. Mkts.
+4053,SOLJ.J,,,,107,,,GARP
+4054,SOLJ.J,,,,113,,,Emerg. Mkts.
+4055,SOLJ.J,,,,113,,,Emerg. Mkts.
+4056,SOLJ.J,,,,107,,,Emerg. Mkts.
+4057,SOLJ.J,,,,113,,,Specialty
+4058,SOLJ.J,,,,113,,,Emerg. Mkts.
+4059,SOLJ.J,,,,113,,,Emerg. Mkts.
+4060,SOLJ.J,,,,107,,,Sector Specific
+4061,SOLJ.J,,,,113,,,Index
+4062,SOLJ.J,,,,107,,,Core Growth
+4063,SOLJ.J,,,,113,,,Emerg. Mkts.
+4064,SOLJ.J,,,,110,,,Emerg. Mkts.
+4065,SOLJ.J,,,,107,,,Index
+4066,SOLJ.J,,,,113,,,Sector Specific
+4067,SOLJ.J,,,,107,,,Growth
+4068,SOLJ.J,,,,107,,,Emerg. Mkts.
+4069,SOLJ.J,,,,110,,,Emerg. Mkts.
+4070,SOLJ.J,,,,113,,,Growth
+4071,SOLJ.J,,,,113,,,Growth
+4072,SOLJ.J,,,,107,,,Emerg. Mkts.
+4073,SOLJ.J,,,,107,,,GARP
+4074,SOLJ.J,,,,107,,,Growth
+4075,SOLJ.J,,,,113,,,Growth
+4076,SOLJ.J,,,,113,,,Core Growth
+4077,SOLJ.J,,,,107,,,Core Value
+4078,SOLJ.J,,,,107,,,Growth
+4079,SOLJ.J,,,,107,,,Core Value
+4080,SOLJ.J,,,,113,,,Specialty
+4081,SOLJ.J,,,,107,,,Specialty
+4082,SOLJ.J,,,,113,,,Core Value
+4083,SOLJ.J,,,,113,,,Deep Value
+4084,SOLJ.J,,,,107,,,Specialty
+4085,SOLJ.J,,,,107,,,Core Value
+4086,SOLJ.J,,,,107,,,Growth
+4087,SOLJ.J,,,,107,,,Core Value
+4088,SOLJ.J,,,,107,,,Index
+4089,SOLJ.J,,,,107,,,Growth
+4090,SOLJ.J,,,,113,,,Emerg. Mkts.
+4091,SOLJ.J,,,,107,,,Emerg. Mkts.
+4092,SOLJ.J,,,,107,,,Emerg. Mkts.
+4093,SOLJ.J,,,,107,,,Growth
+4094,SOLJ.J,,,,113,,,Emerg. Mkts.
+4095,SOLJ.J,,,,107,,,Core Growth
+4096,SOLJ.J,,,,113,,,Core Growth
+4097,SOLJ.J,,,,107,,,Core Growth
+4098,SOLJ.J,,,,113,,,Aggres. Gr.
+4099,SOLJ.J,,,,107,,,Growth
+4100,SOLJ.J,,,,113,,,GARP
+4101,SOLJ.J,,,,113,,,Specialty
+4102,SOLJ.J,,,,107,,,Specialty
+4103,SOLJ.J,,,,107,,,Growth
+4104,SOLJ.J,,,,107,,,Core Value
+4105,SOLJ.J,,,,113,,,Core Value
+4106,SOLJ.J,,,,107,,,Growth
+4107,SOLJ.J,,,,107,,,Core Growth
+4108,SOLJ.J,,,,101,,,GARP
+4109,SOLJ.J,,,,107,,,Growth
+4110,SOLJ.J,,,,113,,,Growth
+4111,SOLJ.J,,,,,,,Emerg. Mkts.
+4112,SOLJ.J,,,,,,,Growth
+4113,SOLJ.J,,,,,,,Specialty
+4114,SOLJ.J,,,,,,,Specialty
+4115,SOLJ.J,,,,,,,Emerg. Mkts.
+4116,SOLJ.J,,,,,,,Core Growth
+4117,SOLJ.J,,,,,,,Growth
+4118,SOLJ.J,,,,,,,GARP
+4119,SOLJ.J,,,,,,,Emerg. Mkts.
+4120,SOLJ.J,,,,,,,Emerg. Mkts.
+4121,SOLJ.J,,,,,,,Core Growth
+4122,SOLJ.J,,,,,,,Core Value
+4123,SOLJ.J,,,,,,,Emerg. Mkts.
+4124,SOLJ.J,,,,,,,Core Growth
+4125,SOLJ.J,,,,,,,Index
+4126,SOLJ.J,,,,,,,Emerg. Mkts.
+4127,SOLJ.J,,,,,,,Growth
+4128,SOLJ.J,,,,,,,Emerg. Mkts.
+4129,SOLJ.J,,,,,,,Specialty
+4130,SOLJ.J,,,,,,,Emerg. Mkts.
+4131,SOLJ.J,,,,,,,Growth
+4132,SOLJ.J,,,,,,,Hedge Fund
+4133,SOLJ.J,,,,,,,Core Growth
+4134,SOLJ.J,,,,,,,Emerg. Mkts.
+4135,SOLJ.J,,,,,,,Specialty
+4136,SOLJ.J,,,,,,,Core Growth
+4137,SOLJ.J,,,,,,,Emerg. Mkts.
+4138,SOLJ.J,,,,,,,Emerg. Mkts.
+4139,SOLJ.J,,,,,,,Deep Value
+4140,SOLJ.J,,,,,,,Emerg. Mkts.
+4141,SOLJ.J,,,,,,,Sector Specific
+4142,SOLJ.J,,,,,,,Emerg. Mkts.
+4143,SOLJ.J,,,,,,,Emerg. Mkts.
+4144,SOLJ.J,,,,,,,Emerg. Mkts.
+4145,SOLJ.J,,,,,,,Emerg. Mkts.
+4146,SOLJ.J,,,,,,,Specialty
+4147,SOLJ.J,,,,,,,Emerg. Mkts.
+4148,SOLJ.J,,,,,,,Core Growth
+4149,SOLJ.J,,,,,,,Growth
+4150,SOLJ.J,,,,,,,Emerg. Mkts.
+4151,SOLJ.J,,,,,,,Specialty
+4152,SOLJ.J,,,,,,,Emerg. Mkts.
+4153,SOLJ.J,,,,,,,Core Growth
+4154,SOLJ.J,,,,,,,Emerg. Mkts.
+4155,SOLJ.J,,,,,,,Emerg. Mkts.
+4156,SOLJ.J,,,,,,,Emerg. Mkts.
+4157,SOLJ.J,,,,,,,Core Value
+4158,SOLJ.J,,,,,,,Emerg. Mkts.
+4159,SOLJ.J,,,,,,,Emerg. Mkts.
+4160,SOLJ.J,,,,,,,Aggres. Gr.
+4161,SOLJ.J,,,,,,,Growth
+4162,SOLJ.J,,,,,,,Emerg. Mkts.
+4163,SOLJ.J,,,,,,,Specialty
+4164,SOLJ.J,,,,,,,Index
+4165,SOLJ.J,,,,,,,Growth
+4166,SOLJ.J,,,,,,,Emerg. Mkts.
+4167,SOLJ.J,,,,,,,Emerg. Mkts.
+4168,SOLJ.J,,,,,,,
+4169,SOLJ.J,,,,,,,Specialty
+4170,SOLJ.J,,,,,,,Emerg. Mkts.
+4171,SOLJ.J,,,,,,,Core Value
+4172,SOLJ.J,,,,,,,Emerg. Mkts.
+4173,SOLJ.J,,,,,,,Emerg. Mkts.
+4174,SOLJ.J,,,,,,,Emerg. Mkts.
+4175,SOLJ.J,,,,,,,Core Growth
+4176,SOLJ.J,,,,,,,Emerg. Mkts.
+4177,SOLJ.J,,,,,,,Emerg. Mkts.
+4178,SOLJ.J,,,,,,,Emerg. Mkts.
+4179,SOLJ.J,,,,,,,Growth
+4180,SOLJ.J,,,,,,,Core Value
+4181,SOLJ.J,,,,,,,Emerg. Mkts.
+4182,SOLJ.J,,,,,,,Emerg. Mkts.
+4183,SOLJ.J,,,,,,,Emerg. Mkts.
+4184,SOLJ.J,,,,,,,Emerg. Mkts.
+4185,SOLJ.J,,,,,,,Growth
+4186,SOLJ.J,,,,,,,Emerg. Mkts.
+4187,SOLJ.J,,,,,,,Emerg. Mkts.
+4188,SOLJ.J,,,,,,,Growth
+4189,SOLJ.J,,,,,,,Emerg. Mkts.
+4190,SOLJ.J,,,,,,,Emerg. Mkts.
+4191,SOLJ.J,,,,,,,Emerg. Mkts.
+4192,SOLJ.J,,,,,,,Emerg. Mkts.
+4193,SOLJ.J,,,,,,,Emerg. Mkts.
+4194,SOLJ.J,,,,,,,GARP
+4195,SOLJ.J,,,,,,,Emerg. Mkts.
+4196,SOLJ.J,,,,,,,Core Value
+4197,SOLJ.J,,,,,,,Index
+4198,SOLJ.J,,,,,,,Income Value
+4199,SOLJ.J,,,,,,,Growth
+4200,SOLJ.J,,,,,,,Core Value
+4201,SOLJ.J,,,,,,,Index
+4202,SOLJ.J,,,,,,,Index
+4203,SOLJ.J,,,,,,,Emerg. Mkts.
+4204,SOLJ.J,,,,,,,Emerg. Mkts.
+4205,SOLJ.J,,,,,,,Specialty
+4206,SOLJ.J,,,,,,,Emerg. Mkts.
+4207,SOLJ.J,,,,,,,Index
+4208,SOLJ.J,,,,,,,Growth
+4209,SOLJ.J,,,,,,,Emerg. Mkts.
+4210,SOLJ.J,,,,,,,Growth
+4211,SOLJ.J,,,,,,,Emerg. Mkts.
+4212,SOLJ.J,,,,,,,Emerg. Mkts.
+4213,SOLJ.J,,,,,,,Core Growth
+4214,SOLJ.J,,,,,,,GARP
+4215,SOLJ.J,,,,,,,Sector Specific
+4216,SOLJ.J,,,,,,,Emerg. Mkts.
+4217,SOLJ.J,,,,,,,Growth
+4218,SOLJ.J,,,,,,,GARP
+4219,SOLJ.J,,,,,,,Growth
+4220,SOLJ.J,,,,,,,Growth
+4221,SOLJ.J,,,,,,,Core Value
+4222,SOLJ.J,,,,,,,Growth
+4223,SOLJ.J,,,,,,,Core Growth
+4224,SOLJ.J,,,,,,,
+4225,SOLJ.J,,,,,,,
+4226,SOLJ.J,,,,,,,
+4227,SOLJ.J,,,,,,,
+4228,SOLJ.J,,,,,,,
+4229,SOLJ.J,,,,,,,
+4230,SOLJ.J,,,,,,,
+4231,SOLJ.J,,,,,,,
+4232,SOLJ.J,,,,,,,
+4233,SOLJ.J,,,,,,,
+4234,SOLJ.J,,,,,,,
+4235,SOLJ.J,,,,,,,
+4236,SOLJ.J,,,,,,,
+4237,SOLJ.J,,,,,,,
+4238,SOLJ.J,,,,,,,
+4239,SOLJ.J,,,,,,,
+4240,SOLJ.J,,,,,,,
+4241,SOLJ.J,,,,,,,
+4242,SOLJ.J,,,,,,,
+4243,SOLJ.J,,,,,,,
+4244,SOLJ.J,,,,,,,
+4245,SOLJ.J,,,,,,,
+4246,SOLJ.J,,,,,,,
+4247,SOLJ.J,,,,,,,
+4248,SOLJ.J,,,,,,,
+4249,SOLJ.J,,,,,,,
+4250,SOLJ.J,,,,,,,
+4251,SOLJ.J,,,,,,,
+4252,SOLJ.J,,,,,,,
+4253,SOLJ.J,,,,,,,
+4254,SOLJ.J,,,,,,,
+4255,SOLJ.J,,,,,,,
+4256,SOVRENI.LG,,,,,,Nigeria,
+4257,SPGJ.J,21.35,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+4258,SPGJ.J,6.38,1998-08-03T00:00:00Z,3248580,113,,,Growth
+4259,SPGJ.J,5.13,1998-08-03T00:00:00Z,3248582,303,,,GARP
+4260,SPGJ.J,3.6,1998-08-03T00:00:00Z,2637186,303,4297902883,,Specialty
+4261,SPGJ.J,3.13,1998-08-03T00:00:00Z,3248584,302,,,Specialty
+4262,SPGJ.J,1.44,1998-08-03T00:00:00Z,2665402,301,5055411601,,Sector Specific
+4263,SPGJ.J,1.32,1998-08-03T00:00:00Z,2634267,303,5043455375,,Growth
+4264,SPGJ.J,0.44,1998-03-31T00:00:00Z,2785765,113,,,Emerg. Mkts.
+4265,SPGJ.J,0.33,1998-06-30T00:00:00Z,2005211,107,,,Emerg. Mkts.
+4266,SPGJ.J,0.05,1998-12-31T00:00:00Z,2006038,113,,,
+4267,SPGJ.J,,,3248584,107,,,Growth
+4268,SPGJ.J,,,3248582,301,,,Index
+4269,SPGJ.J,,,3248580,301,,,Index
+4270,SPGJ.J,,,2785765,113,,,Growth
+4271,SPGJ.J,,,2676461,107,,,
+4272,SPGJ.J,,,2665402,107,,,
+4273,SPGJ.J,,,2637186,107,,,
+4274,SPGJ.J,,,2634267,113,,,
+4275,SPGJ.J,,,2006038,107,,,
+4276,SPGJ.J,,,2005211,113,,,
+4277,SPGJ.J,,,,,,,
+4278,SPGJ.J,,,,,,,
+4279,SPGJ.J,,,,,,,
+4280,SPGJ.J,,,,,,,
+4281,SPGJ.J,,,,,,,
+4282,SPGJ.J,,,,,,,
+4283,SPGJ.J,,,,,,,
+4284,SPGJ.J,,,,,,,
+4285,SPGJ.J,,,,,,,
+4286,SPGJ.J,,,,,,,
+4287,SPGJ.J,,,,,,,
+4288,SPGJ.J,,,,,,,
+4289,SPGJ.J,,,,,,,
+4290,SPGJ.J,,,,,,,
+4291,SPGJ.J,,,,,,,
+4292,SPGJ.J,,,,,,,
+4293,SPL.GH,,,,,,Ghana,
+4294,SPPJ.J,,,,,,South Africa,
+4295,ACI.GH,,,,,,Ghana,
+4296,SOGEGH.GH,0.9657,1998-12-31T00:00:00Z,2005726,113,5001449043,France,GARP
+4297,SOGEGH.GH,0.0,1998-12-31T00:00:00Z,2006494,107,5000706029,,
+4298,SOGEGH.GH,1.765,1997-06-30T00:00:00Z,2006494,107,5000706029,,Emerg. Mkts.
+4299,SOGEGH.GH,,,2005726,107,,,Growth
+4300,SOGEGH.GH,,,,,,,Emerg. Mkts.
+4301,SOGEGH.GH,,,,,,,Growth
+4302,SOGEGH.GH,,,,,,,Emerg. Mkts.
+4303,SOGEGH.GH,,,,,,,GARP
+4304,SOGEGH.GH,,,,,,,
+4305,SOGEGH.GH,,,,,,,Growth
+4306,SOGEGH.GH,,,,,,,Growth
+4307,SOGEGH.GH,,,,,,,Emerg. Mkts.
+4308,STD.BT,0.0,1998-12-31T00:00:00Z,2006494,107,5000706029,United Kingdom,Emerg. Mkts.
+4309,STD.BT,0.0045,1997-06-30T00:00:00Z,2006494,201,5000706029,,
+4310,STD.BT,,,,107,,,Emerg. Mkts.
+4311,STD.BT,,,,201,,,GARP
+4312,STD.BT,,,,,,,Emerg. Mkts.
+4313,STD.BT,,,,,,,Emerg. Mkts.
+4314,STD.BT,,,,,,,
+4315,STD.BT,,,,,,,GARP
+4316,STDINSU.LG,,,,,,Nigeria,
+4317,STERLNB.LG,,,,,,Nigeria,
+4318,STOKVIS.LG,,,,,,Nigeria,
+4319,STX40J.J,,,,,,,
+4320,STXFINJ.J,,,,,,,
+4321,STXDIVJ.J,,,,,,,
+4322,STXINDJ.J,,,,,,,
+4323,STXRESJ.J,,,,,,,
+4324,STXSWXJ.J,,,,,,,
+4325,SUIJ.J,12.34,1998-07-01T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+4326,SUIJ.J,1.13,1998-07-01T00:00:00Z,2637186,113,4297902883,,Hedge Fund
+4327,SUIJ.J,1.0293,1998-06-30T00:00:00Z,2005211,113,,,Emerg. Mkts.
+4328,SUIJ.J,0.0067,1998-12-31T00:00:00Z,2006038,301,,,Emerg. Mkts.
+4329,SUIJ.J,0.0,1998-06-30T00:00:00Z,2003974,107,5000001140,,Emerg. Mkts.
+4330,SUIJ.J,0.0,1997-09-30T00:00:00Z,2003709,107,,,Emerg. Mkts.
+4331,SUIJ.J,0.0712,1997-03-31T00:00:00Z,2003974,113,5000001140,,Emerg. Mkts.
+4332,SUIJ.J,0.0036,1997-12-31T00:00:00Z,2005211,110,,,Emerg. Mkts.
+4333,SUIJ.J,0.0018,1997-12-31T00:00:00Z,2006038,113,,,Growth
+4334,SUIJ.J,0.0,1997-09-30T00:00:00Z,2003709,107,,,Emerg. Mkts.
+4335,SUIJ.J,,,2676461,107,,,Emerg. Mkts.
+4336,SUIJ.J,,,2637186,107,,,Specialty
+4337,SUIJ.J,,,,113,,,Core Growth
+4338,SUIJ.J,,,,113,,,Emerg. Mkts.
+4339,SUIJ.J,,,,107,,,
+4340,SUIJ.J,,,,107,,,Emerg. Mkts.
+4341,SUIJ.J,,,,113,,,Emerg. Mkts.
+4342,SUIJ.J,,,,113,,,Core Value
+4343,SUIJ.J,,,,113,,,GARP
+4344,SUIJ.J,,,,107,,,Emerg. Mkts.
+4345,SUIJ.J,,,,107,,,Index
+4346,SUIJ.J,,,,107,,,Index
+4347,SUIJ.J,,,,107,,,Emerg. Mkts.
+4348,SUIJ.J,,,,107,,,Specialty
+4349,SUIJ.J,,,,,,,Emerg. Mkts.
+4350,SUIJ.J,,,,,,,Emerg. Mkts.
+4351,SUIJ.J,,,,,,,Emerg. Mkts.
+4352,SUIJ.J,,,,,,,Growth
+4353,SUIJ.J,,,,,,,Specialty
+4354,SUIJ.J,,,,,,,Emerg. Mkts.
+4355,SUIJ.J,,,,,,,Emerg. Mkts.
+4356,SUIJ.J,,,,,,,Emerg. Mkts.
+4357,SUIJ.J,,,,,,,Emerg. Mkts.
+4358,SUIJ.J,,,,,,,Emerg. Mkts.
+4359,SUIJ.J,,,,,,,Emerg. Mkts.
+4360,SUIJ.J,,,,,,,Emerg. Mkts.
+4361,SUIJ.J,,,,,,,Specialty
+4362,SUIJ.J,,,,,,,Core Value
+4363,SUIJ.J,,,,,,,Emerg. Mkts.
+4364,SUIJ.J,,,,,,,Specialty
+4365,SUIJ.J,,,,,,,Emerg. Mkts.
+4366,SUIJ.J,,,,,,,
+4367,SUIJ.J,,,,,,,Emerg. Mkts.
+4368,SUIJ.J,,,,,,,Index
+4369,SUIJ.J,,,,,,,Emerg. Mkts.
+4370,SUIJ.J,,,,,,,Core Growth
+4371,SUIJ.J,,,,,,,Growth
+4372,SUIJ.J,,,,,,,
+4373,SUIJ.J,,,,,,,
+4374,SUIJ.J,,,,,,,
+4375,SUIJ.J,,,,,,,
+4376,SUIJ.J,,,,,,,
+4377,SUIJ.J,,,,,,,
+4378,SUIJ.J,,,,,,,
+4379,SUIJ.J,,,,,,,
+4380,SUIJ.J,,,,,,,
+4381,SWL.GH,,,,,,Ghana,
+4382,LUXJ.J,,,,,,South Africa,
+4383,TBSJ.J,13.7719,1998-08-17T00:00:00Z,2676461,301,5000854298,South Africa,Core Value
+4384,TBSJ.J,7.8257,1998-08-17T00:00:00Z,2637186,301,4297902883,,Specialty
+4385,TBSJ.J,0.3117,1997-03-31T00:00:00Z,2003794,113,,,Growth
+4386,TBSJ.J,0.1194,1998-03-31T00:00:00Z,2785765,302,,,Specialty
+4387,TBSJ.J,0.0324,1998-06-30T00:00:00Z,2005211,107,,,Emerg. Mkts.
+4388,TBSJ.J,0.0032,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+4389,TBSJ.J,0.0,1998-03-31T00:00:00Z,2005218,113,4298409344,,Emerg. Mkts.
+4390,TBSJ.J,0.3117,1997-03-31T00:00:00Z,2003794,107,,,Emerg. Mkts.
+4391,TBSJ.J,0.0308,1997-06-30T00:00:00Z,2005218,107,4298409344,,Emerg. Mkts.
+4392,TBSJ.J,0.0042,1997-12-31T00:00:00Z,2005211,110,,,Emerg. Mkts.
+4393,TBSJ.J,0.002,1997-12-31T00:00:00Z,2006038,107,,,Core Growth
+4394,TBSJ.J,,,2785765,107,,,Emerg. Mkts.
+4395,TBSJ.J,,,2676461,107,,,Emerg. Mkts.
+4396,TBSJ.J,,,2637186,107,,,Emerg. Mkts.
+4397,TBSJ.J,,,,113,,,Emerg. Mkts.
+4398,TBSJ.J,,,,110,,,Emerg. Mkts.
+4399,TBSJ.J,,,,107,,,Emerg. Mkts.
+4400,TBSJ.J,,,,113,,,
+4401,TBSJ.J,,,,113,,,Emerg. Mkts.
+4402,TBSJ.J,,,,113,,,Emerg. Mkts.
+4403,TBSJ.J,,,,113,,,Index
+4404,TBSJ.J,,,,107,,,Emerg. Mkts.
+4405,TBSJ.J,,,,107,,,GARP
+4406,TBSJ.J,,,,107,,,Index
+4407,TBSJ.J,,,,113,,,Index
+4408,TBSJ.J,,,,107,,,Index
+4409,TBSJ.J,,,,107,,,Emerg. Mkts.
+4410,TBSJ.J,,,,113,,,Core Value
+4411,TBSJ.J,,,,107,,,Emerg. Mkts.
+4412,TBSJ.J,,,,113,,,Core Value
+4413,TBSJ.J,,,,107,,,Growth
+4414,TBSJ.J,,,,113,,,Specialty
+4415,TBSJ.J,,,,110,,,Index
+4416,TBSJ.J,,,,107,,,Emerg. Mkts.
+4417,TBSJ.J,,,,113,,,Emerg. Mkts.
+4418,TBSJ.J,,,,113,,,Core Growth
+4419,TBSJ.J,,,,113,,,Emerg. Mkts.
+4420,TBSJ.J,,,,107,,,
+4421,TBSJ.J,,,,107,,,Emerg. Mkts.
+4422,TBSJ.J,,,,113,,,Emerg. Mkts.
+4423,TBSJ.J,,,,107,,,Index
+4424,TBSJ.J,,,,113,,,Index
+4425,TBSJ.J,,,,,,,Index
+4426,TBSJ.J,,,,,,,Core Value
+4427,TBSJ.J,,,,,,,
+4428,TBSJ.J,,,,,,,
+4429,TBSJ.J,,,,,,,
+4430,TBSJ.J,,,,,,,
+4431,TBSJ.J,,,,,,,
+4432,TBSJ.J,,,,,,,
+4433,TBSJ.J,,,,,,,
+4434,TBSJ.J,,,,,,,
+4435,TBSJ.J,,,,,,,
+4436,TBSJ.J,,,,,,,
+4437,TBSJ.J,,,,,,,
+4438,TBSJ.J,,,,,,,
+4439,TBSJ.J,,,,,,,
+4440,TBSJ.J,,,,,,,
+4441,TDHJ.J,,,,,,South Africa,
+4442,CHEVRON.LG,,,,,,Nigeria,
+4443,THOMASW.LG,,,,,,Nigeria,
+4444,TKGJ.J,,,,,,South Africa,
+4445,TLMJ.J,,,,,,South Africa,
+4446,TMTJ.J,41.184,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Emerg. Mkts.
+4447,TMTJ.J,12.4176,1998-08-03T00:00:00Z,2637186,113,4297902883,,
+4448,TMTJ.J,6.8857,1998-12-31T00:00:00Z,2005218,301,4298409344,,
+4449,TMTJ.J,5.5619,1998-06-30T00:00:00Z,2005211,107,,,
+4450,TMTJ.J,4.9504,1998-08-03T00:00:00Z,3279715,113,,,
+4451,TMTJ.J,4.7619,1998-12-31T00:00:00Z,2005217,107,,,
+4452,TMTJ.J,0.0,1998-12-31T00:00:00Z,2006038,303,,,
+4453,TMTJ.J,,,3279715,113,,,
+4454,TMTJ.J,,,2676461,107,,,
+4455,TMTJ.J,,,2637186,,,,
+4456,TMTJ.J,,,2006038,,,,
+4457,TMTJ.J,,,2005218,,,,
+4458,TMTJ.J,,,2005217,,,,
+4459,TMTJ.J,,,2005211,,,,
+4460,TMTJ.J,,,,,,,
+4461,TMTJ.J,,,,,,,
+4462,TMTJ.J,,,,,,,
+4463,TMTJ.J,,,,,,,
+4464,TONJ.J,11.1844,1998-08-03T00:00:00Z,2676461,113,5000854298,South Africa,Emerg. Mkts.
+4465,TONJ.J,7.9835,1998-08-03T00:00:00Z,2637186,301,4297902883,,GARP
+4466,TONJ.J,1.3384,1998-08-03T00:00:00Z,2669904,301,4295889079,,Emerg. Mkts.
+4467,TONJ.J,0.4012,1998-06-30T00:00:00Z,2005211,301,,,Emerg. Mkts.
+4468,TONJ.J,0.3049,1998-12-31T00:00:00Z,2005218,302,4298409344,,Specialty
+4469,TONJ.J,0.0033,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+4470,TONJ.J,0.0,1998-12-31T00:00:00Z,2002823,107,5000052202,,Emerg. Mkts.
+4471,TONJ.J,0.098,1997-06-30T00:00:00Z,2005218,107,4298409344,,Index
+4472,TONJ.J,0.0037,1997-12-31T00:00:00Z,2005211,113,,,Emerg. Mkts.
+4473,TONJ.J,0.0016,1997-12-31T00:00:00Z,2006038,107,,,Emerg. Mkts.
+4474,TONJ.J,,,2676461,113,,,Emerg. Mkts.
+4475,TONJ.J,,,2669904,107,,,Growth
+4476,TONJ.J,,,2637186,107,,,Emerg. Mkts.
+4477,TONJ.J,,,2002823,110,,,Emerg. Mkts.
+4478,TONJ.J,,,,113,,,Emerg. Mkts.
+4479,TONJ.J,,,,107,,,Emerg. Mkts.
+4480,TONJ.J,,,,107,,,Emerg. Mkts.
+4481,TONJ.J,,,,107,,,Specialty
+4482,TONJ.J,,,,113,,,Core Growth
+4483,TONJ.J,,,,113,,,Emerg. Mkts.
+4484,TONJ.J,,,,107,,,
+4485,TONJ.J,,,,113,,,Core Value
+4486,TONJ.J,,,,107,,,Emerg. Mkts.
+4487,TONJ.J,,,,107,,,Index
+4488,TONJ.J,,,,110,,,Emerg. Mkts.
+4489,TONJ.J,,,,113,,,GARP
+4490,TONJ.J,,,,113,,,Emerg. Mkts.
+4491,TONJ.J,,,,113,,,Emerg. Mkts.
+4492,TONJ.J,,,,113,,,Specialty
+4493,TONJ.J,,,,107,,,Emerg. Mkts.
+4494,TONJ.J,,,,107,,,Index
+4495,TONJ.J,,,,113,,,Emerg. Mkts.
+4496,TONJ.J,,,,110,,,Growth
+4497,TONJ.J,,,,107,,,Emerg. Mkts.
+4498,TONJ.J,,,,107,,,Core Growth
+4499,TONJ.J,,,,110,,,Emerg. Mkts.
+4500,TONJ.J,,,,107,,,Emerg. Mkts.
+4501,TONJ.J,,,,107,,,
+4502,TONJ.J,,,,107,,,Core Value
+4503,TONJ.J,,,,107,,,Emerg. Mkts.
+4504,TONJ.J,,,,113,,,Index
+4505,TONJ.J,,,,,,,Emerg. Mkts.
+4506,TONJ.J,,,,,,,
+4507,TONJ.J,,,,,,,
+4508,TONJ.J,,,,,,,
+4509,TONJ.J,,,,,,,
+4510,TONJ.J,,,,,,,
+4511,TONJ.J,,,,,,,
+4512,TONJ.J,,,,,,,
+4513,TONJ.J,,,,,,,
+4514,TOTAL.LG,,,,,,France,
+4515,TOTL.NR,,,,,,France,
+4516,TOURIST.LG,,,,,,South Africa,
+4517,TPCJ.J,35.1224,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Emerg. Mkts.
+4518,TPCJ.J,26.9504,1998-08-03T00:00:00Z,3248630,303,34413313114,,
+4519,TPCJ.J,17.9528,1998-08-03T00:00:00Z,3693680,201,5035505784,,
+4520,TPCJ.J,12.5755,1998-08-03T00:00:00Z,2639482,113,,,
+4521,TPCJ.J,8.9341,1998-08-03T00:00:00Z,2637186,301,4297902883,,
+4522,TPCJ.J,8.5318,1998-08-03T00:00:00Z,3248631,301,,,
+4523,TPCJ.J,3.0105,1998-12-31T00:00:00Z,2005217,107,,,
+4524,TPCJ.J,3.3238,1998-08-03T00:00:00Z,3299193,113,,,
+4525,TPCJ.J,1.4184,1998-08-03T00:00:00Z,3289649,301,,,
+4526,TPCJ.J,86.2381,1997-01-31T00:00:00Z,3693680,303,5035505784,,
+4527,TPCJ.J,,,3299193,113,,,
+4528,TPCJ.J,,,3289649,303,,,
+4529,TPCJ.J,,,3248631,303,,,
+4530,TPCJ.J,,,3248630,113,,,
+4531,TPCJ.J,,,2676461,301,,,
+4532,TPCJ.J,,,2639482,,,,
+4533,TPCJ.J,,,2637186,,,,
+4534,TPCJ.J,,,2005217,,,,
+4535,TPCJ.J,,,,,,,
+4536,TPCJ.J,,,,,,,
+4537,TPCJ.J,,,,,,,
+4538,TPCJ.J,,,,,,,
+4539,TPCJ.J,,,,,,,
+4540,TPCJ.J,,,,,,,
+4541,TPCJ.J,,,,,,,
+4542,TPCJ.J,,,,,,,
+4543,TPCJ.J,,,,,,,
+4544,TPCJ.J,,,,,,,
+4545,TPSE.NR,,,,,,Kenya,
+4546,TRANSCO.LG,,,,,,Nigeria,
+4547,TRANSEX.LG,,,,,,Nigeria,
+4548,TRIPPLE.LG,,,,,,Nigeria,
+4549,TRUW.ZI,,,,,,South Africa,
+4550,TRUJ.J,8.618,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+4551,TRUJ.J,7.5582,1998-08-03T00:00:00Z,2637186,301,4297902883,,Emerg. Mkts.
+4552,TRUJ.J,0.0008,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+4553,TRUJ.J,,,2676461,113,,,Emerg. Mkts.
+4554,TRUJ.J,,,2637186,107,,,Core Growth
+4555,TRUJ.J,,,2006038,302,,,
+4556,TRUJ.J,,,,113,,,Index
+4557,TRUJ.J,,,,110,,,Emerg. Mkts.
+4558,TRUJ.J,,,,113,,,
+4559,TRUJ.J,,,,107,,,
+4560,TRUJ.J,,,,,,,
+4561,TRUJ.J,,,,,,,
+4562,TRUJ.J,,,,,,,
+4563,TRUJ.J,,,,,,,
+4564,TRUJ.J,,,,,,,
+4565,TRUJ.J,,,,,,,
+4566,TRUJ.J,,,,,,,
+4567,TRUJ.J,,,,,,,
+4568,TRUJ.J,,,,,,,
+4569,TRUJ.J,,,,,,,
+4570,TRANSOL.GH,,,,,,Ghana,
+4571,TSL.ZI,,,,113,,Zimbabwe,Hedge Fund
+4572,TSL.ZI,,,,113,,,Emerg. Mkts.
+4573,TSL.ZI,,,,,,,Emerg. Mkts.
+4574,TSL.ZI,,,,,,,Core Growth
+4575,TSL.ZI,,,,,,,Hedge Fund
+4576,TSL.ZI,,,,,,,Emerg. Mkts.
+4577,TSL.ZI,,,,,,,Emerg. Mkts.
+4578,TSL.ZI,,,,,,,Core Growth
+4579,TURN.ZI,,,,,,Zimbabwe,
+4580,UPDC.LG,,,,,,Nigeria,
+4581,UACN.LG,,,,,,Nigeria,
+4582,UBA.LG,,,,,,Nigeria,
+4583,UBN.LG,,,,,,Nigeria,
+4584,UNGA.NR,,,,,,,
+4585,UNHOMES.LG,,,,,,Nigeria,
+4586,UNIL.GH,0.68,1998-12-31T00:00:00Z,2006494,107,5000706029,United Kingdom,Emerg. Mkts.
+4587,UNIL.GH,0.2504,1998-12-31T00:00:00Z,2005726,107,5001449043,,Hedge Fund
+4588,UNIL.GH,0.8,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4589,UNIL.GH,,,2005726,,,,Emerg. Mkts.
+4590,UNIL.GH,,,,,,,Emerg. Mkts.
+4591,UNIL.GH,,,,,,,Hedge Fund
+4592,UNIL.GH,,,,,,,
+4593,UNIL.GH,,,,,,,Emerg. Mkts.
+4594,UNIONDI.LG,,,,,,Nigeria,
+4595,OANDO.LG,,,,,,Nigeria,
+4596,UNTL.LG,,,,,,Nigeria,
+4597,UPL.LG,,,,,,Nigeria,
+4598,UTC.LG,0.0,1998-12-31T00:00:00Z,2006494,107,5000706029,Nigeria,
+4599,UTC.LG,,,2006494,,,,
+4600,VANLEER.LG,,,,,,United States,
+4601,REA.NR,,,,107,,Kenya,
+4602,REA.NR,,,,107,,,
+4603,VITAFOA.LG,,,,,,Nigeria,
+4604,VKEJ.J,,,,,,South Africa,
+4605,VONO.LG,,,,,,Nigeria,
+4606,VUNJ.J,,,,,,South Africa,
+4607,HCCL.ZI,29.18,1998-08-03T00:00:00Z,2676461,301,5000854298,Zimbabwe,Core Growth
+4608,HCCL.ZI,1.42,1998-05-04T00:00:00Z,3242456,113,,,Sector Specific
+4609,HCCL.ZI,1.42,1998-05-04T00:00:00Z,3242432,113,,,Emerg. Mkts.
+4610,HCCL.ZI,1.08,1998-05-04T00:00:00Z,3254681,107,,,Growth
+4611,HCCL.ZI,1.0,1998-05-04T00:00:00Z,3242451,303,,,Growth
+4612,HCCL.ZI,0.0,1997-06-30T00:00:00Z,2004081,303,,,Sector Specific
+4613,HCCL.ZI,0.0,1997-06-30T00:00:00Z,2004081,303,,,Emerg. Mkts.
+4614,HCCL.ZI,,,3254681,303,,,Core Growth
+4615,HCCL.ZI,,,3242456,110,,,
+4616,HCCL.ZI,,,3242451,107,,,
+4617,HCCL.ZI,,,3242432,107,,,
+4618,HCCL.ZI,,,2676461,113,,,
+4619,HCCL.ZI,,,,113,,,
+4620,HCCL.ZI,,,,113,,,
+4621,HCCL.ZI,,,,107,,,
+4622,HCCL.ZI,,,,107,,,
+4623,HCCL.ZI,,,,113,,,
+4624,HCCL.ZI,,,,110,,,
+4625,HCCL.ZI,,,,,,,
+4626,HCCL.ZI,,,,,,,
+4627,HCCL.ZI,,,,,,,
+4628,HCCL.ZI,,,,,,,
+4629,HCCL.ZI,,,,,,,
+4630,HCCL.ZI,,,,,,,
+4631,HCCL.ZI,,,,,,,
+4632,HCCL.ZI,,,,,,,
+4633,WAPIC.LG,,,,,,Nigeria,
+4634,WAPCO.LG,,,,,,Switzerland,
+4635,WBOJ.J,12.02,1998-08-03T00:00:00Z,2663424,301,5055419173,South Africa,
+4636,WBOJ.J,6.8,1998-08-03T00:00:00Z,2676461,301,5000854298,,
+4637,WBOJ.J,3.33,1998-08-03T00:00:00Z,2637186,301,4297902883,,
+4638,WBOJ.J,2.84,1998-08-03T00:00:00Z,3248758,303,,,
+4639,WBOJ.J,2.16,1998-08-03T00:00:00Z,3248750,303,,,
+4640,WBOJ.J,1.95,1998-08-03T00:00:00Z,4151667,301,,,
+4641,WBOJ.J,1.65,1998-08-03T00:00:00Z,3282900,303,,,
+4642,WBOJ.J,1.62,1998-08-03T00:00:00Z,3248757,303,,,
+4643,WBOJ.J,1.52,1998-08-03T00:00:00Z,3248752,303,,,
+4644,WBOJ.J,1.46,1998-08-03T00:00:00Z,3248742,303,,,
+4645,WBOJ.J,1.23,1998-08-03T00:00:00Z,2938719,113,5001196246,,
+4646,WBOJ.J,1.22,1998-08-03T00:00:00Z,3248759,110,,,
+4647,WBOJ.J,1.09,1998-08-03T00:00:00Z,3248762,303,34413345692,,
+4648,WBOJ.J,,,4151667,303,,,
+4649,WBOJ.J,,,3282900,,,,
+4650,WBOJ.J,,,3248762,,,,
+4651,WBOJ.J,,,3248759,,,,
+4652,WBOJ.J,,,3248758,,,,
+4653,WBOJ.J,,,3248757,,,,
+4654,WBOJ.J,,,3248752,,,,
+4655,WBOJ.J,,,3248750,,,,
+4656,WBOJ.J,,,3248742,,,,
+4657,WBOJ.J,,,2938719,,,,
+4658,WBOJ.J,,,2676461,,,,
+4659,WBOJ.J,,,2663424,,,,
+4660,WBOJ.J,,,2637186,,,,
+4661,WBOJ.J,,,,,,,
+4662,WBOJ.J,,,,,,,
+4663,WEAJ.J,,,,,,South Africa,
+4664,WEMABAN.LG,,,,,,Nigeria,
+4665,WHLJ.J,12.7018,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+4666,WHLJ.J,5.4018,1998-08-03T00:00:00Z,2637186,113,4297902883,,Emerg. Mkts.
+4667,WHLJ.J,1.0199,1998-08-03T00:00:00Z,2684299,301,5001446208,,Emerg. Mkts.
+4668,WHLJ.J,0.2683,1998-12-31T00:00:00Z,2005217,107,,,Core Value
+4669,WHLJ.J,0.0848,1998-03-31T00:00:00Z,2785765,302,,,Emerg. Mkts.
+4670,WHLJ.J,0.0025,1998-06-30T00:00:00Z,2005211,110,,,Emerg. Mkts.
+4671,WHLJ.J,0.0017,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+4672,WHLJ.J,0.0,1998-12-31T00:00:00Z,2004902,113,,,Emerg. Mkts.
+4673,WHLJ.J,0.5056,1997-12-31T00:00:00Z,2005217,107,,,Emerg. Mkts.
+4674,WHLJ.J,0.0542,1997-12-31T00:00:00Z,2006038,107,,,Income Value
+4675,WHLJ.J,0.0029,1997-12-31T00:00:00Z,2005211,113,,,Income Value
+4676,WHLJ.J,,,2785765,113,,,Emerg. Mkts.
+4677,WHLJ.J,,,2684299,107,,,
+4678,WHLJ.J,,,2676461,107,,,Index
+4679,WHLJ.J,,,2637186,113,,,Emerg. Mkts.
+4680,WHLJ.J,,,2004902,107,,,Emerg. Mkts.
+4681,WHLJ.J,,,,113,,,
+4682,WHLJ.J,,,,113,,,
+4683,WHLJ.J,,,,113,,,
+4684,WHLJ.J,,,,107,,,
+4685,WHLJ.J,,,,107,,,
+4686,WHLJ.J,,,,,,,
+4687,WHLJ.J,,,,,,,
+4688,WHLJ.J,,,,,,,
+4689,WHLJ.J,,,,,,,
+4690,WHLJ.J,,,,,,,
+4691,WHLJ.J,,,,,,,
+4692,WHLJ.J,,,,,,,
+4693,WHLJ.J,,,,,,,
+4694,WHLJ.J,,,,,,,
+4695,WHLJ.J,,,,,,,
+4696,WHLJ.J,,,,,,,
+4697,WHLJ.J,,,,,,,
+4698,WHLJ.J,,,,,,,
+4699,WILD.ZI,,,,,,Zimbabwe,
+4700,WKFJ.J,,,,,,South Africa,
+4701,PBGJ.J,14.6879,1998-08-03T00:00:00Z,2676461,113,5000854298,South Africa,Specialty
+4702,PBGJ.J,10.6853,1998-08-03T00:00:00Z,2637186,301,4297902883,,Specialty
+4703,PBGJ.J,1.2733,1998-12-31T00:00:00Z,2002306,113,,,Emerg. Mkts.
+4704,PBGJ.J,0.0034,1998-06-30T00:00:00Z,2005211,301,,,Index
+4705,PBGJ.J,0.0018,1998-12-31T00:00:00Z,2006038,107,,,Emerg. Mkts.
+4706,PBGJ.J,0.0,1998-03-31T00:00:00Z,2005217,302,,,Emerg. Mkts.
+4707,PBGJ.J,0.397,1997-12-31T00:00:00Z,2005217,107,,,Emerg. Mkts.
+4708,PBGJ.J,0.0042,1997-12-31T00:00:00Z,2005211,107,,,Emerg. Mkts.
+4709,PBGJ.J,0.0018,1997-12-31T00:00:00Z,2006038,110,,,Emerg. Mkts.
+4710,PBGJ.J,,,2676461,113,,,Core Growth
+4711,PBGJ.J,,,2637186,107,,,
+4712,PBGJ.J,,,2002306,107,,,Index
+4713,PBGJ.J,,,,113,,,Emerg. Mkts.
+4714,PBGJ.J,,,,113,,,
+4715,PBGJ.J,,,,113,,,Specialty
+4716,PBGJ.J,,,,107,,,Emerg. Mkts.
+4717,PBGJ.J,,,,113,,,Specialty
+4718,PBGJ.J,,,,113,,,Emerg. Mkts.
+4719,PBGJ.J,,,,110,,,Index
+4720,PBGJ.J,,,,113,,,Emerg. Mkts.
+4721,PBGJ.J,,,,113,,,Emerg. Mkts.
+4722,PBGJ.J,,,,107,,,Core Growth
+4723,PBGJ.J,,,,107,,,
+4724,PBGJ.J,,,,,,,Index
+4725,PBGJ.J,,,,,,,Growth
+4726,PBGJ.J,,,,,,,
+4727,PBGJ.J,,,,,,,
+4728,PBGJ.J,,,,,,,
+4729,SLGJ.J,,,,,,South Africa,
+4730,WTK.NR,,,,,,,
+4731,YRKJ.J,1.1699,1998-08-03T00:00:00Z,3248786,303,,South Africa,
+4732,YRKJ.J,1.1299,1998-08-03T00:00:00Z,3248785,303,,,
+4733,YRKJ.J,,,3248786,,,,
+4734,YRKJ.J,,,3248785,,,,
+4735,ZEDJ.J,,,,,,South Africa,
+4736,ZENITHB.LG,,,,,,Nigeria,
+4737,ASUN.ZI,,,,110,,Mauritius,Hedge Fund
+4738,ASUN.ZI,,,,110,,,Emerg. Mkts.
+4739,ASUN.ZI,,,,,,,Core Growth
+4740,ASUN.ZI,,,,,,,Emerg. Mkts.
+4741,ASUN.ZI,,,,,,,Emerg. Mkts.
+4742,ASUN.ZI,,,,,,,Growth
+4743,ASUN.ZI,,,,,,,Emerg. Mkts.
+4744,ASUN.ZI,,,,,,,Emerg. Mkts.
+4745,ASUN.ZI,,,,,,,Hedge Fund
+4746,ASUN.ZI,,,,,,,Emerg. Mkts.
+4747,ASUN.ZI,,,,,,,Core Growth
+4748,ASUN.ZI,,,,,,,Growth
+4749,ASUN.ZI,,,,,,,Emerg. Mkts.
+4750,ASUN.ZI,,,,,,,Emerg. Mkts.
+4751,ZIMP.ZI,,,,,,Zimbabwe,
+4752,ZIMW.ZI,,,,,,Zimbabwe,
+4753,ORY.NM,,,,,,Namibia,
+4754,ZMFA.LZ,,,,,,South Africa,
+4755,GOLDBRE.LG,,,,,,Nigeria,
+4756,NIGSEWI.LG,,,,,,Nigeria,
+4757,UDEOFSO.LG,,,,,,Nigeria,
+4758,WAAP.LG,,,,,,Nigeria,
+4759,EDGR.ZI,,,,,,South Africa,
+4760,ABC.MZ,,,,,,Mauritius,
+4761,MSIL.MZ,,,,,,Mauritius,
+4762,PCCL.MZ,,,,,,Mauritius,
+4763,TBL.TZ,,,,,,Belgium,
+4764,TCC.TZ,,,,,,Japan,
+4765,BATA.LZ,,,,,,Netherlands,
+4766,SLBC.CI,0.08,1998-12-31T00:00:00Z,2006494,107,5000706029,France,
+4767,SLBC.CI,0.1,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4768,SLBC.CI,,,,107,,,
+4769,SLBC.CI,,,,107,,,
+4770,UCHM.NR,,,,107,,Kenya,Hedge Fund
+4771,UCHM.NR,,,,113,,,Growth
+4772,UCHM.NR,,,,107,,,Hedge Fund
+4773,UCHM.NR,,,,113,,,Growth
+4774,PHIN.MZ,,,,,,Mauritius,
+4775,UBS.MZ,,,,,,Mauritius,
+4776,SOGC.CI,,,,,,Luxembourg,
+4777,UTIN.MZ,,,,,,Mauritius,
+4778,MUAL.MZ,,,,,,Mauritius,
+4779,SWAN.MZ,,,,,,Mauritius,
+4780,MBL.MZ,0.0,1998-06-30T00:00:00Z,2006494,113,5000706029,Mauritius,
+4781,MBL.MZ,0.12,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4782,MBL.MZ,,,,107,,,
+4783,MBL.MZ,,,,107,,,
+4784,MBL.MZ,,,,107,,,
+4785,MBL.MZ,,,,107,,,
+4786,MBL.MZ,,,,107,,,
+4787,MBL.MZ,,,,,,,
+4788,MCFI.MZ,,,,,,,
+4789,MOR.MZ,,,,,,Mauritius,
+4790,PIM.MZ,,,,,,Mauritius,
+4791,UBP.MZ,,,,,,Mauritius,
+4792,BMHL.MZ,,,,,,Mauritius,
+4793,FINC.MZ,,,,,,Mauritius,
+4794,MDIT.MZ,,,,,,Mauritius,
+4795,NITL.MZ,,,,,,Mauritius,
+4796,POL.MZ,,,,,,Mauritius,
+4797,UTDL.MZ,,,,107,,Mauritius,
+4798,UTDL.MZ,,,,107,,,
+4799,HML.MZ,,,,,,,
+4800,SHEL.MZ,,,,,,Mauritius,
+4801,ASL.MZ,,,,,,Mauritius,
+4802,GCL.MZ,,,,,,Mauritius,
+4803,EABL.NR,0.8629,1998-12-31T00:00:00Z,2006494,107,5000706029,United Kingdom,
+4804,EABL.NR,0.7404,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4805,EABL.NR,,,,113,,,
+4806,EABL.NR,,,,107,,,
+4807,EABL.NR,,,,107,,,
+4808,EABL.NR,,,,113,,,
+4809,HWF.MZ,0.0,1998-12-31T00:00:00Z,2006494,107,5000706029,Mauritius,
+4810,HWF.MZ,0.4873,1997-06-30T00:00:00Z,2006494,107,5000706029,,Growth
+4811,HWF.MZ,,,,107,,,
+4812,HWF.MZ,,,,107,,,Growth
+4813,PAD.MZ,0.4941,1998-12-31T00:00:00Z,2006494,107,5000706029,Mauritius,
+4814,PAD.MZ,0.5765,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4815,SNTS.CI,0.145,1998-12-31T00:00:00Z,2006494,301,5000706029,Senegal,
+4816,SNTS.CI,,,2006494,107,,,
+4817,SNTS.CI,,,,,,,
+4818,SNTS.CI,,,,,,,
+4819,MTMD.MZ,,,,107,,,
+4820,MTMD.MZ,,,,107,,,
+4821,MCBG.MZ,0.2111,1998-12-31T00:00:00Z,2006494,113,5000706029,Mauritius,
+4822,MCBG.MZ,0.0772,1997-06-30T00:00:00Z,2006494,107,5000706029,,Core Growth
+4823,MCBG.MZ,,,,107,,,Emerg. Mkts.
+4824,MCBG.MZ,,,,113,,,Emerg. Mkts.
+4825,MCBG.MZ,,,,113,,,Growth
+4826,MCBG.MZ,,,,107,,,Emerg. Mkts.
+4827,MCBG.MZ,,,,107,,,Growth
+4828,MCBG.MZ,,,,113,,,
+4829,MCBG.MZ,,,,,,,
+4830,MCBG.MZ,,,,,,,
+4831,NMHL.MZ,0.1574,1998-12-31T00:00:00Z,2006494,113,5000706029,Mauritius,Core Growth
+4832,NMHL.MZ,0.1,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4833,NMHL.MZ,,,,107,,,Emerg. Mkts.
+4834,NMHL.MZ,,,,107,,,Emerg. Mkts.
+4835,NMHL.MZ,,,,113,,,Growth
+4836,NMHL.MZ,,,,107,,,Growth
+4837,NMHL.MZ,,,,107,,,Emerg. Mkts.
+4838,NMHL.MZ,,,,,,,
+4839,NMHL.MZ,,,,,,,Growth
+4840,NMHL.MZ,,,,,,,Growth
+4841,NMHL.MZ,,,,,,,
+4842,NMHL.MZ,,,,,,,
+4843,ROGE.MZ,0.0,1998-12-31T00:00:00Z,2006494,113,5000706029,,
+4844,ROGE.MZ,0.3571,1997-06-30T00:00:00Z,2006494,113,5000706029,,Core Growth
+4845,ROGE.MZ,,,,107,,,Emerg. Mkts.
+4846,ROGE.MZ,,,,107,,,Emerg. Mkts.
+4847,ROGE.MZ,,,,113,,,Emerg. Mkts.
+4848,ROGE.MZ,,,,107,,,
+4849,ROGE.MZ,,,,107,,,
+4850,ROGE.MZ,,,,,,,
+4851,SBMH.MZ,0.31,1998-12-31T00:00:00Z,2006494,113,5000706029,Mauritius,Growth
+4852,SBMH.MZ,0.19,1997-06-30T00:00:00Z,2006494,107,5000706029,,Growth
+4853,SBMH.MZ,,,,113,,,
+4854,SBMH.MZ,,,,107,,,Emerg. Mkts.
+4855,SBMH.MZ,,,,107,,,Core Growth
+4856,SBMH.MZ,,,,113,,,Emerg. Mkts.
+4857,SBMH.MZ,,,,113,,,Emerg. Mkts.
+4858,SBMH.MZ,,,,113,,,Emerg. Mkts.
+4859,SBMH.MZ,,,,107,,,Growth
+4860,SBMH.MZ,,,,107,,,Emerg. Mkts.
+4861,SBMH.MZ,,,,,,,Growth
+4862,SBMH.MZ,,,,,,,Growth
+4863,SBMH.MZ,,,,,,,Growth
+4864,SBMH.MZ,,,,,,,Growth
+4865,SBMH.MZ,,,,,,,Emerg. Mkts.
+4866,SBMH.MZ,,,,,,,Emerg. Mkts.
+4867,SBMH.MZ,,,,,,,Emerg. Mkts.
+4868,SBMH.MZ,,,,,,,
+4869,SBMH.MZ,,,,,,,Growth
+4870,SBMH.MZ,,,,,,,Emerg. Mkts.
+4871,SBMH.MZ,,,,,,,Growth
+4872,SBMH.MZ,,,,,,,Growth
+4873,SBMH.MZ,,,,,,,
+4874,SBMH.MZ,,,,,,,
+4875,SUN.MZ,0.1005,1998-12-31T00:00:00Z,2006494,107,5000706029,Mauritius,
+4876,SUN.MZ,0.0591,1997-06-30T00:00:00Z,2006494,107,5000706029,,Growth
+4877,SUN.MZ,,,,107,,,
+4878,SUN.MZ,,,,107,,,Growth
+4879,NBS.NM,,,,107,,Namibia,
+4880,NBS.NM,,,,107,,,
+4881,NBS.NM,,,,107,,,
+4882,NBS.NM,,,,107,,,
+4883,NAM.NM,,,,,,Namibia,
+4884,INVE.LZ,,,,,,Zambia,
+4885,FNB.NM,0.04,1998-12-31T00:00:00Z,2005218,107,4298409344,South Africa,Emerg. Mkts.
+4886,FNB.NM,,,2005218,113,,,
+4887,FNB.NM,,,,107,,,
+4888,FNB.NM,,,,107,,,
+4889,FNB.NM,,,,,,,
+4890,FNB.NM,,,,,,,
+4891,ZMBF.LZ,,,,,,Zambia,
+4892,BOBU.UG,,,,,,India,
+4893,FIDE.MZ,,,,,,Mauritius,
+4894,CAUD.MZ,,,,,,Mauritius,
+4895,BATU.UG,,,,,,United Kingdom,
+4896,PUMA.LZ,,,,,,Curacao,
+4897,NATB.LZ,,,,113,,Zimbabwe,
+4898,NATB.LZ,,,,,,,
+4899,PMDZ.LZ,,,,,,India,
+4900,SCBL.LZ,,,,,,United Kingdom,
+4901,CIEL.MZ,,,,,,Mauritius,
+4902,BNBC.CI,1.926,1998-12-31T00:00:00Z,2006494,107,5000706029,British Virgin Islands,
+4903,BNBC.CI,2.2281,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4904,BNBC.CI,,,,107,,,
+4905,BNBC.CI,,,,107,,,
+4906,UNLC.CI,0.2265,1998-12-31T00:00:00Z,2006494,107,5000706029,United Kingdom,
+4907,UNLC.CI,0.2265,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4908,UNLC.CI,,,,107,,,
+4909,UNLC.CI,,,,107,,,
+4910,CFAC.CI,,,,,,Japan,
+4911,ABJC.CI,,,,,,France,
+4912,NEIC.CI,,,,,,Ivory Coast,
+4913,BOAB.CI,,,,,,Morocco,
+4914,PALC.CI,,,,,,Ivory Coast,
+4915,SIVC.CI,,,,,,France,
+4916,NICO.MV,,,,,,Malawi,
+4917,BOAN.CI,,,,,,Morocco,
+4918,SAFC.CI,,,,,,France,
+4919,SDSC.CI,,,,107,,France,
+4920,SDSC.CI,,,,107,,,
+4921,STAC.CI,,,,,,France,
+4922,SHEC.CI,,,,,,United Kingdom,
+4923,SVOC.CI,,,,,,France,
+4924,CABC.CI,0.0,1998-06-30T00:00:00Z,2006494,107,5000706029,Italy,
+4925,CABC.CI,0.0486,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4926,SDCC.CI,0.2888,1998-12-31T00:00:00Z,2006494,107,5000706029,Ivory Coast,
+4927,SDCC.CI,0.2267,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4928,SICC.CI,,,,,,Ivory Coast,
+4929,UNXC.CI,0.44,1998-12-31T00:00:00Z,2006494,107,5000706029,Ivory Coast,
+4930,UNXC.CI,0.28,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4931,MOLI.MZ,,,,,,United States,
+4932,ARTD.ZI,,,,,,Zimbabwe,
+4933,UCL.UG,,,,,,Uganda,
+4934,REIZ.LZ,,,,,,Zambia,
+4935,TURN.BT,,,,,,Botswana,
+4936,NRL.MZ,,,,,,Mauritius,
+4937,FTSC.CI,0.06,1998-12-31T00:00:00Z,2006494,107,5000706029,Ivory Coast,
+4938,FTSC.CI,0.02,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4939,FTSC.CI,,,,107,,,
+4940,FTSC.CI,,,,107,,,
+4941,CECZ.LZ,,,,,,Zambia,
+4942,ZABR.LZ,,,,107,,Belgium,
+4943,ZABR.LZ,,,,,,,
+4944,ZSUG.LZ,,,,113,,United Kingdom,Emerg. Mkts.
+4945,ZSUG.LZ,,,,107,,,Emerg. Mkts.
+4946,ZSUG.LZ,,,,107,,,
+4947,ZSUG.LZ,,,,,,,
+4948,STBC.CI,0.0,1998-12-31T00:00:00Z,2006494,107,5000706029,United Kingdom,
+4949,STBC.CI,0.7208,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4950,CHIL.LZ,,,,107,,Switzerland,
+4951,CHIL.LZ,,,,107,,,
+4952,NTLC.CI,0.3114,1998-12-31T00:00:00Z,2006494,107,5000706029,Switzerland,
+4953,NTLC.CI,0.3128,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4954,NTLC.CI,,,,107,,,
+4955,NTLC.CI,,,,107,,,
+4956,CIEC.CI,0.2001,1998-12-31T00:00:00Z,2006494,107,5000706029,United States,
+4957,CIEC.CI,0.2083,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4958,BICC.CI,0.5399,1998-12-31T00:00:00Z,2006494,107,5000706029,France,
+4959,BICC.CI,0.4199,1997-06-30T00:00:00Z,2006494,107,5000706029,,
+4960,BICC.CI,,,,113,,,
+4961,BICC.CI,,,,107,,,
+4962,BICC.CI,,,,107,,,
+4963,BICC.CI,,,,113,,,
+4964,TTLC.CI,,,,,,France,
+4965,MSE.MZ,,,,,,Mauritius,
+4966,SPHC.CI,,,,107,,Ivory Coast,
+4967,SPHC.CI,,,,107,,,
+4968,PRSC.CI,,,,,,Morocco,
+4969,DFCU.UG,,,,,,Netherlands,
+4970,NVL.UG,,,,,,Uganda,
+4971,SWIS.TZ,,,,,,Switzerland,
+4972,TUC.NM,,,,,,Namibia,
+4973,COVI.MZ,,,,,,Mauritius,
+4974,TPL.MZ,,,,,,Mauritius,
+4975,SAIL.MZ,,,,,,,
+4976,AELZ.LZ,,,,,,South Africa,
+4977,PCL.MV,,,,110,,Malawi,Emerg. Mkts.
+4978,PCL.MV,,,,,,,
+4979,ANGM.MZ,,,,,,Mauritius,
+4980,BLL.MZ,,,,,,Mauritius,
+4981,QBL.MZ,,,,,,,
+4982,RHT.MZ,,,,,,Mauritius,
+4983,EUDC.MZ,,,,,,Mauritius,
+4984,SBC.MV,,,,,,South Africa,
+4985,BHL.MV,,,,,,Malawi,
+4986,NBM.MV,,,,,,Malawi,
+4987,TOL.TZ,,,,,,Tanzania,
+4988,GIL.MZ,,,,,,Mauritius,
+4989,LFL.MZ,,,,,,Mauritius,
+4990,MCOS.MZ,,,,,,Mauritius,
+4991,LMLC.MZ,,,,,,Mauritius,
+4992,CHSL.MZ,,,,,,Mauritius,
+4993,CIMO.MZ,,,,,,Mauritius,
+4994,SCT.MZ,,,,,,,
+4995,HTLS.MZ,,,,,,Mauritius,
+4996,MASC.MZ,,,,,,Mauritius,
+4997,ACC.MZ,,,,,,Mauritius,
+4998,ALTG.MZ,,,,,,Mauritius,
+4999,SBU.UG,,,,,,South Africa,
+5000,ZPI.ZI,,,,,,Zimbabwe,
+5001,ZECO.ZI,,,,,,Zimbabwe,
+5002,DCPL.MZ,,,,,,Mauritius,
+5003,ABCTRAN.LG,,,,,,Nigeria,
+5004,ASOSAVI.LG,,,,,,Nigeria,
+5005,CHIPLC.LG,,,,,,Nigeria,
+5006,DEAPCAP.LG,,,,,,Nigeria,
+5007,SUNUASSUR.LG,,,,,,Nigeria,
+5008,ENAMELW.LG,,,,,,Nigeria,
+5009,GOLDINS.LG,,,,,,Nigeria,
+5010,INTENEG.LG,,,,,,Nigeria,
+5011,NSLTECH.LG,,,,,,Nigeria,
+5012,PLATINU.LG,,,,,,Nigeria,
+5013,REDSTAR.LG,,,,,,Nigeria,
+5014,SFSREIT.LG,,,,,,Nigeria,
+5015,STACO.LG,,,,,,Nigeria,
+5016,UNITYBN.LG,,,,,,Nigeria,
+5017,UNIVINS.LG,,,,,,Nigeria,
+5018,CLIJ.J,,,,,,South Africa,
+5019,REGALIN.LG,,,,,,Nigeria,
+5020,GPLJ.J,,,,,,South Africa,
+5021,SCOM.NR,,,,,,Kenya,
+5022,ATEL.LZ,,,,,,India,
+5023,FIDSON.LG,,,,,,Nigeria,
+5024,GWEB.GH,,,,,,Ghana,
+5025,OMATEK.LG,,,,,,Nigeria,
+5026,GIVISAJ.J,,,,,,,
+5027,BIGTREA.LG,,,,,,Nigeria,
+5028,TANTALI.LG,,,,,,Nigeria,
+5029,STARCOM.LG,,,,,,Nigeria,
+5030,FTNCOCO.LG,,,,,,Nigeria,
+5031,OCCL.BT,,,,,,Kenya,
+5032,SGBC.CI,,,,,,France,
+5033,AIPJ.J,,,,,,South Africa,
+5034,CAPHOTE.LG,,,,,,Nigeria,
+5035,FBC.ZI,,,,,,Zimbabwe,
+5036,SSKJ.J,,,,,,South Africa,
+5037,CHAMS.LG,,,,,,Nigeria,
+5038,DAARCOM.LG,,,,,,Nigeria,
+5039,STXRAFJ.J,,,,,,,
+5040,MULTIVE.LG,,,,,,Nigeria,
+5041,FNBT40J.J,,,,,,,
+5042,ZGOVIJ.J^A14,,,,,,,
+5043,ZNCO.LZ,,,,,,Netherlands,
+5044,ABBEYBD.LG,,,,,,Nigeria,
+5045,NEWFSAJ.J^L19,,,,,,,
+5046,EELJ.J,16.7,1998-08-05T00:00:00Z,2665573,301,5035500422,South Africa,
+5047,EELJ.J,12.52,1998-08-05T00:00:00Z,2905240,301,5043432367,,
+5048,EELJ.J,4.18,1998-08-05T00:00:00Z,2642055,301,,,
+5049,EELJ.J,0.0,1998-08-05T00:00:00Z,3248410,303,,,
+5050,EELJ.J,0.0,1998-08-05T00:00:00Z,2675520,301,5055410695,,
+5051,EELJ.J,0.0,1998-08-05T00:00:00Z,2664748,301,5055412187,,
+5052,EELJ.J,,,3248410,107,,,
+5053,EELJ.J,,,2905240,107,,,
+5054,EELJ.J,,,2675520,201,,,
+5055,EELJ.J,,,2665573,113,,,
+5056,EELJ.J,,,2664748,113,,,
+5057,EELJ.J,,,2642055,,,,
+5058,EELJ.J,,,,,,,
+5059,EELJ.J,,,,,,,
+5060,EELJ.J,,,,,,,
+5061,EELJ.J,,,,,,,
+5062,EELJ.J,,,,,,,
+5063,EELJ.J,,,,,,,
+5064,EELJ.J,,,,,,,
+5065,EELJ.J,,,,,,,
+5066,EELJ.J,,,,,,,
+5067,EELJ.J,,,,,,,
+5068,AHLJ.J,,,,,,South Africa,
+5069,ASCE.MZ,,,,,,,
+5070,UTB.GH,,,,,,Ghana,
+5071,IHS.LG,,,,,,United Kingdom,
+5072,SFNJ.J,14.12,1998-08-03T00:00:00Z,2637186,301,4297902883,South Africa,Specialty
+5073,SFNJ.J,10.15,1998-08-03T00:00:00Z,2676461,301,5000854298,,Specialty
+5074,SFNJ.J,7.38,1998-08-03T00:00:00Z,2659174,301,5035507834,,
+5075,SFNJ.J,2.05,1998-08-03T00:00:00Z,2668724,107,48471680238,,
+5076,SFNJ.J,0.85,1998-12-31T00:00:00Z,2005217,113,,,
+5077,SFNJ.J,11.0,1997-01-31T00:00:00Z,2659174,301,5035507834,,
+5078,SFNJ.J,2.79,1997-01-31T00:00:00Z,2668724,113,48471680238,,
+5079,SFNJ.J,2.33,1997-12-31T00:00:00Z,2005217,113,,,
+5080,SFNJ.J,,,2676461,301,,,
+5081,SFNJ.J,,,2637186,301,,,
+5082,SFNJ.J,,,,113,,,
+5083,SFNJ.J,,,,,,,
+5084,SFNJ.J,,,,,,,
+5085,SFNJ.J,,,,,,,
+5086,SFNJ.J,,,,,,,
+5087,SFNJ.J,,,,,,,
+5088,SURJ.J,,,,,,South Africa,
+5089,WEZJ.J,,,,,,South Africa,
+5090,ARTJ.J,63.32,1998-08-03T00:00:00Z,5306066,302,4295888573,South Africa,
+5091,ARTJ.J,6.77,1998-08-03T00:00:00Z,2676461,301,5000854298,,
+5092,ARTJ.J,1.44,1998-08-03T00:00:00Z,3248418,113,,,
+5093,ARTJ.J,61.3,1997-01-31T00:00:00Z,5306066,113,4295888573,,
+5094,ARTJ.J,,,3248418,303,,,
+5095,ARTJ.J,,,2676461,107,,,
+5096,ARTJ.J,,,,302,,,
+5097,ARTJ.J,,,,,,,
+5098,ARTJ.J,,,,,,,
+5099,ARTJ.J,,,,,,,
+5100,ARTJ.J,,,,,,,
+5101,ARTJ.J,,,,,,,
+5102,AVVJ.J,,,,,,South Africa,
+5103,GMLJ.J,,,,,,Guernsey,
+5104,TREJ.J,47.36,1998-08-03T00:00:00Z,5243027,302,4295888975,South Africa,Specialty
+5105,TREJ.J,12.39,1998-08-03T00:00:00Z,2676461,113,5000854298,,Growth
+5106,TREJ.J,8.53,1998-08-03T00:00:00Z,2915245,301,4298106595,,Index
+5107,TREJ.J,1.4216,1998-06-30T00:00:00Z,2005211,113,,,Emerg. Mkts.
+5108,TREJ.J,0.0019,1998-12-31T00:00:00Z,2006038,302,,,Specialty
+5109,TREJ.J,0.0,1998-06-30T00:00:00Z,2003974,107,5000001140,,Emerg. Mkts.
+5110,TREJ.J,47.8627,1997-01-31T00:00:00Z,5243027,113,4295888975,,Core Growth
+5111,TREJ.J,0.2864,1997-03-31T00:00:00Z,2003974,110,5000001140,,
+5112,TREJ.J,0.0032,1997-12-31T00:00:00Z,2005211,113,,,Index
+5113,TREJ.J,0.0018,1997-12-31T00:00:00Z,2006038,107,,,Specialty
+5114,TREJ.J,,,2915245,113,,,Specialty
+5115,TREJ.J,,,2676461,302,,,Growth
+5116,TREJ.J,,,,113,,,Specialty
+5117,TREJ.J,,,,113,,,Index
+5118,TREJ.J,,,,113,,,Emerg. Mkts.
+5119,TREJ.J,,,,110,,,Specialty
+5120,TREJ.J,,,,113,,,Emerg. Mkts.
+5121,TREJ.J,,,,107,,,Core Growth
+5122,TREJ.J,,,,107,,,
+5123,TREJ.J,,,,,,,Index
+5124,TREJ.J,,,,,,,
+5125,TREJ.J,,,,,,,
+5126,OCEJ.J,50.3675,1998-08-03T00:00:00Z,2644308,301,,South Africa,Emerg. Mkts.
+5127,OCEJ.J,7.7144,1998-08-03T00:00:00Z,2676461,301,5000854298,,Specialty
+5128,OCEJ.J,4.2673,1998-06-30T00:00:00Z,2005211,107,,,Emerg. Mkts.
+5129,OCEJ.J,1.1907,1998-08-03T00:00:00Z,3248254,113,,,Specialty
+5130,OCEJ.J,0.0043,1998-12-31T00:00:00Z,2006038,107,,,
+5131,OCEJ.J,0.0,1997-12-31T00:00:00Z,2005217,303,,,
+5132,OCEJ.J,0.0,1998-06-30T00:00:00Z,2003974,113,5000001140,,
+5133,OCEJ.J,0.0427,1997-03-31T00:00:00Z,2003974,107,5000001140,,
+5134,OCEJ.J,0.001,1997-12-31T00:00:00Z,2006038,107,,,
+5135,OCEJ.J,0.0,1997-12-31T00:00:00Z,2005217,113,,,
+5136,OCEJ.J,0.0,1997-12-31T00:00:00Z,2005211,113,,,
+5137,OCEJ.J,,,3248254,113,,,
+5138,OCEJ.J,,,2676461,113,,,
+5139,OCEJ.J,,,2644308,113,,,
+5140,OCEJ.J,,,,107,,,
+5141,OCEJ.J,,,,107,,,
+5142,OCEJ.J,,,,113,,,
+5143,OCEJ.J,,,,113,,,
+5144,OCEJ.J,,,,107,,,
+5145,OCEJ.J,,,,,,,
+5146,OCEJ.J,,,,,,,
+5147,OCEJ.J,,,,,,,
+5148,OCEJ.J,,,,,,,
+5149,OCEJ.J,,,,,,,
+5150,OCTJ.J,,,,107,,South Africa,Specialty
+5151,OCTJ.J,,,,107,,,Specialty
+5152,OCTJ.J,,,,107,,,
+5153,OCTJ.J,,,,107,,,
+5154,NFSH40J.J,,,,,,,
+5155,ONTBF.CI,,,,,,Morocco,
+5156,VODJ.J,,,,,,United Kingdom,
+5157,FNBINFJ.J,,,,,,,
+5158,GIVFINJ.J^L19,,,,,,,
+5159,GIVINDJ.J^L19,,,,,,,
+5160,GIVRESJ.J^L19,,,,,,,
+5161,MTECH.LG,,,,,,Nigeria,
+5162,AFROMED.LG,,,,,,Nigeria,
+5163,CLSJ.J,32.1834,1998-08-03T00:00:00Z,2676461,301,5000854298,South Africa,Specialty
+5164,CLSJ.J,7.4893,1998-08-03T00:00:00Z,2637186,113,4297902883,,Emerg. Mkts.
+5165,CLSJ.J,6.9901,1998-08-03T00:00:00Z,2664844,301,48471685511,,Emerg. Mkts.
+5166,CLSJ.J,4.1536,1998-08-03T00:00:00Z,2637290,301,48471680717,,Emerg. Mkts.
+5167,CLSJ.J,1.8145,1998-08-03T00:00:00Z,2938719,301,5001196246,,Emerg. Mkts.
+5168,CLSJ.J,1.4771,1998-08-03T00:00:00Z,2684299,302,5001446208,,Growth
+5169,CLSJ.J,0.7462,1998-06-30T00:00:00Z,2005211,110,,,GARP
+5170,CLSJ.J,0.0411,1998-12-31T00:00:00Z,2003516,110,5000071982,,Growth
+5171,CLSJ.J,0.0078,1998-12-31T00:00:00Z,2006038,113,,,Emerg. Mkts.
+5172,CLSJ.J,0.0,1997-12-31T00:00:00Z,2005217,113,,,Emerg. Mkts.
+5173,CLSJ.J,0.0,1997-12-31T00:00:00Z,2005217,107,,,Emerg. Mkts.
+5174,CLSJ.J,,,2938719,113,,,Emerg. Mkts.
+5175,CLSJ.J,,,2684299,107,,,
+5176,CLSJ.J,,,2676461,113,,,Emerg. Mkts.
+5177,CLSJ.J,,,2664844,107,,,GARP
+5178,CLSJ.J,,,2637290,107,,,Yield
+5179,CLSJ.J,,,2637186,107,,,Emerg. Mkts.
+5180,CLSJ.J,,,2006038,101,,,Index
+5181,CLSJ.J,,,2005211,107,,,Emerg. Mkts.
+5182,CLSJ.J,,,2003516,113,,,Emerg. Mkts.
+5183,CLSJ.J,,,,107,,,Emerg. Mkts.
+5184,CLSJ.J,,,,113,,,Emerg. Mkts.
+5185,CLSJ.J,,,,113,,,Growth
+5186,CLSJ.J,,,,110,,,Emerg. Mkts.
+5187,CLSJ.J,,,,110,,,GARP
+5188,CLSJ.J,,,,113,,,Growth
+5189,CLSJ.J,,,,113,,,Emerg. Mkts.
+5190,CLSJ.J,,,,,,,Emerg. Mkts.
+5191,CLSJ.J,,,,,,,Index
+5192,CLSJ.J,,,,,,,Emerg. Mkts.
+5193,CLSJ.J,,,,,,,GARP
+5194,CLSJ.J,,,,,,,Yield
+5195,CLSJ.J,,,,,,,Emerg. Mkts.
+5196,CLSJ.J,,,,,,,Emerg. Mkts.
+5197,CLSJ.J,,,,,,,
+5198,CLSJ.J,,,,,,,
+5199,CLSJ.J,,,,,,,
+5200,CLSJ.J,,,,,,,
+5201,CLSJ.J,,,,,,,
+5202,CLSJ.J,,,,,,,
+5203,CLSJ.J,,,,,,,
+5204,CLSJ.J,,,,,,,
+5205,CLSJ.J,,,,,,,
+5206,CLSJ.J,,,,,,,
+5207,CLSJ.J,,,,,,,
+5208,CLSJ.J,,,,,,,
+5209,CLSJ.J,,,,,,,
+5210,CLSJ.J,,,,,,,
+5211,KRQTJ.J,,,,,,South Africa,
+5212,UNSE.MZ,,,,,,,
+5213,BKIJ.J,,,,,,,
+5214,COOP.NR,,,,,,Kenya,
+5215,SEPJ.J,,,,,,South Africa,
+5216,ETRANZA.LG,,,,,,,
+5217,MSPJ.J,,,,,,Isle of Man,
+5218,FGLJ.J,,,,,,South Africa,
+5219,FFBJ.J,,,,,,South Africa,
+5220,PORTPAI.LG,,,,,,Nigeria,
+5221,BECOPET.LG,,,,,,Nigeria,
+5222,BOC.NR,,,,,,United Kingdom,
+5223,MANSARD.LG,,,,,,France,
+5224,RESORTS.LG,,,,,,Nigeria,
+5225,AFRINSU.LG,,,,,,Nigeria,
+5226,VERITASKAP.LG,,,,,,Nigeria,
+5227,HONYFLO.LG,,,,,,Nigeria,
+5228,CSE.MZ,,,,,,Mauritius,
+5229,BBET40J.J^E16,,,,,,,
+5230,ETFT40J.J,,,,,,,
+5231,ETFSWXJ.J,,,,,,,
+5232,MAPPSGJ.J,,,,,,,
+5233,MAPPSPJ.J,,,,,,,
+5234,CSPROPJ.J,,,,,,,
+5235,BGREENJ.J^E16,,,,,,,
+5236,NFILBIJ.J,,,,,,,
+5237,NFSWIXJ.J^L19,,,,,,,
+5238,NFEMOMJ.J,,,,,,,
+5239,NFTRCIJ.J,,,,,,,
+5240,NFGOVIJ.J,,,,,,,
+5241,PREFTXJ.J,,,,,,,
+5242,MIWA.MZ,,,,,,Mauritius,
+5243,TIGZ.ZI,,,,,,Zimbabwe,
+5244,ORAC.CI,,,,,,France,

@@ -1,0 +1,12 @@
+		(1)
+VARIABLES	LABELS	3
+		
+companymarketcapitalization	(mean) companymarketcapitalization	0
+		(0)
+Constant	Constant	0.000652***
+		(2.01e-06)
+		
+Observations		6,120
+R-squared		0.670
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

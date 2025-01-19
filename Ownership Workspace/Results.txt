@@ -1,0 +1,18 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)
+VARIABLES	LABELS	Ln Revenue (USD)	Ln Net Income (USD)	PE Ratio	Market Cap (USD)	EPS (USD)	Stock Price	EPS (USD)	Stock Price
+									
+BelgiumInvestmentDummy5	BelgiumInvestmentDummy5	0.106	0.320	9.983	-9.426e+07	0.00534	-0.947	0.00534***	-0.947
+		(0.572)	(0.701)	(408.3)	(2.677e+09)	(3.058)	(5.015e+07)	(0.00187)	(0.981)
+chineseInvestmentDummy5	chineseInvestmentDummy5	0.312	0.690**	-10.18	-4.172e+07	0.0447	0.632	0.0447***	0.632*
+		(0.223)	(0.287)	(191.0)	(7.638e+08)	(1.126)	(2.079e+07)	(0.0100)	(0.366)
+IndiaInvestmentDummy5	IndiaInvestmentDummy5	-0.0625	-0.387	1.872	2.276e+08	0.00149	0.0622	0.00149	0.0622***
+		(0.438)	(0.534)	(370.1)	(1.702e+09)	(1.900)	(4.563e+07)	(0.00194)	(0.0184)
+HKInvestmentDummy5	HKInvestmentDummy5	1.281	-2.162**	30.76	7.479e+07	0.609	4.220	0.609	4.220
+		(0.800)	(1.060)	(605.3)	(1.216e+09)	(1.689)	(3.259e+07)	(0.665)	(3.727)
+Constant	Constant	18.87***	16.82***	41.20***	1.316e+09***	0.632***	1.574e+08***	0.632***	1.574e+08***
+		(0.0101)	(0.0136)	(8.168)	(3.353e+07)	(0.0558)	(866,745)	(0.00241)	(0.0245)
+									
+Observations		6,161	5,128	4,828	6,140	2,761	6,526	2,761	6,526
+R-squared		0.902	0.832	0.217	0.663	0.492	1.000	0.492	1.000
+Standard errors in parentheses									
+*** p<0.01, ** p<0.05, * p<0.1									
